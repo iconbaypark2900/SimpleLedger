@@ -47,4 +47,6 @@ public class Transaction {
     public void setVendor(String vendor) {
         this.vendor = vendor;
     }
+
+    // how to create an instance or single transaction
 }
