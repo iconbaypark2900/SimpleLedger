@@ -1,0 +1,1001 @@
+Date,Description,Vendor,Amount,Category
+2022-03-03,Electronics,Amazon,-745.98,Shopping
+2020-05-17,Clothing,Best Buy,-281.05,Apparel
+2022-05-17,Electronics,Amazon,-51.56,Shopping
+2020-06-13,Electronics,Amazon,-536.97,Shopping
+2022-06-12,Groceries,Walmart,-345.58,Groceries
+2022-07-08,Clothing,Best Buy,600.33,Apparel
+2020-04-08,Electronics,Amazon,-677.76,Shopping
+2022-07-28,Electronics,Amazon,298.62,Shopping
+2021-12-02,Groceries,Walmart,151.33,Groceries
+2020-04-18,Food,McDonald's,726.89,Dining
+2020-04-24,Groceries,Walmart,525.25,Groceries
+2022-07-01,Food,McDonald's,232.84,Dining
+2022-04-16,Electronics,Amazon,-735.94,Shopping
+2020-05-28,Electronics,Amazon,-839.76,Shopping
+2021-09-12,Food,McDonald's,419.91,Dining
+2020-08-25,Clothing,Best Buy,-847.69,Apparel
+2020-01-04,Clothing,Best Buy,815.95,Apparel
+2020-03-11,Food,McDonald's,102.21,Dining
+2020-10-03,Electronics,Amazon,-617.54,Shopping
+2022-08-02,Home,Target,-771.62,Home
+2021-10-28,Home,Target,-523.92,Home
+2021-05-12,Home,Target,876.9,Home
+2020-01-26,Electronics,Amazon,874.26,Shopping
+2022-04-22,Home,Target,-620.46,Home
+2022-04-21,Home,Target,-101.88,Home
+2022-11-08,Home,Target,761.94,Home
+2022-02-04,Home,Target,381.61,Home
+2020-06-05,Clothing,Best Buy,227.28,Apparel
+2022-09-05,Electronics,Amazon,-109.91,Shopping
+2021-09-20,Groceries,Walmart,-727.48,Groceries
+2022-08-10,Groceries,Walmart,921.31,Groceries
+2022-12-10,Electronics,Amazon,-460.72,Shopping
+2022-01-09,Home,Target,-638.77,Home
+2021-08-24,Home,Target,-875.49,Home
+2020-03-23,Home,Target,616.64,Home
+2021-03-16,Electronics,Amazon,543.87,Shopping
+2021-10-02,Food,McDonald's,764.41,Dining
+2020-09-04,Home,Target,906.31,Home
+2020-12-22,Food,McDonald's,-571.24,Dining
+2022-05-19,Electronics,Amazon,-295.02,Shopping
+2021-05-14,Home,Target,-592.75,Home
+2020-07-13,Clothing,Best Buy,-316.96,Apparel
+2022-12-09,Electronics,Amazon,421.55,Shopping
+2021-11-23,Clothing,Best Buy,-475.29,Apparel
+2022-06-18,Clothing,Best Buy,574.45,Apparel
+2020-04-13,Clothing,Best Buy,623.34,Apparel
+2020-04-17,Electronics,Amazon,469.38,Shopping
+2022-04-22,Home,Target,-439.67,Home
+2022-06-22,Clothing,Best Buy,-169.35,Apparel
+2021-12-15,Food,McDonald's,675.38,Dining
+2021-06-11,Home,Target,903.3,Home
+2022-12-07,Groceries,Walmart,965.91,Groceries
+2021-10-14,Home,Target,437.76,Home
+2020-10-23,Clothing,Best Buy,981.07,Apparel
+2021-01-22,Electronics,Amazon,-430.61,Shopping
+2020-07-27,Home,Target,-206.46,Home
+2021-07-12,Clothing,Best Buy,392.44,Apparel
+2020-01-01,Home,Target,538.98,Home
+2020-02-20,Groceries,Walmart,754.0,Groceries
+2022-07-09,Clothing,Best Buy,-803.71,Apparel
+2020-08-24,Clothing,Best Buy,846.39,Apparel
+2020-06-27,Food,McDonald's,437.07,Dining
+2021-01-21,Groceries,Walmart,-561.59,Groceries
+2020-02-06,Electronics,Amazon,-423.04,Shopping
+2022-10-04,Food,McDonald's,594.66,Dining
+2022-09-20,Food,McDonald's,-37.09,Dining
+2020-02-04,Groceries,Walmart,857.35,Groceries
+2022-11-22,Clothing,Best Buy,-265.3,Apparel
+2020-06-12,Electronics,Amazon,-144.07,Shopping
+2020-01-27,Electronics,Amazon,467.77,Shopping
+2021-06-20,Groceries,Walmart,-103.06,Groceries
+2022-03-13,Groceries,Walmart,-797.41,Groceries
+2021-08-02,Groceries,Walmart,-167.55,Groceries
+2021-11-02,Clothing,Best Buy,-982.46,Apparel
+2022-10-11,Clothing,Best Buy,137.72,Apparel
+2021-08-03,Home,Target,874.63,Home
+2022-12-22,Clothing,Best Buy,-191.94,Apparel
+2020-01-04,Food,McDonald's,-75.26,Dining
+2022-09-05,Clothing,Best Buy,395.33,Apparel
+2020-08-20,Home,Target,922.96,Home
+2022-02-25,Groceries,Walmart,110.71,Groceries
+2021-03-19,Food,McDonald's,-457.4,Dining
+2020-04-06,Groceries,Walmart,466.62,Groceries
+2020-11-22,Food,McDonald's,-839.21,Dining
+2022-08-07,Clothing,Best Buy,-981.75,Apparel
+2021-09-28,Electronics,Amazon,-63.51,Shopping
+2022-09-26,Groceries,Walmart,-790.29,Groceries
+2021-02-06,Food,McDonald's,126.76,Dining
+2022-02-13,Home,Target,354.97,Home
+2022-04-02,Electronics,Amazon,845.57,Shopping
+2021-07-10,Groceries,Walmart,210.78,Groceries
+2020-06-27,Groceries,Walmart,-628.92,Groceries
+2020-12-06,Electronics,Amazon,760.76,Shopping
+2022-02-05,Clothing,Best Buy,470.7,Apparel
+2021-07-26,Home,Target,-82.81,Home
+2021-03-14,Food,McDonald's,445.82,Dining
+2022-08-08,Electronics,Amazon,650.94,Shopping
+2022-11-28,Clothing,Best Buy,662.82,Apparel
+2022-04-25,Clothing,Best Buy,-573.09,Apparel
+2022-03-05,Clothing,Best Buy,687.57,Apparel
+2020-04-19,Home,Target,452.17,Home
+2021-08-18,Clothing,Best Buy,-625.28,Apparel
+2020-10-27,Groceries,Walmart,-306.44,Groceries
+2020-12-02,Clothing,Best Buy,-808.35,Apparel
+2020-10-21,Food,McDonald's,883.67,Dining
+2020-09-19,Electronics,Amazon,981.51,Shopping
+2021-10-24,Electronics,Amazon,-996.13,Shopping
+2020-05-07,Electronics,Amazon,714.16,Shopping
+2022-01-18,Clothing,Best Buy,-128.55,Apparel
+2021-09-04,Home,Target,999.57,Home
+2021-12-05,Electronics,Amazon,898.47,Shopping
+2022-08-08,Electronics,Amazon,663.09,Shopping
+2021-06-05,Clothing,Best Buy,-789.26,Apparel
+2022-12-13,Home,Target,-455.9,Home
+2020-07-05,Groceries,Walmart,789.48,Groceries
+2021-08-26,Clothing,Best Buy,-499.01,Apparel
+2021-01-24,Clothing,Best Buy,-666.85,Apparel
+2022-05-22,Groceries,Walmart,-735.26,Groceries
+2022-12-07,Groceries,Walmart,199.9,Groceries
+2021-11-22,Groceries,Walmart,-325.98,Groceries
+2022-12-15,Home,Target,-973.38,Home
+2020-08-25,Groceries,Walmart,282.01,Groceries
+2020-03-17,Groceries,Walmart,149.98,Groceries
+2022-03-18,Groceries,Walmart,309.77,Groceries
+2020-05-19,Electronics,Amazon,412.26,Shopping
+2020-05-04,Food,McDonald's,512.67,Dining
+2020-02-05,Electronics,Amazon,-600.01,Shopping
+2021-01-11,Clothing,Best Buy,-434.66,Apparel
+2021-05-25,Home,Target,-397.83,Home
+2022-05-28,Electronics,Amazon,529.62,Shopping
+2020-08-23,Electronics,Amazon,868.63,Shopping
+2021-07-10,Food,McDonald's,-262.96,Dining
+2021-04-24,Food,McDonald's,708.52,Dining
+2022-10-28,Groceries,Walmart,-641.36,Groceries
+2022-10-10,Electronics,Amazon,371.17,Shopping
+2020-04-21,Home,Target,-201.0,Home
+2022-07-03,Clothing,Best Buy,260.74,Apparel
+2022-09-26,Home,Target,-251.5,Home
+2021-09-06,Groceries,Walmart,40.97,Groceries
+2020-02-15,Food,McDonald's,-967.25,Dining
+2020-02-02,Clothing,Best Buy,154.65,Apparel
+2022-02-09,Home,Target,392.45,Home
+2020-08-13,Food,McDonald's,970.48,Dining
+2021-10-28,Clothing,Best Buy,231.71,Apparel
+2021-09-28,Groceries,Walmart,232.6,Groceries
+2022-03-09,Groceries,Walmart,-560.36,Groceries
+2021-12-25,Food,McDonald's,-151.68,Dining
+2021-08-17,Clothing,Best Buy,470.21,Apparel
+2022-03-18,Home,Target,-896.25,Home
+2021-01-16,Groceries,Walmart,-790.82,Groceries
+2021-03-09,Home,Target,511.94,Home
+2021-04-01,Electronics,Amazon,640.85,Shopping
+2020-07-18,Clothing,Best Buy,-329.93,Apparel
+2021-02-28,Clothing,Best Buy,54.3,Apparel
+2021-08-22,Groceries,Walmart,-638.74,Groceries
+2021-06-27,Groceries,Walmart,-603.57,Groceries
+2022-06-11,Food,McDonald's,655.67,Dining
+2020-02-05,Clothing,Best Buy,19.47,Apparel
+2022-04-21,Home,Target,-374.82,Home
+2021-10-16,Food,McDonald's,-208.7,Dining
+2022-04-19,Home,Target,-635.75,Home
+2022-05-14,Groceries,Walmart,211.4,Groceries
+2021-06-26,Clothing,Best Buy,338.26,Apparel
+2020-08-06,Groceries,Walmart,-754.52,Groceries
+2022-11-04,Electronics,Amazon,317.43,Shopping
+2021-06-10,Clothing,Best Buy,601.88,Apparel
+2022-01-12,Food,McDonald's,968.42,Dining
+2022-03-15,Groceries,Walmart,423.03,Groceries
+2021-01-06,Food,McDonald's,960.26,Dining
+2021-02-23,Food,McDonald's,-436.65,Dining
+2022-04-14,Home,Target,615.21,Home
+2022-05-27,Food,McDonald's,-879.08,Dining
+2022-12-15,Food,McDonald's,-989.9,Dining
+2022-11-11,Clothing,Best Buy,103.22,Apparel
+2022-03-26,Electronics,Amazon,478.53,Shopping
+2020-01-19,Groceries,Walmart,-144.57,Groceries
+2021-04-01,Groceries,Walmart,276.47,Groceries
+2020-02-14,Clothing,Best Buy,-90.46,Apparel
+2021-01-02,Electronics,Amazon,-806.15,Shopping
+2020-05-15,Clothing,Best Buy,-785.6,Apparel
+2021-07-26,Home,Target,-160.09,Home
+2022-03-13,Groceries,Walmart,-765.24,Groceries
+2021-01-11,Clothing,Best Buy,-942.68,Apparel
+2020-01-13,Clothing,Best Buy,143.82,Apparel
+2020-01-09,Clothing,Best Buy,-344.02,Apparel
+2022-08-08,Groceries,Walmart,-753.54,Groceries
+2022-12-09,Food,McDonald's,132.24,Dining
+2020-06-23,Groceries,Walmart,-859.2,Groceries
+2021-01-25,Electronics,Amazon,-899.64,Shopping
+2022-05-05,Food,McDonald's,361.39,Dining
+2021-12-10,Electronics,Amazon,630.62,Shopping
+2020-06-19,Electronics,Amazon,471.62,Shopping
+2020-06-18,Groceries,Walmart,-621.01,Groceries
+2021-08-21,Food,McDonald's,690.72,Dining
+2022-11-01,Clothing,Best Buy,-984.9,Apparel
+2022-09-12,Electronics,Amazon,656.95,Shopping
+2021-08-25,Home,Target,594.16,Home
+2020-04-24,Home,Target,378.1,Home
+2022-06-07,Groceries,Walmart,54.95,Groceries
+2022-11-15,Groceries,Walmart,-96.37,Groceries
+2021-02-28,Home,Target,-38.07,Home
+2020-02-28,Food,McDonald's,-449.28,Dining
+2021-12-11,Groceries,Walmart,26.4,Groceries
+2021-02-27,Food,McDonald's,-576.18,Dining
+2021-10-22,Food,McDonald's,755.66,Dining
+2020-05-15,Groceries,Walmart,986.31,Groceries
+2022-06-05,Home,Target,-479.92,Home
+2020-10-08,Home,Target,-741.53,Home
+2021-09-13,Groceries,Walmart,-63.5,Groceries
+2022-07-03,Food,McDonald's,147.55,Dining
+2020-03-25,Home,Target,-983.19,Home
+2022-06-20,Groceries,Walmart,-678.5,Groceries
+2020-09-26,Electronics,Amazon,-836.23,Shopping
+2022-10-26,Electronics,Amazon,-684.16,Shopping
+2020-03-22,Clothing,Best Buy,166.62,Apparel
+2021-03-05,Electronics,Amazon,-472.28,Shopping
+2022-03-09,Food,McDonald's,792.9,Dining
+2020-12-26,Electronics,Amazon,455.96,Shopping
+2022-08-10,Groceries,Walmart,-772.29,Groceries
+2020-04-10,Groceries,Walmart,-808.22,Groceries
+2020-06-02,Clothing,Best Buy,288.99,Apparel
+2022-02-06,Electronics,Amazon,896.08,Shopping
+2021-02-24,Clothing,Best Buy,-520.88,Apparel
+2022-06-07,Electronics,Amazon,-654.4,Shopping
+2020-01-03,Food,McDonald's,620.17,Dining
+2021-08-08,Groceries,Walmart,-125.32,Groceries
+2020-12-22,Home,Target,-387.38,Home
+2021-04-25,Groceries,Walmart,817.65,Groceries
+2022-05-15,Food,McDonald's,678.0,Dining
+2022-05-21,Electronics,Amazon,-488.1,Shopping
+2020-02-01,Electronics,Amazon,849.24,Shopping
+2021-11-26,Clothing,Best Buy,-639.48,Apparel
+2020-10-03,Food,McDonald's,997.76,Dining
+2020-11-13,Food,McDonald's,887.31,Dining
+2021-03-15,Electronics,Amazon,518.56,Shopping
+2020-01-15,Home,Target,761.09,Home
+2021-06-18,Food,McDonald's,-370.42,Dining
+2021-11-15,Food,McDonald's,-602.83,Dining
+2020-05-21,Food,McDonald's,881.75,Dining
+2022-06-17,Clothing,Best Buy,211.3,Apparel
+2021-02-15,Electronics,Amazon,-638.4,Shopping
+2021-04-20,Home,Target,22.37,Home
+2022-12-04,Electronics,Amazon,-600.31,Shopping
+2022-07-17,Home,Target,-785.88,Home
+2021-06-21,Electronics,Amazon,142.55,Shopping
+2021-04-09,Food,McDonald's,988.22,Dining
+2021-08-22,Home,Target,-534.5,Home
+2021-11-21,Groceries,Walmart,98.2,Groceries
+2020-12-27,Groceries,Walmart,-272.18,Groceries
+2021-04-25,Electronics,Amazon,260.03,Shopping
+2022-12-12,Home,Target,-440.89,Home
+2022-08-28,Electronics,Amazon,416.14,Shopping
+2020-06-15,Food,McDonald's,956.18,Dining
+2020-05-22,Clothing,Best Buy,-478.82,Apparel
+2021-12-01,Electronics,Amazon,-752.62,Shopping
+2021-09-24,Electronics,Amazon,240.1,Shopping
+2022-09-05,Electronics,Amazon,-894.91,Shopping
+2020-10-28,Clothing,Best Buy,-383.19,Apparel
+2020-03-28,Food,McDonald's,-807.09,Dining
+2021-05-04,Groceries,Walmart,-873.07,Groceries
+2020-04-18,Groceries,Walmart,623.62,Groceries
+2021-04-13,Groceries,Walmart,-367.59,Groceries
+2021-05-15,Clothing,Best Buy,-442.49,Apparel
+2021-11-02,Electronics,Amazon,550.52,Shopping
+2021-04-22,Clothing,Best Buy,-494.33,Apparel
+2022-01-26,Clothing,Best Buy,-433.34,Apparel
+2021-06-27,Groceries,Walmart,387.35,Groceries
+2020-09-20,Clothing,Best Buy,-850.57,Apparel
+2021-01-02,Electronics,Amazon,-750.84,Shopping
+2021-03-09,Food,McDonald's,352.6,Dining
+2020-05-02,Groceries,Walmart,-62.0,Groceries
+2022-09-21,Home,Target,-105.56,Home
+2022-01-02,Food,McDonald's,292.74,Dining
+2020-05-23,Clothing,Best Buy,-463.56,Apparel
+2021-01-03,Clothing,Best Buy,740.57,Apparel
+2021-06-15,Groceries,Walmart,-479.79,Groceries
+2020-12-16,Food,McDonald's,-807.63,Dining
+2020-08-10,Electronics,Amazon,925.25,Shopping
+2020-11-21,Groceries,Walmart,-398.49,Groceries
+2021-08-12,Clothing,Best Buy,-806.46,Apparel
+2020-12-01,Home,Target,-260.56,Home
+2022-03-22,Clothing,Best Buy,492.9,Apparel
+2021-12-28,Groceries,Walmart,-456.69,Groceries
+2022-07-15,Groceries,Walmart,462.12,Groceries
+2020-02-09,Electronics,Amazon,-121.34,Shopping
+2021-08-26,Groceries,Walmart,-840.85,Groceries
+2021-04-05,Home,Target,-66.47,Home
+2021-12-28,Food,McDonald's,-127.2,Dining
+2021-03-19,Food,McDonald's,-710.14,Dining
+2022-05-19,Clothing,Best Buy,-0.39,Apparel
+2022-07-03,Clothing,Best Buy,-625.36,Apparel
+2021-04-23,Food,McDonald's,-596.36,Dining
+2020-07-09,Clothing,Best Buy,-926.15,Apparel
+2022-08-01,Food,McDonald's,-840.57,Dining
+2022-06-16,Electronics,Amazon,744.29,Shopping
+2021-11-01,Electronics,Amazon,-757.8,Shopping
+2021-05-22,Groceries,Walmart,-101.23,Groceries
+2022-07-22,Clothing,Best Buy,473.66,Apparel
+2021-12-09,Home,Target,177.14,Home
+2021-02-19,Clothing,Best Buy,335.27,Apparel
+2022-10-06,Clothing,Best Buy,355.14,Apparel
+2021-11-20,Home,Target,409.79,Home
+2022-03-16,Food,McDonald's,-966.18,Dining
+2021-07-22,Food,McDonald's,-697.17,Dining
+2020-01-28,Groceries,Walmart,-202.6,Groceries
+2022-08-09,Food,McDonald's,-157.34,Dining
+2021-02-02,Home,Target,120.49,Home
+2021-01-07,Clothing,Best Buy,-318.42,Apparel
+2022-02-06,Electronics,Amazon,-648.95,Shopping
+2021-03-17,Home,Target,-431.79,Home
+2022-05-17,Groceries,Walmart,772.95,Groceries
+2021-04-21,Groceries,Walmart,693.25,Groceries
+2020-07-03,Food,McDonald's,-663.23,Dining
+2022-07-18,Electronics,Amazon,-885.81,Shopping
+2021-12-28,Clothing,Best Buy,-569.64,Apparel
+2021-06-20,Clothing,Best Buy,-2.93,Apparel
+2020-05-24,Electronics,Amazon,355.73,Shopping
+2022-03-25,Home,Target,-456.34,Home
+2022-08-10,Groceries,Walmart,-930.19,Groceries
+2022-10-04,Groceries,Walmart,98.94,Groceries
+2020-05-04,Clothing,Best Buy,-505.61,Apparel
+2022-12-13,Electronics,Amazon,-586.8,Shopping
+2021-12-11,Electronics,Amazon,505.17,Shopping
+2021-07-11,Food,McDonald's,31.26,Dining
+2021-10-19,Groceries,Walmart,-685.72,Groceries
+2021-01-10,Groceries,Walmart,444.6,Groceries
+2022-11-03,Groceries,Walmart,732.75,Groceries
+2020-05-21,Electronics,Amazon,150.37,Shopping
+2020-11-26,Clothing,Best Buy,-694.83,Apparel
+2022-10-01,Home,Target,-529.41,Home
+2022-10-21,Clothing,Best Buy,-85.57,Apparel
+2020-05-28,Food,McDonald's,-244.06,Dining
+2021-11-21,Home,Target,486.98,Home
+2021-04-22,Food,McDonald's,830.61,Dining
+2021-06-18,Clothing,Best Buy,-730.06,Apparel
+2022-07-19,Clothing,Best Buy,-875.92,Apparel
+2020-09-23,Food,McDonald's,-935.09,Dining
+2022-04-14,Home,Target,-778.31,Home
+2022-07-05,Food,McDonald's,421.91,Dining
+2021-05-19,Home,Target,-661.24,Home
+2022-08-12,Electronics,Amazon,-458.85,Shopping
+2021-11-12,Electronics,Amazon,77.19,Shopping
+2022-01-23,Food,McDonald's,309.92,Dining
+2020-12-23,Clothing,Best Buy,919.88,Apparel
+2022-03-03,Food,McDonald's,863.08,Dining
+2022-03-12,Groceries,Walmart,929.17,Groceries
+2020-11-28,Clothing,Best Buy,262.9,Apparel
+2021-01-01,Home,Target,610.34,Home
+2022-09-04,Clothing,Best Buy,-979.22,Apparel
+2022-10-20,Electronics,Amazon,-890.38,Shopping
+2021-10-12,Clothing,Best Buy,249.19,Apparel
+2022-12-24,Electronics,Amazon,396.01,Shopping
+2021-04-08,Food,McDonald's,285.64,Dining
+2020-11-06,Food,McDonald's,353.75,Dining
+2020-02-08,Electronics,Amazon,-218.51,Shopping
+2021-07-02,Food,McDonald's,839.01,Dining
+2022-08-08,Clothing,Best Buy,621.73,Apparel
+2020-05-13,Food,McDonald's,-685.53,Dining
+2022-06-03,Clothing,Best Buy,128.28,Apparel
+2021-03-15,Electronics,Amazon,-93.5,Shopping
+2022-10-26,Groceries,Walmart,-604.85,Groceries
+2021-03-13,Groceries,Walmart,289.48,Groceries
+2021-10-05,Electronics,Amazon,-590.62,Shopping
+2021-03-02,Electronics,Amazon,-680.04,Shopping
+2020-11-07,Groceries,Walmart,669.86,Groceries
+2020-12-25,Clothing,Best Buy,57.84,Apparel
+2022-11-19,Groceries,Walmart,-863.96,Groceries
+2020-05-21,Food,McDonald's,234.37,Dining
+2021-03-11,Home,Target,-551.79,Home
+2022-01-17,Groceries,Walmart,-477.93,Groceries
+2021-11-07,Groceries,Walmart,-763.54,Groceries
+2021-04-28,Home,Target,-276.2,Home
+2020-01-01,Food,McDonald's,-306.85,Dining
+2022-06-12,Electronics,Amazon,84.61,Shopping
+2020-12-23,Groceries,Walmart,804.32,Groceries
+2021-08-17,Groceries,Walmart,-201.56,Groceries
+2021-06-25,Clothing,Best Buy,743.09,Apparel
+2020-03-02,Electronics,Amazon,109.82,Shopping
+2020-05-09,Groceries,Walmart,-724.43,Groceries
+2020-09-16,Clothing,Best Buy,851.66,Apparel
+2020-04-14,Food,McDonald's,965.51,Dining
+2020-04-27,Food,McDonald's,947.13,Dining
+2020-11-05,Electronics,Amazon,-306.28,Shopping
+2022-01-12,Groceries,Walmart,129.93,Groceries
+2020-07-13,Home,Target,354.0,Home
+2020-03-02,Electronics,Amazon,-126.77,Shopping
+2022-08-08,Clothing,Best Buy,-417.19,Apparel
+2022-12-05,Electronics,Amazon,234.98,Shopping
+2022-08-27,Food,McDonald's,-888.47,Dining
+2022-06-23,Electronics,Amazon,373.83,Shopping
+2020-01-18,Home,Target,41.07,Home
+2022-04-17,Clothing,Best Buy,-317.25,Apparel
+2022-04-10,Groceries,Walmart,502.84,Groceries
+2020-06-21,Electronics,Amazon,641.77,Shopping
+2021-02-18,Electronics,Amazon,-104.53,Shopping
+2021-05-12,Clothing,Best Buy,116.12,Apparel
+2022-07-02,Electronics,Amazon,-728.91,Shopping
+2021-02-21,Groceries,Walmart,-253.26,Groceries
+2021-09-04,Food,McDonald's,579.21,Dining
+2020-01-19,Home,Target,439.96,Home
+2021-02-14,Home,Target,-639.93,Home
+2020-03-19,Electronics,Amazon,-725.64,Shopping
+2021-06-07,Groceries,Walmart,-316.01,Groceries
+2022-09-03,Home,Target,-544.66,Home
+2021-10-03,Food,McDonald's,951.33,Dining
+2020-02-10,Clothing,Best Buy,776.76,Apparel
+2020-01-07,Home,Target,359.23,Home
+2021-10-20,Groceries,Walmart,753.36,Groceries
+2022-02-24,Electronics,Amazon,736.16,Shopping
+2021-10-22,Clothing,Best Buy,-12.55,Apparel
+2020-12-06,Home,Target,-980.78,Home
+2022-08-10,Groceries,Walmart,-142.12,Groceries
+2020-10-05,Groceries,Walmart,318.2,Groceries
+2020-03-10,Electronics,Amazon,-639.4,Shopping
+2022-08-19,Groceries,Walmart,418.84,Groceries
+2021-11-13,Home,Target,-576.69,Home
+2022-11-19,Groceries,Walmart,-614.18,Groceries
+2022-01-26,Food,McDonald's,-774.45,Dining
+2020-04-02,Food,McDonald's,-216.33,Dining
+2021-08-01,Electronics,Amazon,909.8,Shopping
+2021-06-19,Electronics,Amazon,-420.97,Shopping
+2021-04-27,Home,Target,-288.26,Home
+2021-03-25,Clothing,Best Buy,538.89,Apparel
+2022-04-28,Electronics,Amazon,664.33,Shopping
+2021-08-08,Electronics,Amazon,419.04,Shopping
+2021-04-08,Clothing,Best Buy,878.14,Apparel
+2020-03-02,Clothing,Best Buy,-456.76,Apparel
+2021-02-04,Home,Target,-846.2,Home
+2020-09-17,Home,Target,-277.1,Home
+2022-06-14,Groceries,Walmart,234.1,Groceries
+2020-08-21,Food,McDonald's,356.33,Dining
+2022-04-06,Electronics,Amazon,520.91,Shopping
+2022-07-19,Groceries,Walmart,-382.06,Groceries
+2022-05-24,Electronics,Amazon,846.51,Shopping
+2021-02-16,Electronics,Amazon,-870.06,Shopping
+2020-07-22,Groceries,Walmart,-911.37,Groceries
+2022-07-02,Groceries,Walmart,374.24,Groceries
+2021-11-03,Home,Target,619.28,Home
+2020-01-15,Food,McDonald's,578.72,Dining
+2020-03-14,Electronics,Amazon,-479.84,Shopping
+2021-06-24,Electronics,Amazon,-787.21,Shopping
+2022-07-23,Clothing,Best Buy,-589.93,Apparel
+2022-12-28,Groceries,Walmart,545.49,Groceries
+2020-07-21,Home,Target,476.61,Home
+2022-08-21,Home,Target,-786.78,Home
+2021-01-18,Electronics,Amazon,545.39,Shopping
+2021-12-06,Food,McDonald's,972.77,Dining
+2022-08-10,Home,Target,-708.17,Home
+2021-06-23,Clothing,Best Buy,629.62,Apparel
+2022-10-08,Groceries,Walmart,433.03,Groceries
+2022-07-27,Electronics,Amazon,615.23,Shopping
+2020-09-02,Clothing,Best Buy,961.59,Apparel
+2020-09-03,Food,McDonald's,662.17,Dining
+2022-09-05,Home,Target,613.74,Home
+2021-11-08,Clothing,Best Buy,-751.16,Apparel
+2022-09-13,Groceries,Walmart,-756.97,Groceries
+2022-10-28,Clothing,Best Buy,-894.57,Apparel
+2021-06-08,Groceries,Walmart,-453.8,Groceries
+2021-05-05,Home,Target,-628.47,Home
+2021-03-28,Electronics,Amazon,-668.0,Shopping
+2021-06-14,Groceries,Walmart,-486.38,Groceries
+2021-01-13,Electronics,Amazon,174.18,Shopping
+2020-12-28,Food,McDonald's,303.89,Dining
+2022-10-15,Electronics,Amazon,420.54,Shopping
+2021-12-08,Home,Target,374.57,Home
+2021-11-26,Groceries,Walmart,-74.17,Groceries
+2022-12-11,Food,McDonald's,-36.74,Dining
+2020-10-15,Electronics,Amazon,-267.54,Shopping
+2020-01-22,Food,McDonald's,-271.44,Dining
+2022-03-26,Electronics,Amazon,-112.11,Shopping
+2021-04-28,Clothing,Best Buy,155.34,Apparel
+2021-03-10,Electronics,Amazon,-642.07,Shopping
+2022-12-07,Electronics,Amazon,-923.1,Shopping
+2021-05-06,Home,Target,867.37,Home
+2020-04-20,Home,Target,507.13,Home
+2021-04-26,Home,Target,-818.85,Home
+2020-08-06,Home,Target,469.23,Home
+2020-12-11,Clothing,Best Buy,-790.9,Apparel
+2020-06-14,Home,Target,-60.75,Home
+2022-06-21,Groceries,Walmart,261.04,Groceries
+2021-05-26,Food,McDonald's,-57.47,Dining
+2022-08-23,Home,Target,-642.19,Home
+2021-01-04,Home,Target,-926.17,Home
+2022-03-25,Groceries,Walmart,-97.34,Groceries
+2021-03-18,Clothing,Best Buy,496.1,Apparel
+2020-07-03,Home,Target,-434.88,Home
+2020-05-22,Electronics,Amazon,-408.71,Shopping
+2020-07-28,Home,Target,-229.04,Home
+2021-08-21,Groceries,Walmart,-795.73,Groceries
+2020-07-23,Food,McDonald's,-661.29,Dining
+2021-12-22,Electronics,Amazon,-894.57,Shopping
+2020-01-21,Electronics,Amazon,922.79,Shopping
+2020-05-16,Electronics,Amazon,80.74,Shopping
+2021-08-26,Food,McDonald's,873.84,Dining
+2021-03-06,Home,Target,-558.53,Home
+2022-11-08,Clothing,Best Buy,-983.98,Apparel
+2020-10-20,Groceries,Walmart,-990.13,Groceries
+2021-06-12,Electronics,Amazon,534.78,Shopping
+2022-06-27,Clothing,Best Buy,253.82,Apparel
+2022-01-26,Clothing,Best Buy,590.02,Apparel
+2020-09-11,Electronics,Amazon,873.08,Shopping
+2021-06-06,Groceries,Walmart,603.92,Groceries
+2021-03-20,Clothing,Best Buy,633.74,Apparel
+2021-10-18,Groceries,Walmart,802.44,Groceries
+2020-12-26,Clothing,Best Buy,-642.33,Apparel
+2020-05-03,Food,McDonald's,84.99,Dining
+2022-07-12,Electronics,Amazon,633.29,Shopping
+2021-07-15,Home,Target,-69.03,Home
+2020-12-13,Home,Target,-888.95,Home
+2021-02-07,Home,Target,-39.34,Home
+2022-12-23,Groceries,Walmart,-223.6,Groceries
+2021-11-11,Electronics,Amazon,836.12,Shopping
+2021-11-24,Groceries,Walmart,-784.59,Groceries
+2020-10-25,Groceries,Walmart,-43.25,Groceries
+2022-11-15,Groceries,Walmart,597.98,Groceries
+2022-08-18,Food,McDonald's,832.96,Dining
+2021-08-04,Groceries,Walmart,587.09,Groceries
+2022-05-15,Electronics,Amazon,722.69,Shopping
+2021-03-03,Food,McDonald's,679.84,Dining
+2022-06-21,Clothing,Best Buy,-862.48,Apparel
+2022-03-04,Food,McDonald's,-650.92,Dining
+2022-03-04,Groceries,Walmart,-969.98,Groceries
+2021-11-02,Home,Target,854.02,Home
+2021-09-23,Food,McDonald's,-392.45,Dining
+2022-08-08,Clothing,Best Buy,447.6,Apparel
+2021-01-26,Groceries,Walmart,608.85,Groceries
+2021-10-04,Food,McDonald's,104.26,Dining
+2022-10-08,Home,Target,141.82,Home
+2022-02-08,Food,McDonald's,-459.81,Dining
+2022-11-23,Home,Target,-285.75,Home
+2021-02-02,Food,McDonald's,291.34,Dining
+2021-01-09,Home,Target,-43.03,Home
+2020-03-09,Home,Target,-564.53,Home
+2021-09-19,Groceries,Walmart,420.96,Groceries
+2021-07-25,Groceries,Walmart,-366.04,Groceries
+2022-03-05,Electronics,Amazon,377.91,Shopping
+2021-06-14,Groceries,Walmart,350.26,Groceries
+2020-06-19,Groceries,Walmart,-964.59,Groceries
+2020-04-20,Groceries,Walmart,219.3,Groceries
+2022-07-20,Electronics,Amazon,-71.34,Shopping
+2021-04-08,Groceries,Walmart,124.54,Groceries
+2020-11-13,Clothing,Best Buy,453.35,Apparel
+2020-05-25,Groceries,Walmart,-590.87,Groceries
+2020-10-18,Home,Target,400.68,Home
+2020-10-03,Clothing,Best Buy,329.54,Apparel
+2020-03-08,Electronics,Amazon,182.47,Shopping
+2020-09-18,Groceries,Walmart,-84.64,Groceries
+2020-06-22,Food,McDonald's,-217.68,Dining
+2022-06-27,Clothing,Best Buy,-427.9,Apparel
+2022-09-01,Home,Target,84.61,Home
+2020-10-14,Electronics,Amazon,-359.55,Shopping
+2020-11-10,Electronics,Amazon,874.81,Shopping
+2020-01-08,Home,Target,587.2,Home
+2020-07-13,Food,McDonald's,900.95,Dining
+2021-05-16,Home,Target,112.45,Home
+2022-09-27,Clothing,Best Buy,-262.49,Apparel
+2022-06-13,Clothing,Best Buy,-704.64,Apparel
+2020-03-08,Home,Target,556.33,Home
+2021-10-23,Home,Target,-190.85,Home
+2020-05-01,Clothing,Best Buy,147.5,Apparel
+2022-03-14,Home,Target,-516.62,Home
+2021-02-02,Clothing,Best Buy,-600.74,Apparel
+2022-10-28,Groceries,Walmart,806.7,Groceries
+2020-01-22,Home,Target,-533.57,Home
+2021-09-27,Electronics,Amazon,824.42,Shopping
+2021-07-04,Clothing,Best Buy,270.2,Apparel
+2020-07-12,Home,Target,61.26,Home
+2022-11-21,Groceries,Walmart,-54.21,Groceries
+2021-04-03,Electronics,Amazon,-846.04,Shopping
+2020-08-08,Clothing,Best Buy,197.73,Apparel
+2020-05-11,Food,McDonald's,15.02,Dining
+2021-12-11,Home,Target,206.8,Home
+2020-07-20,Home,Target,239.34,Home
+2020-10-04,Home,Target,-832.7,Home
+2021-02-04,Groceries,Walmart,-470.83,Groceries
+2022-09-28,Clothing,Best Buy,327.43,Apparel
+2021-10-06,Groceries,Walmart,-189.42,Groceries
+2020-03-25,Groceries,Walmart,255.97,Groceries
+2022-07-08,Clothing,Best Buy,282.97,Apparel
+2022-08-24,Home,Target,130.07,Home
+2021-09-03,Groceries,Walmart,845.61,Groceries
+2022-02-08,Electronics,Amazon,259.47,Shopping
+2022-08-26,Food,McDonald's,55.62,Dining
+2022-07-11,Groceries,Walmart,-361.91,Groceries
+2020-01-27,Electronics,Amazon,406.87,Shopping
+2021-07-04,Clothing,Best Buy,842.33,Apparel
+2020-05-01,Groceries,Walmart,-4.43,Groceries
+2020-06-07,Food,McDonald's,544.61,Dining
+2022-12-12,Food,McDonald's,554.31,Dining
+2020-07-16,Food,McDonald's,-524.64,Dining
+2022-10-04,Electronics,Amazon,-205.83,Shopping
+2021-10-26,Groceries,Walmart,89.9,Groceries
+2020-12-20,Food,McDonald's,-965.28,Dining
+2022-12-04,Home,Target,572.9,Home
+2020-11-03,Home,Target,-486.31,Home
+2021-02-17,Food,McDonald's,-433.2,Dining
+2020-05-11,Electronics,Amazon,-222.08,Shopping
+2021-11-28,Home,Target,799.41,Home
+2020-02-22,Home,Target,-337.38,Home
+2020-08-13,Clothing,Best Buy,-207.09,Apparel
+2022-07-28,Groceries,Walmart,-431.66,Groceries
+2022-10-14,Clothing,Best Buy,-894.12,Apparel
+2020-10-03,Clothing,Best Buy,15.45,Apparel
+2020-09-26,Groceries,Walmart,-328.3,Groceries
+2022-12-15,Home,Target,-337.69,Home
+2020-03-11,Clothing,Best Buy,-372.35,Apparel
+2022-02-08,Electronics,Amazon,500.38,Shopping
+2020-10-22,Electronics,Amazon,-271.25,Shopping
+2021-01-23,Food,McDonald's,-477.4,Dining
+2020-03-02,Groceries,Walmart,229.18,Groceries
+2021-03-09,Clothing,Best Buy,-222.29,Apparel
+2022-07-14,Clothing,Best Buy,887.35,Apparel
+2020-01-14,Clothing,Best Buy,-883.04,Apparel
+2020-09-04,Electronics,Amazon,822.85,Shopping
+2020-12-04,Home,Target,-528.12,Home
+2021-11-28,Electronics,Amazon,567.52,Shopping
+2020-05-20,Electronics,Amazon,-94.72,Shopping
+2021-09-03,Groceries,Walmart,555.57,Groceries
+2022-10-01,Clothing,Best Buy,83.89,Apparel
+2022-03-16,Electronics,Amazon,-327.03,Shopping
+2021-10-05,Home,Target,941.89,Home
+2021-12-14,Food,McDonald's,-546.26,Dining
+2022-09-27,Clothing,Best Buy,708.89,Apparel
+2022-04-04,Food,McDonald's,-364.31,Dining
+2021-02-24,Groceries,Walmart,304.69,Groceries
+2022-01-13,Home,Target,-722.94,Home
+2022-12-12,Clothing,Best Buy,237.69,Apparel
+2021-04-28,Electronics,Amazon,-845.04,Shopping
+2020-08-20,Home,Target,198.41,Home
+2021-10-21,Groceries,Walmart,-64.3,Groceries
+2021-03-07,Groceries,Walmart,84.68,Groceries
+2022-10-11,Groceries,Walmart,-130.46,Groceries
+2022-08-24,Home,Target,595.71,Home
+2020-11-23,Home,Target,911.58,Home
+2020-05-01,Food,McDonald's,812.31,Dining
+2022-03-11,Home,Target,844.68,Home
+2022-10-28,Electronics,Amazon,-712.42,Shopping
+2021-10-02,Groceries,Walmart,-820.9,Groceries
+2022-12-07,Clothing,Best Buy,-250.89,Apparel
+2020-09-17,Electronics,Amazon,226.33,Shopping
+2022-05-04,Food,McDonald's,-609.54,Dining
+2021-01-07,Groceries,Walmart,-22.35,Groceries
+2020-07-22,Home,Target,699.9,Home
+2022-06-10,Groceries,Walmart,77.28,Groceries
+2022-01-12,Food,McDonald's,183.24,Dining
+2021-07-13,Clothing,Best Buy,-439.42,Apparel
+2021-03-25,Food,McDonald's,278.13,Dining
+2022-03-16,Food,McDonald's,-25.31,Dining
+2021-06-06,Electronics,Amazon,868.19,Shopping
+2021-11-05,Home,Target,270.26,Home
+2022-02-02,Clothing,Best Buy,524.89,Apparel
+2020-02-26,Home,Target,518.99,Home
+2020-07-23,Home,Target,199.59,Home
+2021-11-09,Food,McDonald's,848.84,Dining
+2022-10-10,Clothing,Best Buy,648.64,Apparel
+2022-12-14,Electronics,Amazon,272.39,Shopping
+2022-06-22,Food,McDonald's,-174.83,Dining
+2020-12-25,Home,Target,-853.07,Home
+2022-05-18,Food,McDonald's,-487.57,Dining
+2021-08-20,Electronics,Amazon,844.61,Shopping
+2022-05-04,Home,Target,-13.61,Home
+2021-09-13,Groceries,Walmart,-837.02,Groceries
+2020-12-17,Clothing,Best Buy,-61.73,Apparel
+2021-11-27,Home,Target,913.25,Home
+2021-05-14,Clothing,Best Buy,-773.24,Apparel
+2021-12-20,Food,McDonald's,-968.53,Dining
+2021-03-08,Food,McDonald's,286.48,Dining
+2020-09-13,Home,Target,-142.66,Home
+2022-04-21,Groceries,Walmart,424.02,Groceries
+2022-03-21,Electronics,Amazon,331.5,Shopping
+2021-12-12,Clothing,Best Buy,419.29,Apparel
+2020-12-03,Home,Target,-878.68,Home
+2021-05-12,Electronics,Amazon,414.22,Shopping
+2022-04-28,Clothing,Best Buy,-684.07,Apparel
+2022-10-28,Food,McDonald's,686.07,Dining
+2022-11-10,Electronics,Amazon,-538.48,Shopping
+2020-05-08,Food,McDonald's,-669.12,Dining
+2021-10-03,Clothing,Best Buy,734.8,Apparel
+2021-01-15,Home,Target,-821.98,Home
+2022-07-16,Food,McDonald's,-514.54,Dining
+2022-11-11,Electronics,Amazon,422.89,Shopping
+2022-04-09,Home,Target,170.99,Home
+2020-09-15,Clothing,Best Buy,665.18,Apparel
+2022-04-03,Groceries,Walmart,399.14,Groceries
+2020-03-18,Groceries,Walmart,-294.78,Groceries
+2020-03-12,Home,Target,-571.02,Home
+2021-09-06,Home,Target,-14.77,Home
+2021-01-17,Electronics,Amazon,-233.08,Shopping
+2022-12-24,Groceries,Walmart,-361.74,Groceries
+2022-09-13,Groceries,Walmart,119.67,Groceries
+2022-01-02,Home,Target,-491.86,Home
+2020-05-25,Electronics,Amazon,-279.49,Shopping
+2021-05-04,Food,McDonald's,367.83,Dining
+2022-12-08,Electronics,Amazon,-102.39,Shopping
+2022-12-15,Groceries,Walmart,-319.25,Groceries
+2022-11-22,Clothing,Best Buy,-480.99,Apparel
+2021-11-12,Home,Target,448.28,Home
+2020-12-22,Food,McDonald's,851.47,Dining
+2021-04-15,Home,Target,150.34,Home
+2020-08-27,Groceries,Walmart,77.78,Groceries
+2020-09-23,Home,Target,547.49,Home
+2021-10-03,Groceries,Walmart,81.4,Groceries
+2020-05-18,Home,Target,946.86,Home
+2020-05-27,Electronics,Amazon,587.56,Shopping
+2020-05-03,Home,Target,-938.31,Home
+2021-07-18,Electronics,Amazon,145.42,Shopping
+2021-02-11,Electronics,Amazon,887.31,Shopping
+2020-02-03,Electronics,Amazon,-976.55,Shopping
+2020-05-23,Food,McDonald's,861.54,Dining
+2022-11-18,Food,McDonald's,-46.65,Dining
+2020-05-05,Groceries,Walmart,295.02,Groceries
+2022-07-23,Groceries,Walmart,934.43,Groceries
+2020-11-05,Electronics,Amazon,-660.1,Shopping
+2022-07-28,Electronics,Amazon,-456.7,Shopping
+2021-07-27,Food,McDonald's,577.98,Dining
+2020-11-21,Electronics,Amazon,988.56,Shopping
+2021-06-19,Home,Target,68.04,Home
+2021-05-13,Clothing,Best Buy,448.0,Apparel
+2020-05-10,Electronics,Amazon,979.3,Shopping
+2021-05-07,Clothing,Best Buy,356.24,Apparel
+2021-10-16,Food,McDonald's,710.37,Dining
+2020-03-21,Clothing,Best Buy,-653.01,Apparel
+2022-05-16,Groceries,Walmart,759.54,Groceries
+2022-10-03,Clothing,Best Buy,-347.49,Apparel
+2020-08-26,Food,McDonald's,637.52,Dining
+2021-07-12,Food,McDonald's,-535.76,Dining
+2020-07-08,Home,Target,-388.26,Home
+2021-09-26,Clothing,Best Buy,371.28,Apparel
+2021-08-09,Food,McDonald's,577.26,Dining
+2022-10-06,Clothing,Best Buy,-822.41,Apparel
+2021-01-26,Groceries,Walmart,940.64,Groceries
+2020-01-08,Home,Target,907.02,Home
+2022-05-14,Home,Target,-333.99,Home
+2022-12-03,Groceries,Walmart,-433.9,Groceries
+2022-10-19,Clothing,Best Buy,215.43,Apparel
+2021-12-16,Home,Target,861.74,Home
+2020-09-02,Home,Target,154.47,Home
+2020-08-18,Home,Target,468.73,Home
+2022-03-17,Clothing,Best Buy,785.35,Apparel
+2020-10-03,Groceries,Walmart,-469.18,Groceries
+2020-09-04,Clothing,Best Buy,-468.45,Apparel
+2022-07-14,Clothing,Best Buy,-465.73,Apparel
+2020-05-12,Home,Target,-79.5,Home
+2022-07-15,Groceries,Walmart,506.05,Groceries
+2022-02-19,Electronics,Amazon,-700.46,Shopping
+2020-06-07,Electronics,Amazon,-167.86,Shopping
+2021-04-08,Food,McDonald's,-811.59,Dining
+2020-05-23,Home,Target,934.75,Home
+2021-02-01,Home,Target,-376.33,Home
+2021-09-02,Clothing,Best Buy,399.73,Apparel
+2022-06-14,Home,Target,863.04,Home
+2022-01-28,Clothing,Best Buy,-321.53,Apparel
+2020-12-14,Groceries,Walmart,211.24,Groceries
+2022-05-20,Food,McDonald's,-286.12,Dining
+2022-06-25,Food,McDonald's,853.28,Dining
+2022-05-10,Groceries,Walmart,-231.52,Groceries
+2021-04-05,Clothing,Best Buy,715.82,Apparel
+2022-05-04,Food,McDonald's,557.38,Dining
+2022-03-16,Electronics,Amazon,-574.44,Shopping
+2020-11-28,Home,Target,-18.01,Home
+2021-09-21,Electronics,Amazon,95.48,Shopping
+2021-10-23,Electronics,Amazon,-748.57,Shopping
+2021-12-21,Groceries,Walmart,-226.05,Groceries
+2022-12-01,Food,McDonald's,-673.57,Dining
+2022-08-15,Food,McDonald's,-974.75,Dining
+2021-11-19,Clothing,Best Buy,499.82,Apparel
+2020-06-15,Groceries,Walmart,-771.27,Groceries
+2020-05-18,Clothing,Best Buy,669.39,Apparel
+2022-01-14,Clothing,Best Buy,575.11,Apparel
+2021-01-18,Electronics,Amazon,-704.54,Shopping
+2021-12-28,Groceries,Walmart,-479.16,Groceries
+2021-10-18,Electronics,Amazon,-407.07,Shopping
+2021-01-09,Electronics,Amazon,645.82,Shopping
+2020-11-24,Groceries,Walmart,532.76,Groceries
+2020-03-02,Clothing,Best Buy,-794.18,Apparel
+2020-02-28,Home,Target,-379.8,Home
+2021-05-23,Clothing,Best Buy,917.63,Apparel
+2020-04-23,Home,Target,-949.29,Home
+2021-05-23,Clothing,Best Buy,-989.05,Apparel
+2022-03-27,Groceries,Walmart,258.3,Groceries
+2020-07-14,Food,McDonald's,-131.61,Dining
+2022-02-14,Clothing,Best Buy,644.57,Apparel
+2020-11-02,Electronics,Amazon,-838.36,Shopping
+2022-10-11,Electronics,Amazon,-353.48,Shopping
+2020-08-13,Food,McDonald's,-339.15,Dining
+2020-09-11,Clothing,Best Buy,507.81,Apparel
+2021-08-18,Groceries,Walmart,-424.79,Groceries
+2022-08-13,Electronics,Amazon,178.93,Shopping
+2021-11-28,Groceries,Walmart,-284.56,Groceries
+2021-01-13,Food,McDonald's,-717.57,Dining
+2021-12-24,Home,Target,-449.98,Home
+2020-07-01,Home,Target,63.4,Home
+2021-02-16,Food,McDonald's,897.87,Dining
+2021-12-23,Electronics,Amazon,-560.79,Shopping
+2022-07-04,Home,Target,-530.85,Home
+2021-04-27,Clothing,Best Buy,664.74,Apparel
+2021-01-06,Electronics,Amazon,166.56,Shopping
+2021-08-17,Clothing,Best Buy,-606.6,Apparel
+2022-11-06,Groceries,Walmart,-995.18,Groceries
+2020-08-24,Clothing,Best Buy,-151.69,Apparel
+2020-09-17,Groceries,Walmart,172.81,Groceries
+2020-02-10,Home,Target,-467.83,Home
+2020-11-26,Home,Target,-72.24,Home
+2020-05-16,Food,McDonald's,651.55,Dining
+2021-01-26,Electronics,Amazon,-906.94,Shopping
+2022-12-04,Groceries,Walmart,472.47,Groceries
+2021-12-02,Food,McDonald's,-183.18,Dining
+2022-06-11,Groceries,Walmart,979.05,Groceries
+2022-05-26,Home,Target,370.71,Home
+2021-04-19,Home,Target,-270.47,Home
+2020-09-19,Food,McDonald's,454.79,Dining
+2020-08-03,Food,McDonald's,816.58,Dining
+2021-12-20,Groceries,Walmart,-83.83,Groceries
+2021-03-09,Groceries,Walmart,-231.89,Groceries
+2022-05-16,Electronics,Amazon,-491.0,Shopping
+2020-09-02,Groceries,Walmart,161.6,Groceries
+2020-10-09,Groceries,Walmart,-321.0,Groceries
+2022-02-25,Home,Target,-130.77,Home
+2021-07-17,Clothing,Best Buy,617.66,Apparel
+2022-10-25,Groceries,Walmart,45.41,Groceries
+2020-12-26,Electronics,Amazon,221.96,Shopping
+2021-12-10,Groceries,Walmart,-772.1,Groceries
+2020-05-22,Groceries,Walmart,-826.83,Groceries
+2022-10-20,Food,McDonald's,-925.73,Dining
+2022-07-08,Food,McDonald's,307.2,Dining
+2020-01-27,Food,McDonald's,13.68,Dining
+2022-11-09,Groceries,Walmart,-303.09,Groceries
+2022-04-17,Groceries,Walmart,-201.42,Groceries
+2020-06-02,Home,Target,-413.71,Home
+2020-04-12,Electronics,Amazon,-924.79,Shopping
+2022-02-17,Clothing,Best Buy,494.11,Apparel
+2020-05-11,Food,McDonald's,-994.77,Dining
+2022-04-27,Electronics,Amazon,60.07,Shopping
+2021-12-16,Food,McDonald's,-903.48,Dining
+2020-03-11,Clothing,Best Buy,853.61,Apparel
+2022-07-18,Clothing,Best Buy,-372.42,Apparel
+2020-02-15,Home,Target,276.75,Home
+2022-07-04,Food,McDonald's,876.39,Dining
+2022-09-02,Food,McDonald's,-230.94,Dining
+2021-08-12,Clothing,Best Buy,468.63,Apparel
+2021-10-13,Electronics,Amazon,926.59,Shopping
+2022-09-28,Electronics,Amazon,-622.19,Shopping
+2020-05-11,Clothing,Best Buy,-111.59,Apparel
+2021-02-27,Groceries,Walmart,-790.12,Groceries
+2021-11-04,Electronics,Amazon,156.68,Shopping
+2021-12-07,Electronics,Amazon,37.73,Shopping
+2022-09-14,Food,McDonald's,195.86,Dining
+2022-05-06,Groceries,Walmart,238.93,Groceries
+2021-05-12,Electronics,Amazon,833.4,Shopping
+2020-04-09,Groceries,Walmart,11.51,Groceries
+2022-02-21,Groceries,Walmart,325.22,Groceries
+2021-08-08,Electronics,Amazon,-189.19,Shopping
+2022-10-04,Clothing,Best Buy,876.86,Apparel
+2021-01-14,Clothing,Best Buy,968.12,Apparel
+2020-12-26,Food,McDonald's,-502.53,Dining
+2022-05-06,Electronics,Amazon,-639.51,Shopping
+2022-09-22,Home,Target,-745.87,Home
+2022-05-01,Electronics,Amazon,814.45,Shopping
+2020-02-19,Clothing,Best Buy,331.67,Apparel
+2020-04-09,Electronics,Amazon,241.3,Shopping
+2020-11-06,Clothing,Best Buy,947.55,Apparel
+2022-03-24,Groceries,Walmart,-283.5,Groceries
+2022-03-18,Groceries,Walmart,-381.33,Groceries
+2021-03-04,Food,McDonald's,-75.31,Dining
+2022-11-22,Electronics,Amazon,177.54,Shopping
+2022-07-09,Food,McDonald's,-343.95,Dining
+2021-05-15,Home,Target,795.8,Home
+2021-10-28,Clothing,Best Buy,452.18,Apparel
+2020-12-15,Food,McDonald's,535.9,Dining
+2020-04-15,Clothing,Best Buy,978.03,Apparel
+2020-08-09,Clothing,Best Buy,646.85,Apparel
+2022-02-20,Electronics,Amazon,124.96,Shopping
+2022-11-13,Groceries,Walmart,-837.9,Groceries
+2020-10-01,Electronics,Amazon,917.7,Shopping
+2021-09-03,Clothing,Best Buy,-300.04,Apparel
+2021-02-09,Electronics,Amazon,997.86,Shopping
+2021-10-10,Food,McDonald's,-859.87,Dining
+2022-07-16,Clothing,Best Buy,-966.67,Apparel
+2021-06-03,Groceries,Walmart,-399.05,Groceries
+2022-11-16,Food,McDonald's,-86.36,Dining
+2022-03-19,Home,Target,352.73,Home
+2022-03-07,Clothing,Best Buy,343.54,Apparel
+2020-03-06,Clothing,Best Buy,-896.57,Apparel
+2022-12-16,Food,McDonald's,723.14,Dining
+2021-10-13,Clothing,Best Buy,658.89,Apparel
+2020-09-16,Clothing,Best Buy,718.28,Apparel
+2021-07-20,Food,McDonald's,770.77,Dining
+2020-02-02,Clothing,Best Buy,184.15,Apparel
+2021-05-10,Food,McDonald's,-65.46,Dining
+2021-05-06,Home,Target,535.62,Home
+2020-04-14,Food,McDonald's,218.83,Dining
+2022-05-20,Food,McDonald's,-386.28,Dining
+2021-08-05,Groceries,Walmart,-336.58,Groceries
+2021-01-18,Electronics,Amazon,-307.11,Shopping
+2022-03-01,Food,McDonald's,-546.73,Dining
+2020-03-28,Electronics,Amazon,722.48,Shopping
+2020-04-05,Groceries,Walmart,282.57,Groceries
+2021-05-12,Clothing,Best Buy,-800.16,Apparel
+2022-10-07,Electronics,Amazon,179.57,Shopping
+2021-12-24,Food,McDonald's,293.27,Dining
+2020-02-03,Groceries,Walmart,-875.67,Groceries
+2020-05-04,Home,Target,-818.25,Home
+2021-10-04,Food,McDonald's,281.0,Dining
+2020-09-04,Clothing,Best Buy,-610.22,Apparel
+2020-08-10,Home,Target,-436.51,Home
+2021-07-09,Clothing,Best Buy,-138.17,Apparel
+2021-12-18,Electronics,Amazon,16.06,Shopping
+2021-10-16,Groceries,Walmart,564.68,Groceries
+2022-01-20,Clothing,Best Buy,527.92,Apparel
+2022-05-28,Food,McDonald's,-247.02,Dining
+2020-02-19,Clothing,Best Buy,856.99,Apparel
+2022-05-17,Home,Target,578.09,Home
+2020-05-06,Food,McDonald's,-503.79,Dining
+2022-12-08,Electronics,Amazon,-50.89,Shopping
+2022-01-06,Food,McDonald's,-597.28,Dining
+2022-06-08,Groceries,Walmart,-905.41,Groceries
+2020-04-01,Home,Target,-364.89,Home
+2020-11-11,Groceries,Walmart,-949.79,Groceries
+2021-03-02,Clothing,Best Buy,-6.53,Apparel
+2022-12-27,Food,McDonald's,-15.85,Dining
+2020-03-03,Groceries,Walmart,-389.78,Groceries
+2020-04-03,Groceries,Walmart,-428.01,Groceries
+2022-12-27,Food,McDonald's,-160.54,Dining
+2022-09-09,Food,McDonald's,-765.21,Dining
+2020-02-05,Food,McDonald's,979.71,Dining
+2021-04-06,Electronics,Amazon,697.6,Shopping
+2022-10-22,Food,McDonald's,-748.53,Dining
+2021-11-03,Food,McDonald's,276.01,Dining
+2020-05-04,Groceries,Walmart,-401.62,Groceries
+2022-07-13,Clothing,Best Buy,353.55,Apparel
+2020-02-05,Clothing,Best Buy,-0.94,Apparel
+2021-11-04,Clothing,Best Buy,-332.44,Apparel
+2022-01-13,Home,Target,794.26,Home
+2021-08-04,Home,Target,-801.96,Home
+2021-07-20,Groceries,Walmart,227.23,Groceries
+2021-04-12,Groceries,Walmart,-770.34,Groceries
+2022-03-02,Home,Target,-210.45,Home
+2022-08-24,Clothing,Best Buy,-4.97,Apparel
+2020-06-16,Groceries,Walmart,586.89,Groceries
+2020-06-06,Food,McDonald's,-287.51,Dining
+2021-04-13,Food,McDonald's,953.72,Dining
+2021-08-17,Food,McDonald's,-882.42,Dining
+2020-12-23,Clothing,Best Buy,302.65,Apparel
+2021-05-14,Food,McDonald's,397.03,Dining
+2021-09-15,Clothing,Best Buy,-733.84,Apparel
+2021-05-18,Home,Target,253.72,Home
+2022-03-10,Home,Target,-862.41,Home
+2022-09-20,Food,McDonald's,658.47,Dining
+2022-04-26,Clothing,Best Buy,-442.92,Apparel
+2020-12-21,Groceries,Walmart,-701.13,Groceries
+2020-07-23,Food,McDonald's,183.18,Dining
+2020-01-07,Food,McDonald's,-592.73,Dining
+2020-01-07,Food,McDonald's,-425.23,Dining
+2022-01-23,Home,Target,423.78,Home
+2020-03-06,Electronics,Amazon,786.56,Shopping
+2020-06-21,Home,Target,-99.85,Home
+2022-01-18,Food,McDonald's,-255.06,Dining
+2022-09-27,Electronics,Amazon,124.79,Shopping
+2020-11-24,Home,Target,-981.08,Home
+2021-10-10,Groceries,Walmart,995.81,Groceries
+2020-01-12,Groceries,Walmart,846.88,Groceries
+2022-10-03,Home,Target,-770.01,Home
+2022-03-13,Home,Target,6.18,Home
+2021-12-27,Electronics,Amazon,842.08,Shopping
+2022-05-06,Clothing,Best Buy,-771.02,Apparel
+2020-08-15,Home,Target,-550.33,Home
+2021-05-01,Food,McDonald's,920.09,Dining
+2020-03-16,Food,McDonald's,-625.3,Dining
+2020-02-27,Groceries,Walmart,-479.22,Groceries
+2021-06-15,Food,McDonald's,89.71,Dining
+2021-03-13,Clothing,Best Buy,123.91,Apparel
+2020-02-17,Home,Target,814.7,Home
+2021-06-23,Groceries,Walmart,82.81,Groceries
+2022-02-06,Electronics,Amazon,-788.32,Shopping
+2020-11-10,Food,McDonald's,543.43,Dining
+2022-11-19,Electronics,Amazon,-363.26,Shopping
+2021-02-23,Electronics,Amazon,-264.94,Shopping
+2022-09-18,Groceries,Walmart,-690.46,Groceries
+2022-05-05,Food,McDonald's,-435.88,Dining
+2020-05-13,Clothing,Best Buy,716.83,Apparel
+2021-04-13,Home,Target,-542.35,Home
+2020-04-20,Electronics,Amazon,-939.58,Shopping
+2022-04-09,Food,McDonald's,969.5,Dining
+2020-07-09,Home,Target,569.63,Home
+2021-02-13,Electronics,Amazon,-831.87,Shopping
+2020-07-12,Electronics,Amazon,-793.53,Shopping
+2021-08-03,Food,McDonald's,-335.11,Dining
+2021-05-14,Home,Target,-779.88,Home
+2021-03-17,Clothing,Best Buy,456.03,Apparel
+2022-02-17,Electronics,Amazon,731.93,Shopping
+2020-06-13,Food,McDonald's,85.22,Dining
+2021-07-02,Home,Target,238.65,Home
+2020-12-24,Electronics,Amazon,-978.85,Shopping
+2022-12-27,Electronics,Amazon,784.87,Shopping
+2022-02-09,Food,McDonald's,-515.88,Dining
+2020-06-05,Food,McDonald's,-376.05,Dining
+2020-09-08,Electronics,Amazon,863.27,Shopping
+2021-06-24,Groceries,Walmart,88.97,Groceries
+2022-11-16,Electronics,Amazon,-606.37,Shopping
+2021-07-14,Electronics,Amazon,29.66,Shopping
