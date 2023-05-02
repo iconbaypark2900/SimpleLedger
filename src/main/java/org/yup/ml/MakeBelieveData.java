@@ -17,9 +17,9 @@ public class MakeBelieveData {
         System.setProperty("weka.packageManager.offline", "true");
         System.setProperty("weka.core.welcome_disabled", "true");
 
-        String[] vendors = {"Amazon", "Walmart", "Best Buy", "McDonalds", "Target"};
-        String[] descriptions = {"Electronics", "Groceries", "Clothing", "Food", "Home"};
-        String[] categories = {"Shopping", "Groceries", "Apparel", "Dining", "Home"};
+        String[] vendors = {"Amazon", "Walmart", "Best Buy", "ULine", "Target"};
+        String[] descriptions = {"Electronics", "Groceries", "Clothing", "Office Supplies", "Home"};
+        String[] categories = {"Shopping", "Groceries", "Apparel", "Work", "Home"};
 
         int numberOfTransactions = 1000;
         String outputPath = "transaction.csv";
