@@ -14,7 +14,10 @@ import java.util.Random;
 public class MakeBelieveData {
 
     public static void main(String[] args) {
-        String[] vendors = {"Amazon", "Walmart", "Best Buy", "McDonald's", "Target"};
+        System.setProperty("weka.packageManager.offline", "true");
+        System.setProperty("weka.core.welcome_disabled", "true");
+
+        String[] vendors = {"Amazon", "Walmart", "Best Buy", "McDonalds", "Target"};
         String[] descriptions = {"Electronics", "Groceries", "Clothing", "Food", "Home"};
         String[] categories = {"Shopping", "Groceries", "Apparel", "Dining", "Home"};
 
@@ -43,7 +46,9 @@ public class MakeBelieveData {
                 double amount = generateRandomAmount();
                 String category = categories[index];
 
-                bw.write(date + "," + description + "," + vendor + "," + amount + "," + category + "\n");
+                String line = date + "," + description + "," + vendor + "," + amount + "," + category + "\n";
+                System.out.println(line);
+                bw.write(line);
             }
         } catch (IOException e) {
             e.printStackTrace();

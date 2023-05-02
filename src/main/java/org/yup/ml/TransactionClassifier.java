@@ -16,7 +16,7 @@ public class TransactionClassifier {
         try {
             // Load the dataset from a CSV file
             Instances data = loadDataset(datasetPath);
-
+            data.setClassIndex(data.numAttributes() - 1);
             // Split the dataset into training (80%) and testing (20%) sets
             Instances[] datasets = splitDataset(data, 80);
             Instances trainData = datasets[0];
