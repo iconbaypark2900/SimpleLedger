@@ -20,6 +20,7 @@ public class MakeBelieveData {
         String[] vendors = {"Amazon", "Walmart", "Best Buy", "ULine", "Target"};
         String[] descriptions = {"Electronics", "Groceries", "Clothing", "Office Supplies", "Home"};
         String[] categories = {"Shopping", "Groceries", "Apparel", "Work", "Home"};
+        // create field [5] in order to show whether a transaction is a deposit or withdrawal
 
         int numberOfTransactions = 1000;
         String outputPath = "transaction.csv";
@@ -35,7 +36,7 @@ public class MakeBelieveData {
 
         try (BufferedWriter bw = new BufferedWriter(new FileWriter(outputPath, true))) {
             if (Files.size(path) == 0) {
-                bw.write("Date,Description,Vendor,Amount,Category\n");
+                bw.write("Date, Amount, Vendor, Description, Category\n");
             }
 
             for (int i = 0; i < numberOfTransactions; i++) {
@@ -46,7 +47,7 @@ public class MakeBelieveData {
                 double amount = generateRandomAmount();
                 String category = categories[index];
 
-                String line = date + "," + description + "," + vendor + "," + amount + "," + category + "\n";
+                String line = date + "," + amount + "," + vendor + "," + description + "," + category + "\n";
                 System.out.println(line);
                 bw.write(line);
             }

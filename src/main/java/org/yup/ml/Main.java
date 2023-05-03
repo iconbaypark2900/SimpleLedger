@@ -8,7 +8,6 @@ import java.util.Scanner;
 public class Main {
     private static final Scanner scanner = new Scanner(System.in);
     private static final Ledger ledger = new Ledger();
-
     private static final Reports reports = new Reports();
 
     public static void main(String[] args) {
@@ -83,7 +82,7 @@ public class Main {
         System.out.println("Enter description");
         String description = scanner.nextLine();
 
-        LedgerEntry entry = new LedgerEntry(date, amount, vendor, description, isDeposit);
+        LedgerEntry entry = new LedgerEntry(date, amount, vendor, description, category);
 
         return entry;
     }

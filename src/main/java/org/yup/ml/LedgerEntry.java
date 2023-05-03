@@ -7,17 +7,20 @@ public class LedgerEntry {
     private String description;
     private String vendor;
     private double amount;
+
+    private String categories;
     private boolean isDeposit;
 
-    public LedgerEntry(Date date, double amount, String vendor,String description, boolean isDeposit) {
+    public LedgerEntry(Date date, double amount, String vendor,String description, String categories) {
         this.date = date;
         this.description = description;
         this.vendor = vendor;
         this.amount = amount;
+        this.categories = categories;
         this.isDeposit = isDeposit();
     }
 
-    private boolean isDeposit() {
+    public boolean isDeposit() {
         return isDeposit;
     }
 
@@ -55,5 +58,9 @@ public class LedgerEntry {
 
     public void setAmount(double amount) {
         this.amount = amount;
+    }
+
+    public String getCategories() {
+        return categories;
     }
 }
