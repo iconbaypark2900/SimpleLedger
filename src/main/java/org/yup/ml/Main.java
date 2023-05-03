@@ -3,6 +3,7 @@ package org.yup.ml;
 import java.time.LocalDate;
 import java.time.ZoneId;
 import java.util.Date;
+import java.util.List;
 import java.util.Scanner;
 
 public class Main {
@@ -105,6 +106,8 @@ public class Main {
         System.out.println("Enter your choice: ");
         int choice = scanner.nextInt();
         scanner.nextLine();
+        List<LedgerEntry> reportEntries = null;
+        String fileName = "transaction.csv";
 
         switch (choice) {
             case 1:
@@ -127,6 +130,11 @@ public class Main {
                 break;
             default:
                 System.out.println("Try again");
+                return;
+        }
+
+        if (reportEntries != null) {
+            reports.saveReport(reportEntries, fileName);
         }
     }
 

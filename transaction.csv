@@ -1,2001 +1,1001 @@
 Date, Amount, Vendor, Description, Category
-2022-02-06,311.67,ULine,Office Supplies,Work
-2020-10-28,289.61,ULine,Office Supplies,Work
-2020-10-24,-206.2,Amazon,Electronics,Shopping
-2022-05-26,-68.15,Walmart,Groceries,Groceries
-2020-11-02,-548.84,Best Buy,Clothing,Apparel
-2020-01-24,-460.11,Amazon,Electronics,Shopping
-2020-10-06,-71.14,Walmart,Groceries,Groceries
-2022-03-23,-203.01,Amazon,Electronics,Shopping
-2021-06-20,781.17,Walmart,Groceries,Groceries
-2022-10-06,53.25,Amazon,Electronics,Shopping
-2020-04-13,528.27,Target,Home,Home
-2022-02-02,881.37,Best Buy,Clothing,Apparel
-2022-12-27,-523.89,ULine,Office Supplies,Work
-2020-04-25,-60.16,Best Buy,Clothing,Apparel
-2020-03-18,983.14,Best Buy,Clothing,Apparel
-2022-03-05,395.46,Amazon,Electronics,Shopping
-2022-05-04,-608.01,ULine,Office Supplies,Work
-2022-03-04,-855.83,ULine,Office Supplies,Work
-2022-12-02,732.97,Walmart,Groceries,Groceries
-2021-07-24,-573.74,Best Buy,Clothing,Apparel
-2021-04-05,-216.19,Walmart,Groceries,Groceries
-2022-08-01,-341.02,Walmart,Groceries,Groceries
-2022-02-18,384.91,ULine,Office Supplies,Work
-2021-12-17,874.8,Target,Home,Home
-2020-04-24,-495.59,Walmart,Groceries,Groceries
-2021-08-22,778.71,Target,Home,Home
-2022-01-08,-656.59,ULine,Office Supplies,Work
-2022-04-07,651.54,Walmart,Groceries,Groceries
-2020-02-24,230.17,Walmart,Groceries,Groceries
-2021-05-12,759.43,Amazon,Electronics,Shopping
-2021-10-23,-293.0,Amazon,Electronics,Shopping
-2022-01-15,-302.35,Best Buy,Clothing,Apparel
-2021-05-04,-111.45,ULine,Office Supplies,Work
-2021-03-03,-470.3,Best Buy,Clothing,Apparel
-2020-03-03,201.52,ULine,Office Supplies,Work
-2021-10-25,506.27,Amazon,Electronics,Shopping
-2021-08-01,685.19,Best Buy,Clothing,Apparel
-2020-11-17,62.76,Walmart,Groceries,Groceries
-2021-04-26,-672.68,ULine,Office Supplies,Work
-2021-07-06,324.55,Walmart,Groceries,Groceries
-2022-10-24,354.41,Target,Home,Home
-2020-07-28,-864.8,Walmart,Groceries,Groceries
-2020-02-19,-955.56,Best Buy,Clothing,Apparel
-2021-10-14,156.09,Walmart,Groceries,Groceries
-2020-11-08,358.21,Walmart,Groceries,Groceries
-2020-06-19,-93.39,ULine,Office Supplies,Work
-2022-02-11,265.01,Best Buy,Clothing,Apparel
-2021-01-02,-7.83,Best Buy,Clothing,Apparel
-2022-08-14,824.62,Best Buy,Clothing,Apparel
-2020-04-28,825.32,Target,Home,Home
-2021-08-24,537.06,Amazon,Electronics,Shopping
-2020-09-26,400.74,Target,Home,Home
-2020-02-09,588.37,Best Buy,Clothing,Apparel
-2021-10-10,-592.88,Walmart,Groceries,Groceries
-2021-11-20,526.5,Best Buy,Clothing,Apparel
-2020-01-11,938.6,Best Buy,Clothing,Apparel
-2022-03-17,-227.69,Amazon,Electronics,Shopping
-2020-04-23,654.5,ULine,Office Supplies,Work
-2021-04-13,411.08,Amazon,Electronics,Shopping
-2022-05-14,720.93,ULine,Office Supplies,Work
-2022-01-03,210.02,Amazon,Electronics,Shopping
-2020-12-24,555.6,ULine,Office Supplies,Work
-2021-03-12,-719.17,Best Buy,Clothing,Apparel
-2022-03-23,-715.07,Target,Home,Home
-2020-08-23,-961.22,ULine,Office Supplies,Work
-2020-12-14,793.29,Target,Home,Home
-2022-04-25,-507.44,Best Buy,Clothing,Apparel
-2021-06-16,-649.08,Target,Home,Home
-2020-11-07,802.13,Best Buy,Clothing,Apparel
-2020-05-15,-849.19,Walmart,Groceries,Groceries
-2020-12-13,-891.81,Walmart,Groceries,Groceries
-2022-04-05,195.78,Target,Home,Home
-2021-07-11,-366.36,Target,Home,Home
-2022-04-13,-936.87,Amazon,Electronics,Shopping
-2022-07-09,-629.56,ULine,Office Supplies,Work
-2022-11-14,-950.74,Best Buy,Clothing,Apparel
-2020-01-25,60.73,ULine,Office Supplies,Work
-2021-11-08,278.02,Best Buy,Clothing,Apparel
-2020-12-28,-951.27,Amazon,Electronics,Shopping
-2022-12-07,-963.42,Walmart,Groceries,Groceries
-2021-07-25,949.72,Amazon,Electronics,Shopping
-2021-09-19,-888.9,Amazon,Electronics,Shopping
-2020-11-28,748.27,Best Buy,Clothing,Apparel
-2022-07-15,-271.23,Walmart,Groceries,Groceries
-2020-07-06,-653.71,ULine,Office Supplies,Work
-2022-05-05,320.58,Target,Home,Home
-2020-12-05,222.53,Amazon,Electronics,Shopping
-2021-11-13,512.84,Amazon,Electronics,Shopping
-2021-12-05,384.02,Best Buy,Clothing,Apparel
-2022-04-20,-311.11,ULine,Office Supplies,Work
-2022-05-07,471.04,Walmart,Groceries,Groceries
-2020-07-10,158.94,ULine,Office Supplies,Work
-2022-05-21,716.7,ULine,Office Supplies,Work
-2021-07-26,565.9,ULine,Office Supplies,Work
-2022-01-22,998.03,ULine,Office Supplies,Work
-2021-04-13,-433.27,Best Buy,Clothing,Apparel
-2021-03-19,-400.47,Walmart,Groceries,Groceries
-2022-01-08,-824.16,Amazon,Electronics,Shopping
-2020-11-20,-678.96,Target,Home,Home
-2021-10-15,233.45,Target,Home,Home
-2021-01-05,559.91,Best Buy,Clothing,Apparel
-2022-07-23,522.84,Best Buy,Clothing,Apparel
-2022-06-07,-801.04,Best Buy,Clothing,Apparel
-2020-07-03,-724.18,Best Buy,Clothing,Apparel
-2020-05-27,681.36,Best Buy,Clothing,Apparel
-2021-01-21,266.15,Walmart,Groceries,Groceries
-2020-05-12,482.3,Walmart,Groceries,Groceries
-2021-11-15,-513.79,Target,Home,Home
-2021-10-26,-733.14,Walmart,Groceries,Groceries
-2022-01-24,86.28,Best Buy,Clothing,Apparel
-2022-06-08,-127.81,Walmart,Groceries,Groceries
-2021-08-06,300.39,Best Buy,Clothing,Apparel
-2022-01-28,-469.43,Target,Home,Home
-2022-09-18,-564.03,Walmart,Groceries,Groceries
-2022-08-18,-248.9,Amazon,Electronics,Shopping
-2021-03-15,-724.06,Target,Home,Home
-2021-01-09,51.4,Best Buy,Clothing,Apparel
-2022-05-02,-88.96,Best Buy,Clothing,Apparel
-2021-03-05,930.32,Amazon,Electronics,Shopping
-2021-07-05,838.81,Best Buy,Clothing,Apparel
-2022-06-23,-305.8,Amazon,Electronics,Shopping
-2022-07-27,495.49,Amazon,Electronics,Shopping
-2020-09-04,-226.61,ULine,Office Supplies,Work
-2020-10-08,-964.52,Best Buy,Clothing,Apparel
-2021-01-27,-624.93,Target,Home,Home
-2020-09-28,-546.42,Best Buy,Clothing,Apparel
-2021-03-15,370.11,Best Buy,Clothing,Apparel
-2020-12-25,85.47,Target,Home,Home
-2020-08-08,-526.36,Walmart,Groceries,Groceries
-2020-04-21,-137.57,Best Buy,Clothing,Apparel
-2022-05-27,-336.53,ULine,Office Supplies,Work
-2020-04-11,-77.43,Amazon,Electronics,Shopping
-2020-01-10,763.48,Walmart,Groceries,Groceries
-2022-11-20,-54.81,Best Buy,Clothing,Apparel
-2022-08-09,-560.48,ULine,Office Supplies,Work
-2022-06-07,16.08,Amazon,Electronics,Shopping
-2020-09-04,-470.17,ULine,Office Supplies,Work
-2020-05-21,391.81,Walmart,Groceries,Groceries
-2022-10-28,-213.97,ULine,Office Supplies,Work
-2022-05-22,112.6,Target,Home,Home
-2022-04-22,-641.04,Best Buy,Clothing,Apparel
-2020-01-23,-809.0,Walmart,Groceries,Groceries
-2022-01-01,-190.23,Amazon,Electronics,Shopping
-2022-06-02,798.11,Target,Home,Home
-2022-09-22,903.71,Best Buy,Clothing,Apparel
-2022-04-03,364.55,ULine,Office Supplies,Work
-2022-12-27,-490.45,Target,Home,Home
-2020-02-05,-155.74,Best Buy,Clothing,Apparel
-2022-05-03,-357.61,Best Buy,Clothing,Apparel
-2021-12-20,11.05,Best Buy,Clothing,Apparel
-2021-12-10,-651.26,ULine,Office Supplies,Work
-2020-09-11,8.02,Walmart,Groceries,Groceries
-2021-03-26,295.84,ULine,Office Supplies,Work
-2020-05-21,608.33,Target,Home,Home
-2021-07-05,-173.19,Amazon,Electronics,Shopping
-2020-05-04,803.19,Best Buy,Clothing,Apparel
-2022-06-13,918.01,Walmart,Groceries,Groceries
-2020-04-19,-674.87,Best Buy,Clothing,Apparel
-2021-06-24,235.79,Best Buy,Clothing,Apparel
-2020-01-17,-462.02,Target,Home,Home
-2020-07-25,226.75,Best Buy,Clothing,Apparel
-2020-08-02,139.3,ULine,Office Supplies,Work
-2022-04-01,-548.76,Walmart,Groceries,Groceries
-2022-05-09,-965.7,Target,Home,Home
-2020-08-02,-408.67,Target,Home,Home
-2022-02-25,-374.49,Best Buy,Clothing,Apparel
-2021-03-12,149.6,Amazon,Electronics,Shopping
-2021-08-19,-960.77,Walmart,Groceries,Groceries
-2020-07-20,173.25,ULine,Office Supplies,Work
-2022-02-28,-421.08,Walmart,Groceries,Groceries
-2021-04-24,367.83,ULine,Office Supplies,Work
-2020-07-26,-597.46,Amazon,Electronics,Shopping
-2020-11-06,-700.2,Walmart,Groceries,Groceries
-2021-08-23,692.26,Best Buy,Clothing,Apparel
-2020-01-05,87.08,Walmart,Groceries,Groceries
-2022-12-03,-534.28,Target,Home,Home
-2021-06-22,723.4,Amazon,Electronics,Shopping
-2020-12-03,320.87,ULine,Office Supplies,Work
-2021-12-24,323.05,Target,Home,Home
-2021-03-08,-771.54,ULine,Office Supplies,Work
-2020-05-14,70.61,Target,Home,Home
-2022-01-18,495.63,ULine,Office Supplies,Work
-2020-09-03,-571.52,ULine,Office Supplies,Work
-2022-02-25,835.09,ULine,Office Supplies,Work
-2020-09-16,-630.15,ULine,Office Supplies,Work
-2021-10-25,742.04,Amazon,Electronics,Shopping
-2022-06-12,-251.49,ULine,Office Supplies,Work
-2021-11-12,-829.67,Amazon,Electronics,Shopping
-2020-01-09,236.37,Best Buy,Clothing,Apparel
-2022-12-02,982.44,Target,Home,Home
-2022-05-22,763.21,Best Buy,Clothing,Apparel
-2021-11-19,-456.9,ULine,Office Supplies,Work
-2022-08-26,-219.16,Walmart,Groceries,Groceries
-2022-10-21,540.12,Walmart,Groceries,Groceries
-2020-06-15,445.35,ULine,Office Supplies,Work
-2021-01-07,408.12,Amazon,Electronics,Shopping
-2022-09-03,980.84,Target,Home,Home
-2022-07-27,303.17,Amazon,Electronics,Shopping
-2022-08-05,160.55,Amazon,Electronics,Shopping
-2020-09-13,61.45,ULine,Office Supplies,Work
-2021-09-23,-30.61,Amazon,Electronics,Shopping
-2020-09-25,522.96,Walmart,Groceries,Groceries
-2020-07-22,-792.85,ULine,Office Supplies,Work
-2022-11-12,83.05,Amazon,Electronics,Shopping
-2021-11-22,664.63,Target,Home,Home
-2020-02-19,-94.4,ULine,Office Supplies,Work
-2020-02-18,-795.55,Target,Home,Home
-2020-03-16,688.34,Amazon,Electronics,Shopping
-2022-07-25,-543.48,Target,Home,Home
-2020-08-17,-427.63,Walmart,Groceries,Groceries
-2022-03-05,-314.51,Amazon,Electronics,Shopping
-2022-07-18,-291.11,Best Buy,Clothing,Apparel
-2021-01-10,-250.21,Target,Home,Home
-2020-02-15,-937.09,Best Buy,Clothing,Apparel
-2021-07-20,-913.71,ULine,Office Supplies,Work
-2022-12-23,-468.16,Target,Home,Home
-2021-07-12,-265.27,Amazon,Electronics,Shopping
-2022-04-26,-692.05,Walmart,Groceries,Groceries
-2022-07-01,-971.71,Target,Home,Home
-2022-08-06,-352.66,ULine,Office Supplies,Work
-2020-03-18,-903.84,Target,Home,Home
-2021-03-15,29.03,ULine,Office Supplies,Work
-2021-01-27,344.53,Walmart,Groceries,Groceries
-2022-12-10,134.92,ULine,Office Supplies,Work
-2022-07-16,-208.82,Target,Home,Home
-2020-04-14,-236.79,Best Buy,Clothing,Apparel
-2022-03-25,-877.34,Walmart,Groceries,Groceries
-2020-11-27,339.97,Walmart,Groceries,Groceries
-2020-07-16,911.06,Target,Home,Home
-2020-11-27,-810.09,Walmart,Groceries,Groceries
-2022-11-05,-733.38,Amazon,Electronics,Shopping
-2020-12-14,-330.24,Walmart,Groceries,Groceries
-2022-12-23,43.73,Amazon,Electronics,Shopping
-2020-02-25,-254.07,Walmart,Groceries,Groceries
-2022-11-14,-279.84,Amazon,Electronics,Shopping
-2021-03-04,-831.63,Amazon,Electronics,Shopping
-2021-01-08,892.21,Amazon,Electronics,Shopping
-2020-09-23,-69.35,ULine,Office Supplies,Work
-2022-11-02,-312.48,Amazon,Electronics,Shopping
-2022-07-21,734.96,Target,Home,Home
-2020-05-22,-743.67,Amazon,Electronics,Shopping
-2022-08-09,-357.04,Best Buy,Clothing,Apparel
-2021-09-07,331.43,ULine,Office Supplies,Work
-2020-08-09,587.22,ULine,Office Supplies,Work
-2021-06-24,-785.78,Target,Home,Home
-2022-07-25,-816.66,Best Buy,Clothing,Apparel
-2022-12-11,-117.75,Amazon,Electronics,Shopping
-2022-07-09,-390.89,Amazon,Electronics,Shopping
-2022-02-07,-155.35,ULine,Office Supplies,Work
-2020-03-22,532.28,Target,Home,Home
-2021-01-27,867.14,Amazon,Electronics,Shopping
-2022-02-07,257.35,Best Buy,Clothing,Apparel
-2020-03-05,277.06,Target,Home,Home
-2020-05-21,-784.16,Amazon,Electronics,Shopping
-2021-10-07,219.8,Target,Home,Home
-2021-09-13,241.2,ULine,Office Supplies,Work
-2021-12-02,-955.47,Best Buy,Clothing,Apparel
-2021-08-03,-951.51,Walmart,Groceries,Groceries
-2021-06-17,-301.48,Best Buy,Clothing,Apparel
-2022-08-28,122.59,Walmart,Groceries,Groceries
-2021-02-05,-79.49,Target,Home,Home
-2020-08-11,-475.08,Target,Home,Home
-2021-03-06,944.67,Best Buy,Clothing,Apparel
-2021-06-28,651.63,ULine,Office Supplies,Work
-2022-09-17,-513.5,Best Buy,Clothing,Apparel
-2022-09-05,608.77,Best Buy,Clothing,Apparel
-2021-01-04,950.74,Walmart,Groceries,Groceries
-2022-10-10,-711.27,Walmart,Groceries,Groceries
-2022-02-05,976.06,Best Buy,Clothing,Apparel
-2021-01-14,524.86,ULine,Office Supplies,Work
-2020-02-05,705.87,ULine,Office Supplies,Work
-2022-05-13,-413.78,ULine,Office Supplies,Work
-2022-11-11,821.71,Amazon,Electronics,Shopping
-2022-08-05,756.81,Amazon,Electronics,Shopping
-2021-05-21,473.6,Amazon,Electronics,Shopping
-2020-09-23,531.05,ULine,Office Supplies,Work
-2020-07-18,-68.76,Best Buy,Clothing,Apparel
-2020-07-24,955.86,Target,Home,Home
-2021-11-18,752.12,Target,Home,Home
-2020-05-22,457.82,Amazon,Electronics,Shopping
-2022-07-21,-559.43,Walmart,Groceries,Groceries
-2020-05-25,939.54,Target,Home,Home
-2020-09-21,43.4,Target,Home,Home
-2022-06-03,-953.71,Walmart,Groceries,Groceries
-2021-06-03,933.32,ULine,Office Supplies,Work
-2022-12-05,-314.34,Target,Home,Home
-2022-08-11,-966.34,Amazon,Electronics,Shopping
-2021-01-10,-393.73,Amazon,Electronics,Shopping
-2020-01-27,734.56,Target,Home,Home
-2022-10-08,-156.47,Amazon,Electronics,Shopping
-2022-11-01,-658.44,Walmart,Groceries,Groceries
-2020-08-15,-452.34,Walmart,Groceries,Groceries
-2021-03-19,-996.34,Amazon,Electronics,Shopping
-2020-11-02,568.04,Amazon,Electronics,Shopping
-2021-09-03,33.76,Best Buy,Clothing,Apparel
-2022-06-12,-507.71,Best Buy,Clothing,Apparel
-2020-10-25,-565.97,ULine,Office Supplies,Work
-2020-04-04,-424.15,Walmart,Groceries,Groceries
-2020-09-18,396.94,Amazon,Electronics,Shopping
-2022-05-14,860.13,Target,Home,Home
-2020-02-24,-286.66,Target,Home,Home
-2021-02-12,750.94,Target,Home,Home
-2020-04-11,476.69,Walmart,Groceries,Groceries
-2022-12-19,745.29,ULine,Office Supplies,Work
-2020-04-18,-672.16,ULine,Office Supplies,Work
-2021-01-23,932.33,ULine,Office Supplies,Work
-2021-01-06,-44.35,Walmart,Groceries,Groceries
-2020-05-11,169.12,Walmart,Groceries,Groceries
-2020-10-16,-999.98,Walmart,Groceries,Groceries
-2021-07-15,-812.24,Target,Home,Home
-2021-03-09,-452.66,Target,Home,Home
-2021-05-20,-24.65,Target,Home,Home
-2022-06-04,-434.36,Amazon,Electronics,Shopping
-2020-12-19,24.94,Target,Home,Home
-2020-04-02,-160.73,Target,Home,Home
-2020-04-13,169.34,Amazon,Electronics,Shopping
-2022-04-07,-886.01,Target,Home,Home
-2020-09-01,902.24,Best Buy,Clothing,Apparel
-2021-03-03,135.0,ULine,Office Supplies,Work
-2021-09-17,324.29,Target,Home,Home
-2022-02-28,-472.95,ULine,Office Supplies,Work
-2020-12-21,43.26,Best Buy,Clothing,Apparel
-2021-06-08,680.03,Walmart,Groceries,Groceries
-2021-02-26,201.84,Amazon,Electronics,Shopping
-2022-10-20,154.91,Target,Home,Home
-2022-12-13,208.98,Target,Home,Home
-2021-09-15,994.63,Target,Home,Home
-2021-11-04,-543.38,Walmart,Groceries,Groceries
-2020-06-17,-224.68,Walmart,Groceries,Groceries
-2021-12-26,-322.01,Best Buy,Clothing,Apparel
-2022-12-28,721.36,ULine,Office Supplies,Work
-2020-07-23,733.41,ULine,Office Supplies,Work
-2022-06-10,-738.79,Amazon,Electronics,Shopping
-2022-12-17,-445.93,Target,Home,Home
-2021-01-08,-293.2,ULine,Office Supplies,Work
-2020-01-28,512.91,Amazon,Electronics,Shopping
-2021-10-09,497.57,ULine,Office Supplies,Work
-2022-10-13,351.06,Target,Home,Home
-2022-02-18,-833.89,ULine,Office Supplies,Work
-2021-12-02,-217.3,ULine,Office Supplies,Work
-2022-01-16,-588.09,ULine,Office Supplies,Work
-2021-10-03,-518.35,Amazon,Electronics,Shopping
-2020-05-05,255.29,Walmart,Groceries,Groceries
-2022-07-24,722.61,ULine,Office Supplies,Work
-2020-04-16,954.59,Amazon,Electronics,Shopping
-2021-06-19,734.1,Walmart,Groceries,Groceries
-2021-06-05,-243.21,ULine,Office Supplies,Work
-2021-07-18,-508.95,Walmart,Groceries,Groceries
-2020-08-02,132.71,Target,Home,Home
-2022-04-19,-102.1,Amazon,Electronics,Shopping
-2020-11-03,-206.61,ULine,Office Supplies,Work
-2021-11-09,-919.68,Walmart,Groceries,Groceries
-2022-03-23,-28.86,Amazon,Electronics,Shopping
-2020-09-21,902.91,ULine,Office Supplies,Work
-2020-04-11,-613.84,Walmart,Groceries,Groceries
-2022-01-12,169.76,ULine,Office Supplies,Work
-2021-10-06,43.99,ULine,Office Supplies,Work
-2022-06-18,325.75,Walmart,Groceries,Groceries
-2022-06-20,513.11,Target,Home,Home
-2021-04-19,505.63,Amazon,Electronics,Shopping
-2020-06-08,901.18,Best Buy,Clothing,Apparel
-2021-05-21,-247.65,Target,Home,Home
-2021-02-13,-341.77,Amazon,Electronics,Shopping
-2020-08-28,-431.76,Amazon,Electronics,Shopping
-2022-03-21,-510.32,Best Buy,Clothing,Apparel
-2022-07-03,674.94,Target,Home,Home
-2021-09-01,44.36,Walmart,Groceries,Groceries
-2021-06-28,-612.31,Walmart,Groceries,Groceries
-2020-01-13,-872.13,Walmart,Groceries,Groceries
-2021-01-08,-37.83,Walmart,Groceries,Groceries
-2022-06-07,-757.51,Walmart,Groceries,Groceries
-2020-03-26,-623.81,Walmart,Groceries,Groceries
-2022-06-03,161.43,Target,Home,Home
-2020-09-28,-169.52,Best Buy,Clothing,Apparel
-2020-06-09,-658.3,Target,Home,Home
-2021-02-16,-400.82,Walmart,Groceries,Groceries
-2022-08-17,7.65,ULine,Office Supplies,Work
-2020-10-15,-242.07,Target,Home,Home
-2021-03-14,-430.32,Target,Home,Home
-2021-01-20,136.6,Best Buy,Clothing,Apparel
-2022-05-28,527.77,Target,Home,Home
-2022-09-03,780.65,Walmart,Groceries,Groceries
-2022-03-23,-969.05,Walmart,Groceries,Groceries
-2022-12-27,-870.92,Amazon,Electronics,Shopping
-2020-03-19,216.5,ULine,Office Supplies,Work
-2022-03-28,-424.08,ULine,Office Supplies,Work
-2020-02-28,842.39,Amazon,Electronics,Shopping
-2021-11-08,403.68,Best Buy,Clothing,Apparel
-2020-02-22,-872.21,Amazon,Electronics,Shopping
-2020-07-12,544.53,Best Buy,Clothing,Apparel
-2022-06-26,412.63,Amazon,Electronics,Shopping
-2021-10-18,-707.17,Amazon,Electronics,Shopping
-2020-09-18,484.34,Amazon,Electronics,Shopping
-2022-08-09,-50.26,Target,Home,Home
-2020-12-18,830.01,Best Buy,Clothing,Apparel
-2020-12-17,934.78,ULine,Office Supplies,Work
-2022-10-15,-172.3,Target,Home,Home
-2021-01-11,-369.1,ULine,Office Supplies,Work
-2022-03-13,-373.06,Target,Home,Home
-2022-01-21,-52.32,Best Buy,Clothing,Apparel
-2022-03-09,-333.19,Amazon,Electronics,Shopping
-2020-04-25,-329.27,Amazon,Electronics,Shopping
-2021-04-04,-38.52,Amazon,Electronics,Shopping
-2021-11-15,222.74,Target,Home,Home
-2020-01-04,442.57,Amazon,Electronics,Shopping
-2021-07-08,546.77,Target,Home,Home
-2021-01-04,426.73,Target,Home,Home
-2021-08-05,-82.7,Walmart,Groceries,Groceries
-2021-03-26,-969.33,Target,Home,Home
-2020-12-07,-443.64,Target,Home,Home
-2022-04-11,393.84,Walmart,Groceries,Groceries
-2022-06-24,-670.47,Amazon,Electronics,Shopping
-2021-01-23,576.85,Best Buy,Clothing,Apparel
-2021-08-06,53.65,Walmart,Groceries,Groceries
-2021-06-04,476.49,Walmart,Groceries,Groceries
-2022-10-24,-747.31,Target,Home,Home
-2020-01-02,-802.39,Best Buy,Clothing,Apparel
-2022-01-25,-306.98,ULine,Office Supplies,Work
-2022-11-04,98.82,Target,Home,Home
-2020-01-12,-789.22,Amazon,Electronics,Shopping
-2022-03-25,512.65,Best Buy,Clothing,Apparel
-2022-06-16,643.92,Target,Home,Home
-2022-10-21,690.5,Best Buy,Clothing,Apparel
-2021-04-01,5.64,Amazon,Electronics,Shopping
-2020-08-12,-762.41,Amazon,Electronics,Shopping
-2020-10-04,-788.25,Amazon,Electronics,Shopping
-2021-05-02,476.92,Best Buy,Clothing,Apparel
-2021-02-14,-625.36,Amazon,Electronics,Shopping
-2022-11-13,-738.29,Best Buy,Clothing,Apparel
-2020-06-18,-818.88,Best Buy,Clothing,Apparel
-2022-11-14,-433.69,ULine,Office Supplies,Work
-2021-12-12,-134.12,Walmart,Groceries,Groceries
-2022-08-22,-78.46,Target,Home,Home
-2022-02-08,-155.47,Target,Home,Home
-2020-02-26,508.81,ULine,Office Supplies,Work
-2022-07-09,381.15,ULine,Office Supplies,Work
-2020-09-07,520.98,ULine,Office Supplies,Work
-2022-05-14,-504.72,ULine,Office Supplies,Work
-2020-02-06,628.27,ULine,Office Supplies,Work
-2022-10-22,485.64,Walmart,Groceries,Groceries
-2020-10-06,-850.34,Best Buy,Clothing,Apparel
-2021-11-08,-608.36,Target,Home,Home
-2020-08-23,-33.16,Amazon,Electronics,Shopping
-2021-12-10,-882.85,Walmart,Groceries,Groceries
-2022-05-06,915.57,ULine,Office Supplies,Work
-2021-05-26,-327.53,Best Buy,Clothing,Apparel
-2021-03-10,568.46,ULine,Office Supplies,Work
-2022-09-11,4.54,Best Buy,Clothing,Apparel
-2020-09-05,-803.06,ULine,Office Supplies,Work
-2021-08-24,-567.91,Walmart,Groceries,Groceries
-2021-09-12,-618.71,Walmart,Groceries,Groceries
-2021-10-06,203.94,Walmart,Groceries,Groceries
-2022-02-14,72.49,Amazon,Electronics,Shopping
-2021-12-18,87.98,Walmart,Groceries,Groceries
-2020-11-02,301.7,ULine,Office Supplies,Work
-2021-07-23,991.42,Amazon,Electronics,Shopping
-2021-07-19,164.39,Best Buy,Clothing,Apparel
-2020-11-14,58.98,Amazon,Electronics,Shopping
-2020-09-12,446.88,Best Buy,Clothing,Apparel
-2020-05-05,258.75,Walmart,Groceries,Groceries
-2021-12-07,-97.78,ULine,Office Supplies,Work
-2020-12-25,759.97,ULine,Office Supplies,Work
-2022-09-04,-780.99,ULine,Office Supplies,Work
-2020-04-27,-437.81,Target,Home,Home
-2022-09-20,-336.7,Best Buy,Clothing,Apparel
-2022-12-05,-297.2,Amazon,Electronics,Shopping
-2021-01-27,675.14,ULine,Office Supplies,Work
-2020-02-17,-122.15,Amazon,Electronics,Shopping
-2022-08-05,341.96,Walmart,Groceries,Groceries
-2022-02-13,-880.08,Target,Home,Home
-2022-01-23,-655.74,ULine,Office Supplies,Work
-2022-11-07,-662.74,Best Buy,Clothing,Apparel
-2020-08-09,-928.2,Best Buy,Clothing,Apparel
-2020-06-18,366.24,Best Buy,Clothing,Apparel
-2021-12-12,-760.23,ULine,Office Supplies,Work
-2021-06-24,-756.44,Amazon,Electronics,Shopping
-2021-01-12,-481.91,Best Buy,Clothing,Apparel
-2022-11-23,-751.4,Target,Home,Home
-2022-01-22,977.82,ULine,Office Supplies,Work
-2021-04-15,-292.21,Best Buy,Clothing,Apparel
-2020-07-10,34.65,Walmart,Groceries,Groceries
-2021-08-16,-823.59,Amazon,Electronics,Shopping
-2022-05-20,-374.3,Best Buy,Clothing,Apparel
-2022-12-13,532.97,Best Buy,Clothing,Apparel
-2022-04-17,447.73,Walmart,Groceries,Groceries
-2021-05-27,-555.82,Best Buy,Clothing,Apparel
-2021-02-21,302.99,Target,Home,Home
-2020-08-11,-369.55,Walmart,Groceries,Groceries
-2021-02-22,-578.47,Walmart,Groceries,Groceries
-2022-01-13,-928.05,Best Buy,Clothing,Apparel
-2021-04-16,825.13,Walmart,Groceries,Groceries
-2020-10-18,275.66,Walmart,Groceries,Groceries
-2022-02-14,-887.63,Best Buy,Clothing,Apparel
-2020-11-07,-566.84,Target,Home,Home
-2021-10-01,-966.03,ULine,Office Supplies,Work
-2020-01-24,-271.98,Best Buy,Clothing,Apparel
-2022-09-19,-967.57,ULine,Office Supplies,Work
-2022-08-16,-914.23,Best Buy,Clothing,Apparel
-2020-12-05,-791.27,Target,Home,Home
-2022-07-13,-480.07,Target,Home,Home
-2022-10-02,-838.35,Best Buy,Clothing,Apparel
-2022-04-03,554.88,Walmart,Groceries,Groceries
-2021-01-24,-935.6,ULine,Office Supplies,Work
-2020-05-04,-887.26,ULine,Office Supplies,Work
-2022-09-22,-129.14,Walmart,Groceries,Groceries
-2020-01-14,-479.68,ULine,Office Supplies,Work
-2021-03-10,673.54,Walmart,Groceries,Groceries
-2020-12-21,562.87,Best Buy,Clothing,Apparel
-2022-07-24,-109.61,Amazon,Electronics,Shopping
-2021-08-20,-106.99,Best Buy,Clothing,Apparel
-2020-05-02,-651.81,Best Buy,Clothing,Apparel
-2021-07-19,2.22,Target,Home,Home
-2021-09-28,192.7,ULine,Office Supplies,Work
-2020-11-07,-511.02,ULine,Office Supplies,Work
-2021-05-22,910.38,Target,Home,Home
-2022-07-02,74.61,Target,Home,Home
-2022-11-04,706.62,ULine,Office Supplies,Work
-2020-01-16,-280.48,Target,Home,Home
-2022-09-21,-285.9,Target,Home,Home
-2020-05-18,-903.18,Target,Home,Home
-2021-01-06,-46.32,Best Buy,Clothing,Apparel
-2022-06-05,-365.84,Amazon,Electronics,Shopping
-2020-10-11,-952.47,Best Buy,Clothing,Apparel
-2022-07-04,837.11,Walmart,Groceries,Groceries
-2021-03-03,458.84,Walmart,Groceries,Groceries
-2020-01-14,99.45,Best Buy,Clothing,Apparel
-2022-02-27,-209.79,Target,Home,Home
-2021-03-06,-94.79,ULine,Office Supplies,Work
-2022-02-14,65.2,Best Buy,Clothing,Apparel
-2022-11-05,706.13,ULine,Office Supplies,Work
-2020-07-20,341.39,Amazon,Electronics,Shopping
-2020-02-05,149.0,Walmart,Groceries,Groceries
-2022-06-17,-312.75,Best Buy,Clothing,Apparel
-2021-06-16,932.09,Best Buy,Clothing,Apparel
-2022-09-25,883.74,Best Buy,Clothing,Apparel
-2021-03-05,-55.05,Amazon,Electronics,Shopping
-2021-01-14,-441.57,Amazon,Electronics,Shopping
-2021-08-27,209.36,Best Buy,Clothing,Apparel
-2021-06-07,168.87,ULine,Office Supplies,Work
-2020-05-21,-160.04,ULine,Office Supplies,Work
-2020-12-25,900.99,ULine,Office Supplies,Work
-2021-10-04,-13.51,Walmart,Groceries,Groceries
-2020-10-25,618.95,Target,Home,Home
-2022-06-18,-693.58,Best Buy,Clothing,Apparel
-2021-03-19,413.86,Best Buy,Clothing,Apparel
-2020-07-09,566.26,ULine,Office Supplies,Work
-2022-09-20,561.93,Amazon,Electronics,Shopping
-2022-12-21,-126.79,Amazon,Electronics,Shopping
-2022-06-14,719.23,Amazon,Electronics,Shopping
-2021-05-04,-196.66,Target,Home,Home
-2021-06-15,-492.64,Best Buy,Clothing,Apparel
-2021-11-28,-430.1,ULine,Office Supplies,Work
-2022-07-25,352.84,Best Buy,Clothing,Apparel
-2021-04-09,-164.67,ULine,Office Supplies,Work
-2020-06-16,292.6,Best Buy,Clothing,Apparel
-2021-08-14,-101.81,Target,Home,Home
-2020-03-09,-212.44,Amazon,Electronics,Shopping
-2020-02-26,949.68,Target,Home,Home
-2020-01-24,-874.9,Walmart,Groceries,Groceries
-2020-03-13,-929.2,Best Buy,Clothing,Apparel
-2022-11-27,940.96,ULine,Office Supplies,Work
-2021-11-10,159.04,ULine,Office Supplies,Work
-2020-03-21,330.13,Target,Home,Home
-2021-05-12,-258.13,ULine,Office Supplies,Work
-2022-11-13,-914.87,Target,Home,Home
-2020-08-23,482.64,Best Buy,Clothing,Apparel
-2021-05-06,-136.33,Target,Home,Home
-2021-03-01,-954.28,Target,Home,Home
-2020-12-24,-865.55,Amazon,Electronics,Shopping
-2020-01-07,-507.3,Best Buy,Clothing,Apparel
-2020-05-02,-127.5,Target,Home,Home
-2020-11-26,-868.29,Amazon,Electronics,Shopping
-2021-11-18,682.26,Best Buy,Clothing,Apparel
-2020-01-27,827.17,ULine,Office Supplies,Work
-2021-12-28,765.55,Walmart,Groceries,Groceries
-2022-09-12,206.55,ULine,Office Supplies,Work
-2021-11-20,-796.09,Best Buy,Clothing,Apparel
-2022-08-09,462.7,Amazon,Electronics,Shopping
-2021-01-07,935.89,Best Buy,Clothing,Apparel
-2022-05-17,443.77,Walmart,Groceries,Groceries
-2021-06-03,-769.97,Walmart,Groceries,Groceries
-2021-06-25,-431.96,Best Buy,Clothing,Apparel
-2021-03-24,980.04,Target,Home,Home
-2022-07-26,-767.68,Amazon,Electronics,Shopping
-2021-10-21,503.62,ULine,Office Supplies,Work
-2021-10-27,469.4,Walmart,Groceries,Groceries
-2022-05-16,583.98,Best Buy,Clothing,Apparel
-2021-01-25,871.06,Target,Home,Home
-2022-01-08,-872.74,Amazon,Electronics,Shopping
-2020-11-10,883.43,Target,Home,Home
-2020-09-25,-989.74,Amazon,Electronics,Shopping
-2022-03-12,83.72,Amazon,Electronics,Shopping
-2020-01-06,-380.78,ULine,Office Supplies,Work
-2020-04-02,-522.38,Best Buy,Clothing,Apparel
-2020-03-28,-699.77,Target,Home,Home
-2021-09-27,-142.66,ULine,Office Supplies,Work
-2022-03-05,-82.67,Target,Home,Home
-2020-05-17,316.17,Best Buy,Clothing,Apparel
-2021-01-03,-653.24,Target,Home,Home
-2022-04-14,-9.9,Amazon,Electronics,Shopping
-2021-02-08,655.31,Amazon,Electronics,Shopping
-2020-05-09,-303.75,Walmart,Groceries,Groceries
-2021-08-27,-391.06,Best Buy,Clothing,Apparel
-2021-03-15,-486.72,Amazon,Electronics,Shopping
-2021-05-03,146.54,Target,Home,Home
-2022-10-13,-887.08,Amazon,Electronics,Shopping
-2020-07-23,-993.76,Best Buy,Clothing,Apparel
-2021-08-22,170.13,Walmart,Groceries,Groceries
-2022-06-15,-720.99,Walmart,Groceries,Groceries
-2022-01-01,-646.96,Best Buy,Clothing,Apparel
-2021-10-27,-858.77,Walmart,Groceries,Groceries
-2020-05-01,-331.22,ULine,Office Supplies,Work
-2022-05-04,858.3,Amazon,Electronics,Shopping
-2021-07-23,-176.19,Target,Home,Home
-2020-12-11,-151.97,Walmart,Groceries,Groceries
-2021-08-26,-520.8,Walmart,Groceries,Groceries
-2022-05-01,996.62,Walmart,Groceries,Groceries
-2022-02-20,321.39,Amazon,Electronics,Shopping
-2022-09-20,-551.49,Target,Home,Home
-2022-11-06,887.1,Best Buy,Clothing,Apparel
-2022-12-02,-205.51,Walmart,Groceries,Groceries
-2020-10-18,-375.7,Amazon,Electronics,Shopping
-2020-03-04,-584.6,Target,Home,Home
-2022-05-08,-81.49,Best Buy,Clothing,Apparel
-2020-10-26,241.32,ULine,Office Supplies,Work
-2021-01-12,538.5,Walmart,Groceries,Groceries
-2020-12-20,-436.31,Best Buy,Clothing,Apparel
-2021-11-23,-188.08,Amazon,Electronics,Shopping
-2021-02-28,-954.67,Amazon,Electronics,Shopping
-2021-07-05,-405.04,Target,Home,Home
-2020-07-06,733.55,Best Buy,Clothing,Apparel
-2020-10-08,-122.59,Walmart,Groceries,Groceries
-2022-05-25,-937.97,Amazon,Electronics,Shopping
-2020-01-26,-581.0,Best Buy,Clothing,Apparel
-2020-04-10,394.45,ULine,Office Supplies,Work
-2020-09-19,-26.87,Target,Home,Home
-2021-12-11,868.04,ULine,Office Supplies,Work
-2022-08-05,-106.19,Walmart,Groceries,Groceries
-2021-09-17,-640.07,Amazon,Electronics,Shopping
-2020-10-02,166.97,Amazon,Electronics,Shopping
-2020-09-19,-477.57,Amazon,Electronics,Shopping
-2021-07-22,-909.27,ULine,Office Supplies,Work
-2020-04-03,842.33,Target,Home,Home
-2020-05-26,-213.14,Amazon,Electronics,Shopping
-2020-05-19,-586.81,Amazon,Electronics,Shopping
-2021-10-25,362.5,ULine,Office Supplies,Work
-2020-03-17,628.32,Amazon,Electronics,Shopping
-2020-01-19,-247.54,Target,Home,Home
-2022-07-21,854.89,Amazon,Electronics,Shopping
-2021-09-06,-348.41,Walmart,Groceries,Groceries
-2020-12-22,-435.81,Best Buy,Clothing,Apparel
-2022-03-09,865.64,Walmart,Groceries,Groceries
-2021-01-04,-535.07,Amazon,Electronics,Shopping
-2022-01-19,-554.09,ULine,Office Supplies,Work
-2021-07-03,-323.55,Target,Home,Home
-2022-02-02,-139.56,Best Buy,Clothing,Apparel
-2021-12-03,945.88,Target,Home,Home
-2020-11-21,724.69,Amazon,Electronics,Shopping
-2020-01-21,47.64,Walmart,Groceries,Groceries
-2021-05-02,744.24,Best Buy,Clothing,Apparel
-2020-06-25,-920.84,ULine,Office Supplies,Work
-2022-06-27,-771.27,Best Buy,Clothing,Apparel
-2020-05-18,-466.51,Best Buy,Clothing,Apparel
-2022-07-24,-74.01,Amazon,Electronics,Shopping
-2020-12-08,937.65,ULine,Office Supplies,Work
-2020-04-22,-678.43,ULine,Office Supplies,Work
-2022-04-13,-177.2,Amazon,Electronics,Shopping
-2022-11-04,-11.71,ULine,Office Supplies,Work
-2022-09-08,-679.11,Walmart,Groceries,Groceries
-2021-11-07,-342.96,Amazon,Electronics,Shopping
-2021-12-10,-200.61,Target,Home,Home
-2021-02-03,429.53,Walmart,Groceries,Groceries
-2021-07-02,-27.32,ULine,Office Supplies,Work
-2022-10-23,776.69,ULine,Office Supplies,Work
-2020-12-20,-844.93,Amazon,Electronics,Shopping
-2021-12-06,861.31,Target,Home,Home
-2021-02-02,226.16,Best Buy,Clothing,Apparel
-2022-03-26,359.93,Best Buy,Clothing,Apparel
-2022-12-01,886.12,Target,Home,Home
-2020-09-19,-444.06,Walmart,Groceries,Groceries
-2022-10-26,989.5,ULine,Office Supplies,Work
-2022-11-24,-944.2,ULine,Office Supplies,Work
-2022-06-25,-925.18,ULine,Office Supplies,Work
-2020-11-08,129.75,Walmart,Groceries,Groceries
-2020-12-10,-476.06,Walmart,Groceries,Groceries
-2022-01-22,360.61,Best Buy,Clothing,Apparel
-2022-08-07,694.48,Amazon,Electronics,Shopping
-2022-07-22,612.0,Walmart,Groceries,Groceries
-2022-03-16,127.76,Amazon,Electronics,Shopping
-2021-07-22,-740.21,Target,Home,Home
-2022-09-10,842.78,Best Buy,Clothing,Apparel
-2021-02-16,668.98,Amazon,Electronics,Shopping
-2020-05-22,-731.26,Target,Home,Home
-2022-12-16,-437.5,Best Buy,Clothing,Apparel
-2021-02-13,-247.21,Target,Home,Home
-2021-12-15,332.96,Target,Home,Home
-2020-11-15,634.58,Amazon,Electronics,Shopping
-2020-05-07,995.08,Amazon,Electronics,Shopping
-2022-10-01,448.47,ULine,Office Supplies,Work
-2022-01-15,-803.84,Best Buy,Clothing,Apparel
-2020-08-26,334.15,Target,Home,Home
-2020-10-14,-623.24,Target,Home,Home
-2022-06-10,113.87,Amazon,Electronics,Shopping
-2022-06-12,682.6,Amazon,Electronics,Shopping
-2020-05-11,387.43,Best Buy,Clothing,Apparel
-2022-01-16,-347.36,Target,Home,Home
-2022-10-12,-638.81,Target,Home,Home
-2020-11-12,750.84,Amazon,Electronics,Shopping
-2021-10-14,696.26,ULine,Office Supplies,Work
-2020-01-21,968.83,Target,Home,Home
-2022-10-09,-830.41,ULine,Office Supplies,Work
-2022-07-02,-641.61,Target,Home,Home
-2021-07-27,833.83,Target,Home,Home
-2020-04-09,-728.27,Walmart,Groceries,Groceries
-2020-09-15,561.29,Walmart,Groceries,Groceries
-2020-06-20,-190.13,Best Buy,Clothing,Apparel
-2022-06-15,-519.99,Target,Home,Home
-2021-12-17,-258.74,Walmart,Groceries,Groceries
-2022-03-09,-922.02,ULine,Office Supplies,Work
-2022-07-09,-14.05,Best Buy,Clothing,Apparel
-2022-05-13,-797.13,Walmart,Groceries,Groceries
-2021-11-26,392.12,Best Buy,Clothing,Apparel
-2022-07-09,169.67,Best Buy,Clothing,Apparel
-2021-01-06,894.54,Amazon,Electronics,Shopping
-2022-08-10,-169.32,ULine,Office Supplies,Work
-2021-08-17,872.08,Best Buy,Clothing,Apparel
-2020-04-23,261.47,Best Buy,Clothing,Apparel
-2021-02-18,970.36,Best Buy,Clothing,Apparel
-2022-03-28,533.65,Amazon,Electronics,Shopping
-2021-01-16,-741.06,Best Buy,Clothing,Apparel
-2020-03-17,-558.29,Walmart,Groceries,Groceries
-2021-09-17,354.07,ULine,Office Supplies,Work
-2020-05-01,-998.56,Best Buy,Clothing,Apparel
-2020-08-21,755.23,Best Buy,Clothing,Apparel
-2022-03-12,-257.46,Amazon,Electronics,Shopping
-2022-08-05,70.4,ULine,Office Supplies,Work
-2022-08-17,11.91,Walmart,Groceries,Groceries
-2020-09-07,-577.13,Target,Home,Home
-2020-03-21,-452.68,Walmart,Groceries,Groceries
-2020-07-18,-247.83,Best Buy,Clothing,Apparel
-2022-03-08,273.04,Amazon,Electronics,Shopping
-2020-06-25,-355.29,Best Buy,Clothing,Apparel
-2021-03-18,-346.93,Amazon,Electronics,Shopping
-2020-05-23,-199.26,Walmart,Groceries,Groceries
-2021-11-12,-59.63,Amazon,Electronics,Shopping
-2020-02-01,221.0,Walmart,Groceries,Groceries
-2021-12-06,-239.15,Target,Home,Home
-2022-07-15,201.49,Amazon,Electronics,Shopping
-2020-05-19,-669.33,Amazon,Electronics,Shopping
-2022-06-11,223.37,Amazon,Electronics,Shopping
-2021-02-22,827.33,Amazon,Electronics,Shopping
-2021-03-18,138.56,Best Buy,Clothing,Apparel
-2022-10-16,858.48,Best Buy,Clothing,Apparel
-2021-01-27,-717.94,Walmart,Groceries,Groceries
-2020-07-09,730.61,Walmart,Groceries,Groceries
-2022-09-18,-667.92,ULine,Office Supplies,Work
-2022-09-02,211.08,Walmart,Groceries,Groceries
-2021-08-23,-636.39,Best Buy,Clothing,Apparel
-2020-01-13,-981.19,Walmart,Groceries,Groceries
-2020-09-10,-798.64,Target,Home,Home
-2020-02-09,99.9,Amazon,Electronics,Shopping
-2022-07-24,-50.06,ULine,Office Supplies,Work
-2022-02-09,-976.6,Walmart,Groceries,Groceries
-2020-10-17,408.45,Best Buy,Clothing,Apparel
-2020-05-01,371.17,Best Buy,Clothing,Apparel
-2022-05-04,407.02,ULine,Office Supplies,Work
-2020-07-07,-85.15,Walmart,Groceries,Groceries
-2021-07-14,-140.87,Best Buy,Clothing,Apparel
-2021-05-14,-571.23,Amazon,Electronics,Shopping
-2022-12-27,479.25,Target,Home,Home
-2021-04-01,987.86,Walmart,Groceries,Groceries
-2020-05-17,374.77,Best Buy,Clothing,Apparel
-2021-07-17,-953.85,Best Buy,Clothing,Apparel
-2022-09-10,-359.82,Best Buy,Clothing,Apparel
-2021-09-06,-656.01,Amazon,Electronics,Shopping
-2020-06-24,167.92,Walmart,Groceries,Groceries
-2021-08-11,-211.42,Amazon,Electronics,Shopping
-2021-01-03,416.35,Amazon,Electronics,Shopping
-2020-08-19,915.07,ULine,Office Supplies,Work
-2020-01-11,248.33,Target,Home,Home
-2022-04-16,203.07,Walmart,Groceries,Groceries
-2022-12-17,874.55,ULine,Office Supplies,Work
-2022-11-20,641.6,Target,Home,Home
-2020-06-24,-726.31,Walmart,Groceries,Groceries
-2021-07-06,995.68,Walmart,Groceries,Groceries
-2021-11-10,-949.64,Walmart,Groceries,Groceries
-2020-01-23,321.28,Walmart,Groceries,Groceries
-2021-04-04,-226.65,Target,Home,Home
-2021-12-21,-954.12,ULine,Office Supplies,Work
-2020-06-03,-366.39,Amazon,Electronics,Shopping
-2021-02-18,-653.83,Target,Home,Home
-2020-11-02,-298.92,Walmart,Groceries,Groceries
-2021-06-28,186.84,ULine,Office Supplies,Work
-2021-10-05,-858.17,ULine,Office Supplies,Work
-2021-08-01,-908.44,Best Buy,Clothing,Apparel
-2021-01-22,767.91,ULine,Office Supplies,Work
-2022-11-23,-231.96,Walmart,Groceries,Groceries
-2021-03-09,535.41,Best Buy,Clothing,Apparel
-2022-10-15,-87.48,Amazon,Electronics,Shopping
-2021-07-12,-547.13,Amazon,Electronics,Shopping
-2021-02-24,-100.89,Best Buy,Clothing,Apparel
-2022-08-06,171.63,Walmart,Groceries,Groceries
-2021-09-18,695.98,Amazon,Electronics,Shopping
-2020-01-23,-259.84,Walmart,Groceries,Groceries
-2022-05-14,758.26,Walmart,Groceries,Groceries
-2020-11-27,-13.05,Best Buy,Clothing,Apparel
-2020-07-19,-971.87,ULine,Office Supplies,Work
-2021-08-16,29.98,Best Buy,Clothing,Apparel
-2020-11-15,538.09,Best Buy,Clothing,Apparel
-2022-09-03,-898.27,Best Buy,Clothing,Apparel
-2020-06-18,600.37,Best Buy,Clothing,Apparel
-2020-07-19,335.65,Walmart,Groceries,Groceries
-2021-01-06,253.96,Walmart,Groceries,Groceries
-2022-03-13,458.02,Amazon,Electronics,Shopping
-2021-09-07,-793.9,ULine,Office Supplies,Work
-2022-04-11,485.5,Target,Home,Home
-2020-07-10,311.01,Walmart,Groceries,Groceries
-2022-05-25,-375.87,Amazon,Electronics,Shopping
-2020-01-05,-180.61,Walmart,Groceries,Groceries
-2021-05-19,-47.67,Best Buy,Clothing,Apparel
-2020-05-17,894.69,ULine,Office Supplies,Work
-2022-10-05,0.75,Target,Home,Home
-2022-03-04,-169.13,Walmart,Groceries,Groceries
-2021-01-13,320.85,Amazon,Electronics,Shopping
-2021-10-20,-260.37,ULine,Office Supplies,Work
-2022-01-10,-597.43,ULine,Office Supplies,Work
-2021-11-25,439.47,ULine,Office Supplies,Work
-2020-11-14,-256.7,Amazon,Electronics,Shopping
-2020-01-23,749.62,Walmart,Groceries,Groceries
-2020-03-06,-424.2,Walmart,Groceries,Groceries
-2020-08-23,683.57,Target,Home,Home
-2020-12-24,273.9,ULine,Office Supplies,Work
-2020-11-26,357.68,Amazon,Electronics,Shopping
-2020-01-22,315.73,Amazon,Electronics,Shopping
-2021-07-21,-45.97,ULine,Office Supplies,Work
-2021-04-14,-394.3,Best Buy,Clothing,Apparel
-2021-09-27,963.84,Best Buy,Clothing,Apparel
-2021-11-12,748.74,Best Buy,Clothing,Apparel
-2020-06-23,271.74,Amazon,Electronics,Shopping
-2022-09-04,-314.94,ULine,Office Supplies,Work
-2020-11-15,-966.49,Amazon,Electronics,Shopping
-2021-08-04,-704.29,Walmart,Groceries,Groceries
-2020-06-25,-958.01,Amazon,Electronics,Shopping
-2020-03-24,599.26,Walmart,Groceries,Groceries
-2021-08-24,321.21,ULine,Office Supplies,Work
-2022-04-06,946.22,Best Buy,Clothing,Apparel
-2021-08-04,-596.34,Amazon,Electronics,Shopping
-2022-04-10,698.48,Best Buy,Clothing,Apparel
-2022-08-23,525.58,Target,Home,Home
-2020-06-01,-275.81,Amazon,Electronics,Shopping
-2022-10-10,153.16,Amazon,Electronics,Shopping
-2020-12-20,967.44,Target,Home,Home
-2022-09-08,497.85,Amazon,Electronics,Shopping
-2021-02-04,-949.48,Target,Home,Home
-2020-03-09,-235.19,Best Buy,Clothing,Apparel
-2020-09-07,730.81,Best Buy,Clothing,Apparel
-2022-01-27,-639.82,Amazon,Electronics,Shopping
-2022-04-14,-932.55,Walmart,Groceries,Groceries
-2021-08-09,634.93,ULine,Office Supplies,Work
-2022-09-20,369.78,Walmart,Groceries,Groceries
-2022-02-10,375.61,Best Buy,Clothing,Apparel
-2020-09-01,329.49,Amazon,Electronics,Shopping
-2020-05-07,-245.99,Target,Home,Home
-2021-03-25,175.82,Target,Home,Home
-2022-08-25,162.05,ULine,Office Supplies,Work
-2020-02-06,-46.86,Walmart,Groceries,Groceries
-2020-10-19,412.14,Target,Home,Home
-2022-06-01,-605.09,Amazon,Electronics,Shopping
-2021-02-25,-428.97,Walmart,Groceries,Groceries
-2021-10-20,733.14,Amazon,Electronics,Shopping
-2022-04-06,-782.1,Walmart,Groceries,Groceries
-2021-06-26,479.22,Walmart,Groceries,Groceries
-2022-09-21,-573.77,Amazon,Electronics,Shopping
-2020-04-28,4.13,Amazon,Electronics,Shopping
-2022-01-05,-254.85,Walmart,Groceries,Groceries
-2022-05-26,-188.06,Amazon,Electronics,Shopping
-2021-09-01,-361.03,ULine,Office Supplies,Work
-2022-06-24,-173.11,ULine,Office Supplies,Work
-2021-10-05,-623.35,ULine,Office Supplies,Work
-2021-02-17,-604.66,Walmart,Groceries,Groceries
-2022-12-10,501.61,Walmart,Groceries,Groceries
-2021-08-15,-465.56,Walmart,Groceries,Groceries
-2020-03-22,-759.7,Best Buy,Clothing,Apparel
-2022-09-09,-607.31,Walmart,Groceries,Groceries
-2022-03-26,-303.36,Target,Home,Home
-2020-08-10,490.71,ULine,Office Supplies,Work
-2022-11-21,878.98,Best Buy,Clothing,Apparel
-2020-11-11,-233.85,ULine,Office Supplies,Work
-2021-07-16,-514.95,Target,Home,Home
-2022-12-24,-36.24,Walmart,Groceries,Groceries
-2021-05-23,-615.86,Walmart,Groceries,Groceries
-2021-01-17,-209.94,Best Buy,Clothing,Apparel
-2020-02-03,-258.22,Walmart,Groceries,Groceries
-2022-01-11,-841.31,ULine,Office Supplies,Work
-2020-02-19,352.24,ULine,Office Supplies,Work
-2020-10-06,-861.12,Walmart,Groceries,Groceries
-2022-06-19,-659.56,ULine,Office Supplies,Work
-2022-03-25,-433.06,Target,Home,Home
-2020-05-07,259.17,Amazon,Electronics,Shopping
-2022-04-04,-960.1,Target,Home,Home
-2020-11-19,-825.08,Walmart,Groceries,Groceries
-2022-05-21,-431.25,Target,Home,Home
-2020-07-14,473.73,Amazon,Electronics,Shopping
-2020-08-28,404.55,Amazon,Electronics,Shopping
-2020-05-09,449.0,Walmart,Groceries,Groceries
-2020-02-20,759.5,Walmart,Groceries,Groceries
-2020-09-21,-131.16,Best Buy,Clothing,Apparel
-2022-03-28,-104.15,ULine,Office Supplies,Work
-2021-07-02,-391.72,Amazon,Electronics,Shopping
-2021-02-19,-146.83,Best Buy,Clothing,Apparel
-2022-01-11,-875.09,Target,Home,Home
-2020-10-22,90.78,Target,Home,Home
-2020-02-01,118.23,Walmart,Groceries,Groceries
-2021-08-13,790.48,Amazon,Electronics,Shopping
-2021-09-27,-671.64,Amazon,Electronics,Shopping
-2021-03-10,-9.82,Walmart,Groceries,Groceries
-2020-06-08,-904.99,ULine,Office Supplies,Work
-2020-10-11,-497.44,ULine,Office Supplies,Work
-2022-04-12,-115.54,Target,Home,Home
-2022-02-02,522.47,Target,Home,Home
-2020-08-10,543.77,Best Buy,Clothing,Apparel
-2020-12-20,531.91,Amazon,Electronics,Shopping
-2021-06-01,-262.13,Target,Home,Home
-2020-10-04,101.88,Best Buy,Clothing,Apparel
-2021-09-08,-993.38,Best Buy,Clothing,Apparel
-2020-01-18,601.82,Best Buy,Clothing,Apparel
-2020-11-19,508.58,ULine,Office Supplies,Work
-2021-09-20,822.3,Best Buy,Clothing,Apparel
-2020-01-09,-801.49,Amazon,Electronics,Shopping
-2021-03-14,379.33,Best Buy,Clothing,Apparel
-2021-07-22,-306.62,Best Buy,Clothing,Apparel
-2020-07-23,-45.45,Walmart,Groceries,Groceries
-2022-08-13,781.55,Target,Home,Home
-2022-04-22,669.51,ULine,Office Supplies,Work
-2021-12-21,287.08,Amazon,Electronics,Shopping
-2021-11-26,917.83,Best Buy,Clothing,Apparel
-2020-04-20,795.29,ULine,Office Supplies,Work
-2022-02-09,-754.61,ULine,Office Supplies,Work
-2022-02-23,-334.13,Target,Home,Home
-2020-09-23,284.03,ULine,Office Supplies,Work
-2022-05-08,17.54,Best Buy,Clothing,Apparel
-2021-08-01,781.39,Walmart,Groceries,Groceries
-2021-01-16,-866.7,Amazon,Electronics,Shopping
-2020-01-10,142.4,Best Buy,Clothing,Apparel
-2021-10-14,-557.34,Amazon,Electronics,Shopping
-2022-09-06,-374.72,ULine,Office Supplies,Work
-2022-01-22,600.28,Amazon,Electronics,Shopping
-2020-05-24,984.04,Walmart,Groceries,Groceries
-2022-06-05,859.22,ULine,Office Supplies,Work
-2022-08-24,-905.13,Target,Home,Home
-2022-09-13,-734.06,Best Buy,Clothing,Apparel
-2022-03-26,484.64,Walmart,Groceries,Groceries
-2022-10-20,-394.88,ULine,Office Supplies,Work
-2022-10-23,788.88,Walmart,Groceries,Groceries
-2022-08-08,445.5,Target,Home,Home
-2021-10-28,-222.08,Amazon,Electronics,Shopping
-2020-02-16,-198.46,Walmart,Groceries,Groceries
-2021-11-07,948.39,Target,Home,Home
-2022-10-20,219.18,ULine,Office Supplies,Work
-2022-07-18,-140.89,Amazon,Electronics,Shopping
-2021-02-23,335.55,Best Buy,Clothing,Apparel
-2021-05-04,-492.72,Target,Home,Home
-2021-06-13,180.11,Target,Home,Home
-2020-08-14,764.11,Best Buy,Clothing,Apparel
-2021-07-24,950.78,Walmart,Groceries,Groceries
-2021-01-05,-420.19,Walmart,Groceries,Groceries
-2020-11-26,-784.07,Walmart,Groceries,Groceries
-2021-03-08,950.21,Target,Home,Home
-2021-02-02,313.26,Amazon,Electronics,Shopping
-2021-11-12,-922.82,Target,Home,Home
-2022-09-22,-726.57,Walmart,Groceries,Groceries
-2022-01-09,468.34,Target,Home,Home
-2021-08-04,796.44,Amazon,Electronics,Shopping
-2020-05-19,621.98,Best Buy,Clothing,Apparel
-2022-08-07,-833.82,Amazon,Electronics,Shopping
-2020-10-02,-529.99,ULine,Office Supplies,Work
-2022-08-09,-717.69,Target,Home,Home
-2020-09-09,743.43,Target,Home,Home
-2022-09-15,848.06,Best Buy,Clothing,Apparel
-2020-06-03,-798.7,Best Buy,Clothing,Apparel
-2021-02-10,132.52,ULine,Office Supplies,Work
-2022-08-06,-474.34,Best Buy,Clothing,Apparel
-2022-07-09,883.8,Best Buy,Clothing,Apparel
-2020-09-05,851.15,Amazon,Electronics,Shopping
-2022-05-04,-812.2,ULine,Office Supplies,Work
-2021-08-18,557.54,Walmart,Groceries,Groceries
-2022-11-19,-584.54,Walmart,Groceries,Groceries
-2022-09-23,-826.74,ULine,Office Supplies,Work
-2021-07-06,154.22,Amazon,Electronics,Shopping
-2020-05-26,753.53,Walmart,Groceries,Groceries
-2022-03-04,-295.02,Best Buy,Clothing,Apparel
-2021-07-19,428.81,Target,Home,Home
-2022-05-11,840.42,ULine,Office Supplies,Work
-2020-06-17,454.96,Walmart,Groceries,Groceries
-2021-02-23,-613.05,ULine,Office Supplies,Work
-2020-08-28,792.81,Best Buy,Clothing,Apparel
-2020-04-22,-502.11,Target,Home,Home
-2021-02-14,163.37,Target,Home,Home
-2020-01-23,493.12,Best Buy,Clothing,Apparel
-2021-08-27,945.12,Walmart,Groceries,Groceries
-2020-11-17,-335.68,Walmart,Groceries,Groceries
-2021-09-27,-116.3,ULine,Office Supplies,Work
-2021-01-17,376.21,Target,Home,Home
-2021-10-24,-24.3,Amazon,Electronics,Shopping
-2022-07-17,-278.35,Walmart,Groceries,Groceries
-2022-09-15,865.65,ULine,Office Supplies,Work
-2020-04-13,158.76,Amazon,Electronics,Shopping
-2020-07-18,-81.71,Best Buy,Clothing,Apparel
-2022-07-06,519.72,Target,Home,Home
-2022-01-10,-636.24,ULine,Office Supplies,Work
-2020-07-25,528.5,ULine,Office Supplies,Work
-2020-06-22,-779.73,Target,Home,Home
-2021-12-17,7.23,Walmart,Groceries,Groceries
-2022-08-11,726.69,Target,Home,Home
-2022-05-06,782.64,Best Buy,Clothing,Apparel
-2022-07-26,-549.49,Target,Home,Home
-2021-09-25,758.29,Walmart,Groceries,Groceries
-2022-05-07,-197.93,Target,Home,Home
-2022-03-16,-729.23,Target,Home,Home
-2022-01-06,-995.81,ULine,Office Supplies,Work
-2022-04-24,-864.8,Best Buy,Clothing,Apparel
-2020-05-25,916.3,Amazon,Electronics,Shopping
-2021-12-10,952.99,Amazon,Electronics,Shopping
-2021-12-11,811.36,Walmart,Groceries,Groceries
-2022-05-26,619.66,Best Buy,Clothing,Apparel
-2020-03-09,319.24,Amazon,Electronics,Shopping
-2020-09-15,860.87,Amazon,Electronics,Shopping
-2022-05-17,742.4,Amazon,Electronics,Shopping
-2021-12-07,517.98,Target,Home,Home
-2021-08-14,986.14,ULine,Office Supplies,Work
-2022-09-04,374.3,Amazon,Electronics,Shopping
-2022-03-26,-366.35,Target,Home,Home
-2022-03-17,134.26,Walmart,Groceries,Groceries
-2022-10-04,-336.05,Amazon,Electronics,Shopping
-2022-12-11,938.15,Amazon,Electronics,Shopping
-2020-07-11,-440.79,ULine,Office Supplies,Work
-2020-08-08,499.79,ULine,Office Supplies,Work
-2022-09-20,836.34,Best Buy,Clothing,Apparel
-2022-08-13,8.31,Amazon,Electronics,Shopping
-2020-06-12,375.49,Amazon,Electronics,Shopping
-2020-08-24,547.36,Amazon,Electronics,Shopping
-2021-04-16,-194.65,Walmart,Groceries,Groceries
-2020-02-10,608.53,Best Buy,Clothing,Apparel
-2020-02-07,627.64,Walmart,Groceries,Groceries
-2022-08-28,581.74,Amazon,Electronics,Shopping
-2022-08-06,-861.27,Walmart,Groceries,Groceries
-2020-07-13,-713.0,Amazon,Electronics,Shopping
-2020-05-21,640.94,Walmart,Groceries,Groceries
-2020-02-02,701.94,Amazon,Electronics,Shopping
-2020-03-23,-356.4,Best Buy,Clothing,Apparel
-2022-09-14,-254.54,Target,Home,Home
-2021-02-25,282.02,ULine,Office Supplies,Work
-2021-02-07,-301.77,Best Buy,Clothing,Apparel
-2021-08-12,165.44,Amazon,Electronics,Shopping
-2021-06-16,-514.33,Target,Home,Home
-2022-06-10,-516.81,Target,Home,Home
-2020-11-15,-299.88,ULine,Office Supplies,Work
-2022-02-11,906.93,Walmart,Groceries,Groceries
-2020-11-04,-53.2,Target,Home,Home
-2020-10-08,-680.08,Target,Home,Home
-2021-12-23,340.51,Walmart,Groceries,Groceries
-2022-12-21,347.61,Amazon,Electronics,Shopping
-2022-04-27,922.05,Walmart,Groceries,Groceries
-2020-01-05,784.29,ULine,Office Supplies,Work
-2020-03-15,89.31,Walmart,Groceries,Groceries
-2021-04-03,-994.67,ULine,Office Supplies,Work
-2020-06-08,-704.04,Walmart,Groceries,Groceries
-2022-06-07,-208.47,Walmart,Groceries,Groceries
-2022-09-25,238.07,Walmart,Groceries,Groceries
-2021-12-21,-597.0,Target,Home,Home
-2021-08-15,-363.29,ULine,Office Supplies,Work
-2022-10-24,109.26,Walmart,Groceries,Groceries
-2022-08-01,402.47,Best Buy,Clothing,Apparel
-2020-09-07,-987.2,Amazon,Electronics,Shopping
-2021-03-16,-126.98,Target,Home,Home
-2020-11-11,738.26,Walmart,Groceries,Groceries
-2021-10-08,-967.24,Amazon,Electronics,Shopping
-2020-04-03,-54.58,Amazon,Electronics,Shopping
-2021-11-03,587.94,Target,Home,Home
-2020-11-25,380.6,Best Buy,Clothing,Apparel
-2022-10-18,548.95,Best Buy,Clothing,Apparel
-2022-02-12,-704.98,Walmart,Groceries,Groceries
-2020-06-27,-67.86,Target,Home,Home
-2020-11-02,-933.14,Target,Home,Home
-2022-01-28,-972.59,Walmart,Groceries,Groceries
-2020-01-13,-905.4,Walmart,Groceries,Groceries
-2020-08-11,14.24,Target,Home,Home
-2020-01-15,-433.15,Best Buy,Clothing,Apparel
-2020-07-24,950.33,Target,Home,Home
-2022-10-16,-45.41,ULine,Office Supplies,Work
-2020-04-28,-707.77,Walmart,Groceries,Groceries
-2021-06-18,994.22,Best Buy,Clothing,Apparel
-2020-07-18,-299.3,ULine,Office Supplies,Work
-2021-12-17,-12.7,Amazon,Electronics,Shopping
-2022-01-12,-641.11,Amazon,Electronics,Shopping
-2022-07-16,404.65,Walmart,Groceries,Groceries
-2021-01-22,60.97,ULine,Office Supplies,Work
-2020-02-04,416.91,ULine,Office Supplies,Work
-2021-02-05,934.91,Best Buy,Clothing,Apparel
-2021-01-24,-77.76,ULine,Office Supplies,Work
-2020-01-26,699.36,Best Buy,Clothing,Apparel
-2020-08-15,-926.16,Best Buy,Clothing,Apparel
-2022-02-23,465.5,ULine,Office Supplies,Work
-2020-08-07,63.26,Best Buy,Clothing,Apparel
-2021-05-01,-712.6,Amazon,Electronics,Shopping
-2021-01-13,522.7,Best Buy,Clothing,Apparel
-2022-01-15,687.77,ULine,Office Supplies,Work
-2021-02-02,428.35,Target,Home,Home
-2022-10-11,89.08,ULine,Office Supplies,Work
-2020-09-03,-1.17,Walmart,Groceries,Groceries
-2021-12-15,437.89,Best Buy,Clothing,Apparel
-2021-11-03,-410.03,Best Buy,Clothing,Apparel
-2022-01-24,-831.82,Target,Home,Home
-2020-10-13,-532.33,Target,Home,Home
-2022-08-11,638.56,Amazon,Electronics,Shopping
-2020-10-14,-383.36,Best Buy,Clothing,Apparel
-2022-04-22,-114.38,ULine,Office Supplies,Work
-2021-10-08,661.35,Amazon,Electronics,Shopping
-2021-06-24,911.44,Amazon,Electronics,Shopping
-2021-11-08,904.92,ULine,Office Supplies,Work
-2021-10-20,-610.62,ULine,Office Supplies,Work
-2021-05-14,-474.28,ULine,Office Supplies,Work
-2022-11-10,185.39,Amazon,Electronics,Shopping
-2020-02-07,-909.48,Amazon,Electronics,Shopping
-2022-07-05,774.36,ULine,Office Supplies,Work
-2021-02-24,-874.71,Walmart,Groceries,Groceries
-2021-04-08,-243.04,Target,Home,Home
-2021-02-20,-686.1,Walmart,Groceries,Groceries
-2020-04-13,-273.27,Amazon,Electronics,Shopping
-2022-04-23,-962.18,Walmart,Groceries,Groceries
-2021-03-01,274.73,ULine,Office Supplies,Work
-2022-01-08,399.07,Amazon,Electronics,Shopping
-2021-04-03,545.83,Walmart,Groceries,Groceries
-2022-06-25,-439.26,Walmart,Groceries,Groceries
-2020-07-24,628.48,ULine,Office Supplies,Work
-2020-03-24,283.52,Amazon,Electronics,Shopping
-2021-05-22,494.13,Best Buy,Clothing,Apparel
-2021-08-25,36.19,Walmart,Groceries,Groceries
-2022-03-11,409.4,Best Buy,Clothing,Apparel
-2020-03-22,-177.03,Best Buy,Clothing,Apparel
-2020-11-03,247.87,Amazon,Electronics,Shopping
-2022-05-09,-857.4,ULine,Office Supplies,Work
-2020-01-21,-339.58,ULine,Office Supplies,Work
-2021-06-16,305.97,Walmart,Groceries,Groceries
-2022-05-02,520.07,ULine,Office Supplies,Work
-2020-02-20,715.36,ULine,Office Supplies,Work
-2020-05-05,894.75,ULine,Office Supplies,Work
-2021-03-15,346.38,Walmart,Groceries,Groceries
-2022-04-27,720.83,Target,Home,Home
-2020-06-18,-359.54,Amazon,Electronics,Shopping
-2022-03-25,-557.16,Target,Home,Home
-2021-08-03,-546.89,Best Buy,Clothing,Apparel
-2022-01-18,133.46,ULine,Office Supplies,Work
-2021-03-06,335.48,ULine,Office Supplies,Work
-2022-04-21,740.24,Target,Home,Home
-2020-01-21,-737.98,Target,Home,Home
-2021-12-19,856.02,ULine,Office Supplies,Work
-2021-09-23,436.35,Walmart,Groceries,Groceries
-2020-01-23,735.96,Target,Home,Home
-2021-11-13,812.59,Amazon,Electronics,Shopping
-2020-11-22,923.55,ULine,Office Supplies,Work
-2022-04-20,-827.51,Best Buy,Clothing,Apparel
-2022-05-11,-78.73,Target,Home,Home
-2022-08-07,-684.64,ULine,Office Supplies,Work
-2022-11-02,908.44,Target,Home,Home
-2020-11-20,717.3,ULine,Office Supplies,Work
-2021-07-13,-33.91,Amazon,Electronics,Shopping
-2022-02-16,-252.73,Walmart,Groceries,Groceries
-2022-09-04,-590.54,Amazon,Electronics,Shopping
-2022-02-23,-115.46,Best Buy,Clothing,Apparel
-2020-02-12,-9.84,Target,Home,Home
-2021-08-08,749.75,Amazon,Electronics,Shopping
-2020-02-16,-988.7,Target,Home,Home
-2021-03-20,621.57,Amazon,Electronics,Shopping
-2022-10-19,-260.23,ULine,Office Supplies,Work
-2021-05-23,-432.95,Amazon,Electronics,Shopping
-2020-08-18,-590.11,Best Buy,Clothing,Apparel
-2021-08-27,993.4,Amazon,Electronics,Shopping
-2021-06-05,-792.08,Best Buy,Clothing,Apparel
-2020-01-16,332.35,Amazon,Electronics,Shopping
-2021-11-28,-502.57,Best Buy,Clothing,Apparel
-2022-05-23,-732.85,Best Buy,Clothing,Apparel
-2020-07-22,-426.23,Amazon,Electronics,Shopping
-2020-03-02,767.81,Walmart,Groceries,Groceries
-2022-02-23,578.02,Walmart,Groceries,Groceries
-2022-11-25,619.65,Amazon,Electronics,Shopping
-2021-12-19,487.67,Target,Home,Home
-2021-12-16,110.63,Target,Home,Home
-2021-10-11,465.5,Best Buy,Clothing,Apparel
-2022-08-22,-185.08,ULine,Office Supplies,Work
-2022-11-14,-207.71,Walmart,Groceries,Groceries
-2020-03-26,680.53,ULine,Office Supplies,Work
-2021-02-21,544.37,ULine,Office Supplies,Work
-2020-05-12,-882.48,Target,Home,Home
-2021-03-27,-905.55,Best Buy,Clothing,Apparel
-2021-04-21,-217.0,Target,Home,Home
-2021-05-08,-35.33,ULine,Office Supplies,Work
-2022-08-03,-62.31,Best Buy,Clothing,Apparel
-2022-05-01,986.09,Walmart,Groceries,Groceries
-2021-09-05,63.05,Amazon,Electronics,Shopping
-2021-10-09,650.86,Amazon,Electronics,Shopping
-2021-04-06,380.41,Best Buy,Clothing,Apparel
-2022-06-19,536.57,Amazon,Electronics,Shopping
-2020-08-22,-153.4,Target,Home,Home
-2022-05-23,-93.36,ULine,Office Supplies,Work
-2020-01-19,-289.6,Amazon,Electronics,Shopping
-2021-08-11,238.84,Target,Home,Home
-2021-03-05,-460.21,Best Buy,Clothing,Apparel
-2020-01-28,21.88,Best Buy,Clothing,Apparel
-2021-05-16,733.26,Walmart,Groceries,Groceries
-2020-11-28,-132.84,Target,Home,Home
-2021-01-23,-903.04,Best Buy,Clothing,Apparel
-2022-11-03,686.25,Best Buy,Clothing,Apparel
-2020-11-11,-911.84,ULine,Office Supplies,Work
-2021-03-02,-744.79,Amazon,Electronics,Shopping
-2022-09-08,983.36,Walmart,Groceries,Groceries
-2021-10-05,220.32,Walmart,Groceries,Groceries
-2021-03-05,366.3,ULine,Office Supplies,Work
-2020-07-15,-788.88,Walmart,Groceries,Groceries
-2020-04-09,-339.33,Amazon,Electronics,Shopping
-2021-09-23,-446.3,Best Buy,Clothing,Apparel
-2021-04-19,210.93,ULine,Office Supplies,Work
-2021-11-01,192.18,ULine,Office Supplies,Work
-2021-08-18,179.76,Target,Home,Home
-2020-12-23,-915.23,Walmart,Groceries,Groceries
-2022-11-16,-768.12,ULine,Office Supplies,Work
-2020-01-03,-417.83,Amazon,Electronics,Shopping
-2021-08-23,96.95,Amazon,Electronics,Shopping
-2020-08-16,-780.84,ULine,Office Supplies,Work
-2022-09-19,189.28,Amazon,Electronics,Shopping
-2020-03-13,317.02,Walmart,Groceries,Groceries
-2020-03-01,999.01,Best Buy,Clothing,Apparel
-2022-09-26,179.23,ULine,Office Supplies,Work
-2022-04-11,-863.17,Walmart,Groceries,Groceries
-2021-07-04,-461.61,Walmart,Groceries,Groceries
-2020-10-16,52.93,Best Buy,Clothing,Apparel
-2020-10-07,502.69,Amazon,Electronics,Shopping
-2022-09-05,-170.2,Target,Home,Home
-2020-08-24,-803.68,Walmart,Groceries,Groceries
-2021-06-14,269.55,Walmart,Groceries,Groceries
-2020-10-18,480.02,Amazon,Electronics,Shopping
-2020-10-15,-904.08,Amazon,Electronics,Shopping
-2021-02-20,160.74,Target,Home,Home
-2021-02-18,909.57,ULine,Office Supplies,Work
-2020-10-01,-564.12,Amazon,Electronics,Shopping
-2021-02-04,-37.22,Target,Home,Home
-2021-08-15,-728.72,Amazon,Electronics,Shopping
-2020-04-14,791.92,Amazon,Electronics,Shopping
-2021-02-08,-998.37,Walmart,Groceries,Groceries
-2020-04-11,-649.94,ULine,Office Supplies,Work
-2022-12-11,4.58,Walmart,Groceries,Groceries
-2020-01-26,-864.24,Amazon,Electronics,Shopping
-2022-07-03,235.51,Target,Home,Home
-2020-04-28,683.23,Target,Home,Home
-2020-06-20,689.89,ULine,Office Supplies,Work
-2021-04-06,591.4,Target,Home,Home
-2022-10-14,39.49,Amazon,Electronics,Shopping
-2022-08-21,-304.8,ULine,Office Supplies,Work
-2022-06-01,-172.04,Best Buy,Clothing,Apparel
-2022-05-03,-672.2,Amazon,Electronics,Shopping
-2022-02-19,858.75,Amazon,Electronics,Shopping
-2021-12-13,210.7,ULine,Office Supplies,Work
-2020-06-17,-411.98,ULine,Office Supplies,Work
-2022-11-27,320.68,Amazon,Electronics,Shopping
-2021-06-27,164.05,Amazon,Electronics,Shopping
-2021-11-18,427.95,Amazon,Electronics,Shopping
-2021-04-03,660.47,Target,Home,Home
-2020-04-27,138.71,Target,Home,Home
-2022-08-18,-924.54,Target,Home,Home
-2022-11-11,513.75,Amazon,Electronics,Shopping
-2020-09-25,947.41,Walmart,Groceries,Groceries
-2021-06-21,-75.3,Walmart,Groceries,Groceries
-2021-11-25,504.55,ULine,Office Supplies,Work
-2020-09-07,-554.16,Best Buy,Clothing,Apparel
-2021-07-14,32.66,ULine,Office Supplies,Work
-2020-09-01,-108.74,ULine,Office Supplies,Work
-2021-04-26,350.12,Best Buy,Clothing,Apparel
-2020-07-01,469.28,Walmart,Groceries,Groceries
-2022-04-21,418.92,Best Buy,Clothing,Apparel
-2022-02-02,-539.04,Walmart,Groceries,Groceries
-2020-07-07,518.92,Walmart,Groceries,Groceries
-2021-08-27,502.86,Amazon,Electronics,Shopping
-2021-05-04,-465.42,Amazon,Electronics,Shopping
-2020-07-15,85.13,Target,Home,Home
-2021-11-14,987.29,Amazon,Electronics,Shopping
-2021-07-16,-907.33,Target,Home,Home
-2020-02-22,-649.86,Target,Home,Home
-2020-03-20,-179.25,Amazon,Electronics,Shopping
-2020-09-07,70.58,Target,Home,Home
-2022-01-09,-685.83,ULine,Office Supplies,Work
-2020-02-25,229.12,Amazon,Electronics,Shopping
-2022-10-27,-94.07,Amazon,Electronics,Shopping
-2020-07-19,341.53,Target,Home,Home
-2022-10-16,-929.23,Walmart,Groceries,Groceries
-2022-11-15,-827.93,Amazon,Electronics,Shopping
-2020-12-27,-662.42,ULine,Office Supplies,Work
-2022-08-25,-57.46,Amazon,Electronics,Shopping
-2022-07-08,344.67,Walmart,Groceries,Groceries
-2020-08-19,-37.4,Best Buy,Clothing,Apparel
-2022-12-07,-228.27,Best Buy,Clothing,Apparel
-2021-12-18,-185.02,Amazon,Electronics,Shopping
-2021-09-22,-904.75,Amazon,Electronics,Shopping
-2022-06-21,-543.49,Best Buy,Clothing,Apparel
-2022-11-09,997.64,Amazon,Electronics,Shopping
-2022-12-13,854.72,Best Buy,Clothing,Apparel
-2020-01-07,100.59,Walmart,Groceries,Groceries
-2020-06-07,-418.02,ULine,Office Supplies,Work
-2020-03-28,-508.4,Walmart,Groceries,Groceries
-2020-04-21,869.59,Best Buy,Clothing,Apparel
-2020-05-23,982.87,ULine,Office Supplies,Work
-2022-07-19,110.27,Target,Home,Home
-2020-12-01,714.44,Target,Home,Home
-2021-07-02,-411.31,ULine,Office Supplies,Work
-2021-09-06,264.46,Amazon,Electronics,Shopping
-2021-03-15,-195.53,Amazon,Electronics,Shopping
-2020-03-01,179.14,ULine,Office Supplies,Work
-2022-04-24,462.35,Best Buy,Clothing,Apparel
-2021-05-18,-857.09,Best Buy,Clothing,Apparel
-2020-07-25,-487.17,ULine,Office Supplies,Work
-2020-02-13,-766.03,ULine,Office Supplies,Work
-2020-02-10,-378.56,Best Buy,Clothing,Apparel
-2022-06-07,299.84,ULine,Office Supplies,Work
-2020-01-15,831.26,ULine,Office Supplies,Work
-2021-05-01,-262.75,Target,Home,Home
-2022-10-13,192.84,Amazon,Electronics,Shopping
-2022-01-12,338.45,ULine,Office Supplies,Work
-2020-02-08,-88.94,Amazon,Electronics,Shopping
-2020-02-18,-561.09,Target,Home,Home
-2022-09-26,-282.64,Walmart,Groceries,Groceries
-2021-05-03,-242.75,Best Buy,Clothing,Apparel
-2020-04-05,-201.52,ULine,Office Supplies,Work
-2021-11-20,-244.9,ULine,Office Supplies,Work
-2022-10-04,-137.73,Amazon,Electronics,Shopping
-2021-12-13,441.59,Target,Home,Home
-2020-05-18,-889.24,ULine,Office Supplies,Work
-2020-02-22,-777.59,Walmart,Groceries,Groceries
-2020-04-16,-920.91,Walmart,Groceries,Groceries
-2020-08-12,-333.26,ULine,Office Supplies,Work
-2021-12-02,-324.23,Walmart,Groceries,Groceries
-2020-07-05,-215.95,Target,Home,Home
-2020-05-21,546.19,ULine,Office Supplies,Work
-2020-01-05,-529.52,ULine,Office Supplies,Work
-2020-01-21,457.86,Target,Home,Home
-2020-04-01,-904.42,Target,Home,Home
-2021-09-26,-593.23,Amazon,Electronics,Shopping
-2022-06-26,-673.72,ULine,Office Supplies,Work
-2021-02-18,-817.6,Target,Home,Home
-2021-12-11,-148.85,Best Buy,Clothing,Apparel
-2020-05-02,812.38,Target,Home,Home
-2020-02-07,-50.66,Target,Home,Home
-2022-07-28,-147.58,Walmart,Groceries,Groceries
-2021-11-13,-13.31,Target,Home,Home
-2022-05-19,155.04,Walmart,Groceries,Groceries
-2022-09-20,28.07,Best Buy,Clothing,Apparel
-2020-10-19,-977.23,Best Buy,Clothing,Apparel
-2020-01-26,-618.88,Target,Home,Home
-2021-08-11,-600.77,Amazon,Electronics,Shopping
-2022-06-04,-345.86,Best Buy,Clothing,Apparel
-2022-04-23,-569.32,Best Buy,Clothing,Apparel
-2022-09-05,869.58,Walmart,Groceries,Groceries
-2022-12-16,-767.37,Walmart,Groceries,Groceries
-2022-01-07,747.73,Amazon,Electronics,Shopping
-2021-02-14,129.48,Best Buy,Clothing,Apparel
-2021-08-17,-996.13,Walmart,Groceries,Groceries
-2020-06-25,910.52,Amazon,Electronics,Shopping
-2021-11-18,-153.25,ULine,Office Supplies,Work
-2020-10-23,-610.75,Walmart,Groceries,Groceries
-2020-12-06,-650.78,ULine,Office Supplies,Work
-2022-10-13,775.48,ULine,Office Supplies,Work
-2022-03-20,-239.46,Amazon,Electronics,Shopping
-2020-10-15,933.93,ULine,Office Supplies,Work
-2022-08-20,465.38,ULine,Office Supplies,Work
-2021-09-21,-959.89,Amazon,Electronics,Shopping
-2020-12-10,-757.51,Target,Home,Home
-2021-04-22,-642.29,Target,Home,Home
-2020-01-19,-780.77,Amazon,Electronics,Shopping
-2022-03-03,-79.25,Amazon,Electronics,Shopping
-2021-07-02,-865.74,Target,Home,Home
-2020-06-06,-978.36,ULine,Office Supplies,Work
-2021-08-14,960.17,Target,Home,Home
-2020-01-14,583.82,Walmart,Groceries,Groceries
-2021-03-13,623.66,ULine,Office Supplies,Work
-2020-11-22,-861.12,Amazon,Electronics,Shopping
-2020-10-06,-784.38,Amazon,Electronics,Shopping
-2021-07-27,-342.13,ULine,Office Supplies,Work
-2020-05-16,595.64,Amazon,Electronics,Shopping
-2022-07-15,543.94,Target,Home,Home
-2021-05-27,-660.4,ULine,Office Supplies,Work
-2021-06-02,-360.06,Best Buy,Clothing,Apparel
-2021-08-09,-30.76,ULine,Office Supplies,Work
-2020-10-10,-144.16,Walmart,Groceries,Groceries
-2022-08-11,959.46,Walmart,Groceries,Groceries
-2022-05-08,-919.45,Best Buy,Clothing,Apparel
-2021-09-11,639.21,Amazon,Electronics,Shopping
-2022-03-28,931.74,Walmart,Groceries,Groceries
-2021-10-23,574.51,ULine,Office Supplies,Work
-2022-10-17,870.94,Amazon,Electronics,Shopping
-2020-02-10,-211.51,Amazon,Electronics,Shopping
-2022-11-20,180.97,Walmart,Groceries,Groceries
-2021-06-12,359.84,ULine,Office Supplies,Work
-2022-03-05,566.4,Target,Home,Home
-2020-12-23,840.63,Best Buy,Clothing,Apparel
-2020-09-05,455.51,Walmart,Groceries,Groceries
-2021-08-15,-59.26,Best Buy,Clothing,Apparel
-2020-02-05,222.52,Amazon,Electronics,Shopping
-2022-01-14,609.34,Best Buy,Clothing,Apparel
-2022-03-14,282.31,Walmart,Groceries,Groceries
-2022-04-25,200.39,Target,Home,Home
-2020-02-04,-694.65,ULine,Office Supplies,Work
-2022-04-21,-619.23,Walmart,Groceries,Groceries
-2020-07-02,663.64,Amazon,Electronics,Shopping
-2022-03-25,-973.23,Best Buy,Clothing,Apparel
-2020-11-04,-271.6,Target,Home,Home
-2022-03-21,-378.93,ULine,Office Supplies,Work
-2020-06-26,-968.23,Walmart,Groceries,Groceries
-2021-03-05,581.39,Target,Home,Home
-2021-10-09,-303.19,Best Buy,Clothing,Apparel
-2021-09-16,-469.82,ULine,Office Supplies,Work
-2020-08-20,-568.86,Amazon,Electronics,Shopping
-2021-11-25,163.84,Target,Home,Home
-2021-10-14,423.05,Best Buy,Clothing,Apparel
-2020-08-23,23.72,ULine,Office Supplies,Work
-2020-05-02,444.55,Amazon,Electronics,Shopping
-2020-08-27,829.21,Amazon,Electronics,Shopping
-2020-09-13,-234.34,Target,Home,Home
-2022-05-18,-193.27,Target,Home,Home
-2021-02-02,849.0,ULine,Office Supplies,Work
-2021-07-13,227.72,ULine,Office Supplies,Work
-2021-03-21,-129.48,Target,Home,Home
-2020-05-28,375.45,ULine,Office Supplies,Work
-2022-11-07,-565.25,Target,Home,Home
-2020-11-07,331.64,Walmart,Groceries,Groceries
-2021-10-28,-640.62,ULine,Office Supplies,Work
-2022-09-08,-238.31,Target,Home,Home
-2022-11-04,286.22,Target,Home,Home
-2020-05-04,60.2,ULine,Office Supplies,Work
-2021-12-21,54.91,ULine,Office Supplies,Work
-2022-04-19,-565.82,Walmart,Groceries,Groceries
-2022-02-07,751.93,Best Buy,Clothing,Apparel
-2021-07-09,288.53,Walmart,Groceries,Groceries
-2021-09-19,509.9,Walmart,Groceries,Groceries
-2021-04-12,961.12,ULine,Office Supplies,Work
-2022-02-17,-719.29,Amazon,Electronics,Shopping
-2020-01-05,-60.07,ULine,Office Supplies,Work
-2020-03-21,-367.25,Best Buy,Clothing,Apparel
-2021-05-22,-258.07,Amazon,Electronics,Shopping
-2021-02-14,827.44,Best Buy,Clothing,Apparel
-2020-01-21,339.42,Target,Home,Home
-2022-11-21,-490.48,ULine,Office Supplies,Work
-2021-02-21,-923.16,Target,Home,Home
-2020-04-17,-656.17,Target,Home,Home
-2020-11-19,889.65,ULine,Office Supplies,Work
-2020-07-10,10.6,Target,Home,Home
-2022-08-19,210.39,Amazon,Electronics,Shopping
-2022-11-20,-916.01,Amazon,Electronics,Shopping
-2021-02-15,-587.39,Best Buy,Clothing,Apparel
-2020-04-01,828.02,Walmart,Groceries,Groceries
-2020-09-06,-491.95,Target,Home,Home
-2020-02-24,-654.22,Target,Home,Home
-2020-02-20,398.99,Walmart,Groceries,Groceries
-2022-05-18,530.9,ULine,Office Supplies,Work
-2020-06-11,822.47,Best Buy,Clothing,Apparel
-2022-03-10,19.51,Amazon,Electronics,Shopping
-2022-03-28,-389.51,ULine,Office Supplies,Work
-2021-04-23,-537.01,Target,Home,Home
-2021-06-27,756.28,Target,Home,Home
-2022-10-17,706.57,Best Buy,Clothing,Apparel
-2020-08-28,-810.59,Target,Home,Home
-2021-02-02,779.26,Walmart,Groceries,Groceries
-2022-09-10,709.49,ULine,Office Supplies,Work
-2020-04-19,676.64,Walmart,Groceries,Groceries
-2021-12-16,-132.92,Best Buy,Clothing,Apparel
-2022-03-03,-403.0,Target,Home,Home
-2022-12-22,791.57,ULine,Office Supplies,Work
-2022-12-04,-86.98,Target,Home,Home
-2020-03-12,552.46,Amazon,Electronics,Shopping
-2022-02-23,688.58,Walmart,Groceries,Groceries
-2021-02-14,-405.92,ULine,Office Supplies,Work
-2020-11-05,-765.77,Target,Home,Home
-2021-10-04,436.14,Walmart,Groceries,Groceries
-2020-01-26,-407.04,Target,Home,Home
-2022-02-22,326.32,Walmart,Groceries,Groceries
-2021-06-15,584.6,Best Buy,Clothing,Apparel
-2021-09-09,-887.39,ULine,Office Supplies,Work
-2022-03-06,-181.83,Amazon,Electronics,Shopping
-2021-11-08,409.77,Amazon,Electronics,Shopping
-2022-03-15,-178.89,Amazon,Electronics,Shopping
-2021-11-11,-720.97,Best Buy,Clothing,Apparel
-2020-11-12,-862.65,Target,Home,Home
-2022-05-22,-402.29,Best Buy,Clothing,Apparel
-2020-11-11,748.06,ULine,Office Supplies,Work
-2021-06-14,405.68,Amazon,Electronics,Shopping
-2020-07-08,430.23,Amazon,Electronics,Shopping
-2021-02-24,349.9,Amazon,Electronics,Shopping
-2021-02-15,296.29,Amazon,Electronics,Shopping
-2020-02-07,-339.09,Best Buy,Clothing,Apparel
-2022-09-12,-69.41,Best Buy,Clothing,Apparel
-2022-09-13,-454.5,ULine,Office Supplies,Work
-2020-02-20,-380.0,Amazon,Electronics,Shopping
-2020-04-07,-739.53,Amazon,Electronics,Shopping
-2020-08-15,-468.96,ULine,Office Supplies,Work
-2020-01-14,666.78,Target,Home,Home
-2021-02-24,995.81,Amazon,Electronics,Shopping
-2022-03-13,224.61,Walmart,Groceries,Groceries
-2022-07-08,181.51,Best Buy,Clothing,Apparel
-2020-05-26,-801.5,ULine,Office Supplies,Work
-2022-08-17,5.33,Best Buy,Clothing,Apparel
-2021-08-08,-831.86,Target,Home,Home
-2021-04-15,-945.8,Amazon,Electronics,Shopping
-2022-09-13,-368.76,ULine,Office Supplies,Work
-2020-01-24,-566.02,Target,Home,Home
-2021-02-25,939.74,Best Buy,Clothing,Apparel
-2022-01-06,462.49,ULine,Office Supplies,Work
-2022-08-18,-150.01,Target,Home,Home
-2020-09-18,-409.73,Walmart,Groceries,Groceries
-2022-07-17,-902.5,Amazon,Electronics,Shopping
-2021-07-08,544.2,Best Buy,Clothing,Apparel
-2022-12-20,-963.87,Walmart,Groceries,Groceries
-2022-07-27,425.03,Walmart,Groceries,Groceries
-2020-08-24,-181.01,ULine,Office Supplies,Work
-2021-12-05,-28.3,Best Buy,Clothing,Apparel
-2020-05-06,19.28,Amazon,Electronics,Shopping
-2020-03-21,-994.43,Walmart,Groceries,Groceries
-2021-09-12,996.6,Amazon,Electronics,Shopping
-2021-09-22,-228.4,Target,Home,Home
-2022-06-17,-798.03,Best Buy,Clothing,Apparel
-2022-01-26,218.4,Walmart,Groceries,Groceries
-2020-03-14,72.67,Amazon,Electronics,Shopping
-2020-08-27,70.24,Best Buy,Clothing,Apparel
-2021-12-26,518.15,ULine,Office Supplies,Work
-2022-03-27,369.56,Target,Home,Home
-2020-08-08,162.64,Best Buy,Clothing,Apparel
-2022-08-17,-785.49,Walmart,Groceries,Groceries
-2020-05-27,188.97,Target,Home,Home
-2021-05-12,478.42,Target,Home,Home
-2021-10-14,-816.42,Walmart,Groceries,Groceries
-2021-11-04,-269.5,Amazon,Electronics,Shopping
-2022-06-13,629.28,Target,Home,Home
-2021-01-13,-903.48,Walmart,Groceries,Groceries
-2021-01-21,-73.19,Amazon,Electronics,Shopping
-2022-12-01,369.19,Amazon,Electronics,Shopping
-2022-01-10,-576.39,Target,Home,Home
-2020-11-11,100.11,Amazon,Electronics,Shopping
-2021-11-19,-568.73,Target,Home,Home
-2020-03-12,892.36,ULine,Office Supplies,Work
-2020-09-26,-490.55,ULine,Office Supplies,Work
-2020-03-20,792.36,Amazon,Electronics,Shopping
-2021-05-18,675.35,ULine,Office Supplies,Work
-2022-11-03,327.85,Best Buy,Clothing,Apparel
-2021-04-06,776.1,Best Buy,Clothing,Apparel
-2021-02-14,-246.19,ULine,Office Supplies,Work
-2020-05-05,611.14,Target,Home,Home
-2020-07-01,-591.0,Best Buy,Clothing,Apparel
-2021-09-16,-74.28,Amazon,Electronics,Shopping
-2022-08-06,178.32,Target,Home,Home
-2021-04-06,-862.34,Best Buy,Clothing,Apparel
-2022-07-14,236.86,Amazon,Electronics,Shopping
-2020-05-09,685.72,Walmart,Groceries,Groceries
-2021-09-02,878.99,Target,Home,Home
-2020-11-07,-44.01,ULine,Office Supplies,Work
-2020-05-22,631.99,Target,Home,Home
-2020-05-09,759.1,ULine,Office Supplies,Work
-2020-06-07,7.44,Best Buy,Clothing,Apparel
-2020-04-02,369.73,Target,Home,Home
-2020-12-18,28.61,Amazon,Electronics,Shopping
-2020-05-18,-2.15,ULine,Office Supplies,Work
-2021-09-10,354.17,Best Buy,Clothing,Apparel
-2022-12-08,-798.35,Walmart,Groceries,Groceries
-2020-10-03,-577.05,Walmart,Groceries,Groceries
-2022-08-20,776.69,Walmart,Groceries,Groceries
-2020-10-11,-229.77,Walmart,Groceries,Groceries
-2020-05-07,-465.41,ULine,Office Supplies,Work
-2022-10-27,-83.0,Target,Home,Home
-2021-11-21,-162.6,Best Buy,Clothing,Apparel
-2020-08-06,-152.69,Target,Home,Home
-2022-08-04,554.71,Walmart,Groceries,Groceries
-2020-02-03,-316.98,Target,Home,Home
-2021-10-11,424.34,Target,Home,Home
-2021-03-10,203.6,Target,Home,Home
-2020-08-24,170.83,Walmart,Groceries,Groceries
-2022-03-22,-515.45,Amazon,Electronics,Shopping
-2020-12-14,-115.37,Amazon,Electronics,Shopping
-2022-09-26,780.84,Best Buy,Clothing,Apparel
-2021-12-23,154.73,Target,Home,Home
-2022-06-02,-613.97,Amazon,Electronics,Shopping
-2020-05-21,-577.01,Amazon,Electronics,Shopping
-2022-01-04,-29.72,ULine,Office Supplies,Work
-2021-09-01,-264.7,Amazon,Electronics,Shopping
-2022-09-14,-972.11,Target,Home,Home
-2022-04-22,923.53,Walmart,Groceries,Groceries
-2021-06-03,-699.35,ULine,Office Supplies,Work
-2020-10-02,897.03,ULine,Office Supplies,Work
-2021-10-14,953.93,Target,Home,Home
-2020-02-28,355.67,Amazon,Electronics,Shopping
-2021-02-08,-412.63,Target,Home,Home
-2022-04-12,-299.47,Target,Home,Home
-2022-07-07,794.51,Amazon,Electronics,Shopping
-2020-07-23,212.78,Target,Home,Home
-2020-07-18,-203.78,Walmart,Groceries,Groceries
-2021-10-20,993.91,ULine,Office Supplies,Work
-2021-03-17,546.84,Walmart,Groceries,Groceries
-2021-03-21,210.16,Amazon,Electronics,Shopping
-2022-02-05,-244.2,Target,Home,Home
-2020-03-13,537.86,Amazon,Electronics,Shopping
-2022-10-28,907.9,Best Buy,Clothing,Apparel
-2022-01-03,-599.29,Walmart,Groceries,Groceries
-2021-11-24,-361.97,ULine,Office Supplies,Work
-2022-08-01,253.51,Walmart,Groceries,Groceries
-2022-05-14,711.38,Amazon,Electronics,Shopping
-2020-01-03,-221.37,Best Buy,Clothing,Apparel
-2022-10-21,-258.24,Walmart,Groceries,Groceries
-2020-04-28,-16.06,Amazon,Electronics,Shopping
-2021-12-27,-860.31,Best Buy,Clothing,Apparel
-2020-05-20,447.12,Amazon,Electronics,Shopping
-2022-01-27,702.71,ULine,Office Supplies,Work
-2020-11-26,10.36,Best Buy,Clothing,Apparel
-2021-12-10,-63.88,Amazon,Electronics,Shopping
-2022-10-20,794.01,ULine,Office Supplies,Work
-2020-07-28,172.23,Walmart,Groceries,Groceries
-2022-09-26,-691.78,Best Buy,Clothing,Apparel
-2020-04-04,-837.56,ULine,Office Supplies,Work
-2022-12-26,963.47,Target,Home,Home
-2021-03-22,547.62,Amazon,Electronics,Shopping
-2020-10-28,940.67,ULine,Office Supplies,Work
-2021-07-15,885.76,Target,Home,Home
-2020-11-26,114.36,ULine,Office Supplies,Work
-2022-06-12,-788.73,Walmart,Groceries,Groceries
-2020-10-04,-810.85,Best Buy,Clothing,Apparel
-2021-07-24,245.81,Walmart,Groceries,Groceries
-2021-03-28,-972.23,Amazon,Electronics,Shopping
-2020-12-27,-202.27,Amazon,Electronics,Shopping
-2021-11-17,-535.98,Target,Home,Home
-2020-06-02,-70.86,Best Buy,Clothing,Apparel
-2022-11-13,327.0,Best Buy,Clothing,Apparel
-2022-12-08,536.51,ULine,Office Supplies,Work
-2020-12-26,873.8,Amazon,Electronics,Shopping
-2022-06-22,276.32,Walmart,Groceries,Groceries
-2022-10-27,-324.13,ULine,Office Supplies,Work
-2022-12-27,-650.32,Target,Home,Home
-2022-03-26,-636.98,Target,Home,Home
-2022-07-23,-675.13,ULine,Office Supplies,Work
-2021-07-21,416.85,Walmart,Groceries,Groceries
-2022-03-02,672.22,Amazon,Electronics,Shopping
-2022-07-24,-482.32,Amazon,Electronics,Shopping
-2020-01-20,605.45,Target,Home,Home
-2022-09-16,780.49,Walmart,Groceries,Groceries
-2020-10-05,951.92,ULine,Office Supplies,Work
-2020-12-06,-702.28,Walmart,Groceries,Groceries
-2021-08-24,-242.16,Target,Home,Home
-2021-06-07,-64.64,Target,Home,Home
-2021-11-06,943.88,ULine,Office Supplies,Work
-2022-07-28,972.83,Target,Home,Home
-2021-10-17,895.95,Amazon,Electronics,Shopping
-2021-01-07,4.56,Amazon,Electronics,Shopping
-2021-06-04,451.41,Amazon,Electronics,Shopping
-2021-07-05,955.45,Walmart,Groceries,Groceries
-2021-09-27,-771.56,Amazon,Electronics,Shopping
-2021-03-06,-302.5,ULine,Office Supplies,Work
-2021-04-10,538.7,ULine,Office Supplies,Work
-2022-10-07,114.34,Target,Home,Home
-2020-11-12,-24.23,Amazon,Electronics,Shopping
-2022-05-04,520.02,Target,Home,Home
-2020-03-12,-11.88,ULine,Office Supplies,Work
-2021-05-26,116.53,Best Buy,Clothing,Apparel
-2022-02-05,587.42,Amazon,Electronics,Shopping
-2020-04-08,424.79,Target,Home,Home
-2022-11-01,-3.27,Walmart,Groceries,Groceries
-2020-10-16,-316.71,Amazon,Electronics,Shopping
-2022-07-25,-298.35,Target,Home,Home
-2020-09-06,-694.81,Amazon,Electronics,Shopping
-2020-04-08,966.17,Target,Home,Home
-2021-01-06,966.38,Target,Home,Home
-2020-09-23,-984.72,Walmart,Groceries,Groceries
-2022-03-01,223.87,Walmart,Groceries,Groceries
-2021-03-24,216.13,Best Buy,Clothing,Apparel
-2021-07-03,996.26,Best Buy,Clothing,Apparel
-2021-05-19,-954.05,Amazon,Electronics,Shopping
-2021-07-07,757.75,Best Buy,Clothing,Apparel
-2020-01-18,-210.93,Walmart,Groceries,Groceries
-2022-07-16,-578.66,ULine,Office Supplies,Work
-2022-03-15,950.26,ULine,Office Supplies,Work
-2020-04-03,238.65,Best Buy,Clothing,Apparel
-2022-09-19,66.3,Best Buy,Clothing,Apparel
-2021-08-17,717.7,Walmart,Groceries,Groceries
-2021-07-05,523.36,Best Buy,Clothing,Apparel
-2022-02-06,-334.41,Best Buy,Clothing,Apparel
-2020-06-13,-928.64,Best Buy,Clothing,Apparel
-2021-02-12,-450.1,Target,Home,Home
-2021-11-14,778.82,Target,Home,Home
-2021-08-06,850.95,Amazon,Electronics,Shopping
-2020-10-21,-47.71,ULine,Office Supplies,Work
-2020-09-06,202.41,Target,Home,Home
-2021-03-05,422.32,Target,Home,Home
-2021-05-24,957.5,ULine,Office Supplies,Work
-2022-04-19,-428.52,Walmart,Groceries,Groceries
-2022-01-25,-923.32,Amazon,Electronics,Shopping
-2022-05-13,573.33,ULine,Office Supplies,Work
-2020-08-01,695.47,Walmart,Groceries,Groceries
-2020-02-09,793.27,Walmart,Groceries,Groceries
-2020-11-22,-834.77,Best Buy,Clothing,Apparel
-2021-08-02,903.67,Target,Home,Home
-2022-06-02,870.71,Target,Home,Home
-2021-10-07,680.56,ULine,Office Supplies,Work
-2020-11-27,-98.9,Best Buy,Clothing,Apparel
-2020-01-11,74.84,Walmart,Groceries,Groceries
-2022-10-08,-518.95,Amazon,Electronics,Shopping
-2022-09-14,-974.38,ULine,Office Supplies,Work
-2022-10-19,-403.61,Best Buy,Clothing,Apparel
-2021-03-22,526.01,Amazon,Electronics,Shopping
-2021-01-20,655.51,Target,Home,Home
-2022-06-03,-937.62,Best Buy,Clothing,Apparel
-2022-03-20,-323.32,Amazon,Electronics,Shopping
-2021-09-25,944.68,Target,Home,Home
-2021-01-12,583.77,Walmart,Groceries,Groceries
-2020-08-05,-351.65,ULine,Office Supplies,Work
-2022-07-01,441.59,Target,Home,Home
-2022-07-10,946.71,Amazon,Electronics,Shopping
-2022-08-13,-195.27,Target,Home,Home
-2022-07-04,352.26,Amazon,Electronics,Shopping
-2021-08-19,561.3,Amazon,Electronics,Shopping
-2020-01-07,185.97,Walmart,Groceries,Groceries
-2020-08-20,212.19,Best Buy,Clothing,Apparel
-2021-08-16,418.84,Amazon,Electronics,Shopping
-2021-12-18,886.49,Amazon,Electronics,Shopping
-2021-10-15,466.32,Walmart,Groceries,Groceries
-2021-01-14,787.43,Target,Home,Home
-2020-01-27,1.87,Walmart,Groceries,Groceries
-2021-11-03,584.16,Amazon,Electronics,Shopping
-2020-08-08,-608.67,Walmart,Groceries,Groceries
-2021-03-12,-643.14,Amazon,Electronics,Shopping
-2022-05-19,498.72,Walmart,Groceries,Groceries
-2021-07-23,-81.93,Walmart,Groceries,Groceries
-2021-12-03,79.93,Amazon,Electronics,Shopping
-2020-06-04,852.48,Walmart,Groceries,Groceries
-2022-08-18,-890.99,Target,Home,Home
-2022-08-11,231.13,Best Buy,Clothing,Apparel
-2020-10-08,-187.5,Best Buy,Clothing,Apparel
-2020-01-04,-424.51,Target,Home,Home
-2020-07-05,-686.32,Best Buy,Clothing,Apparel
-2022-01-01,-664.98,Walmart,Groceries,Groceries
-2020-10-25,-483.23,Best Buy,Clothing,Apparel
-2021-08-03,252.19,Target,Home,Home
-2020-10-21,-552.07,Best Buy,Clothing,Apparel
-2022-07-25,99.36,Target,Home,Home
-2021-03-06,443.52,Target,Home,Home
-2022-08-22,-287.66,Amazon,Electronics,Shopping
-2021-07-14,337.99,Target,Home,Home
-2020-11-23,336.55,Amazon,Electronics,Shopping
-2022-05-15,883.96,Walmart,Groceries,Groceries
-2021-01-04,272.75,Walmart,Groceries,Groceries
-2020-10-05,597.65,Target,Home,Home
-2022-03-15,943.5,Best Buy,Clothing,Apparel
-2020-01-27,98.62,Best Buy,Clothing,Apparel
-2021-02-14,-90.38,Amazon,Electronics,Shopping
-2022-11-24,582.4,ULine,Office Supplies,Work
-2020-02-03,-645.25,Target,Home,Home
-2021-07-17,-482.17,Best Buy,Clothing,Apparel
-2020-09-24,364.5,Amazon,Electronics,Shopping
-2021-11-19,-81.3,Best Buy,Clothing,Apparel
-2022-05-11,-395.79,Amazon,Electronics,Shopping
-2022-04-03,-446.81,Target,Home,Home
-2020-02-28,387.24,Amazon,Electronics,Shopping
-2021-10-27,-496.88,Target,Home,Home
-2021-08-08,-753.51,Best Buy,Clothing,Apparel
-2022-01-08,812.67,Amazon,Electronics,Shopping
-2020-10-21,-49.2,Walmart,Groceries,Groceries
-2022-09-05,996.91,Best Buy,Clothing,Apparel
-2020-04-02,-967.01,Amazon,Electronics,Shopping
-2021-08-09,342.89,Amazon,Electronics,Shopping
-2020-12-18,-201.56,Target,Home,Home
-2020-04-14,-815.53,ULine,Office Supplies,Work
-2021-04-25,-972.58,Target,Home,Home
-2021-09-10,-58.31,Target,Home,Home
-2020-07-06,808.21,ULine,Office Supplies,Work
-2021-12-23,-753.28,Walmart,Groceries,Groceries
-2020-03-15,276.43,Amazon,Electronics,Shopping
-2021-12-05,223.68,Best Buy,Clothing,Apparel
-2020-02-22,742.42,ULine,Office Supplies,Work
-2022-03-20,671.23,ULine,Office Supplies,Work
-2022-12-02,-890.8,Target,Home,Home
-2021-10-09,447.7,Walmart,Groceries,Groceries
-2020-09-04,756.69,Target,Home,Home
-2022-04-09,262.17,ULine,Office Supplies,Work
-2020-02-05,-589.12,Amazon,Electronics,Shopping
-2020-01-22,837.03,Amazon,Electronics,Shopping
-2022-08-12,757.7,Target,Home,Home
-2022-06-20,-833.45,Amazon,Electronics,Shopping
-2022-08-16,-118.45,Amazon,Electronics,Shopping
-2022-06-15,158.5,ULine,Office Supplies,Work
-2020-05-26,-414.02,Best Buy,Clothing,Apparel
-2021-01-14,276.51,Best Buy,Clothing,Apparel
-2021-07-15,845.39,Best Buy,Clothing,Apparel
-2022-08-13,987.68,ULine,Office Supplies,Work
-2021-10-14,498.38,Walmart,Groceries,Groceries
-2021-04-27,183.14,Target,Home,Home
-2022-04-01,751.18,Target,Home,Home
-2020-08-22,99.64,Best Buy,Clothing,Apparel
-2021-05-05,-92.56,Amazon,Electronics,Shopping
-2020-09-20,-203.01,Best Buy,Clothing,Apparel
-2021-05-06,-814.18,Walmart,Groceries,Groceries
-2021-10-09,-489.76,Target,Home,Home
-2022-11-07,529.98,Best Buy,Clothing,Apparel
-2022-07-04,920.63,Amazon,Electronics,Shopping
-2022-12-03,-680.18,Target,Home,Home
-2021-05-17,-291.29,Best Buy,Clothing,Apparel
-2020-11-26,-742.51,Amazon,Electronics,Shopping
-2020-03-11,212.86,Target,Home,Home
-2020-03-02,951.14,ULine,Office Supplies,Work
-2022-02-27,512.1,ULine,Office Supplies,Work
-2020-08-17,719.84,Amazon,Electronics,Shopping
-2022-08-17,-350.34,Amazon,Electronics,Shopping
-2021-03-15,592.11,Target,Home,Home
-2022-10-18,844.61,Best Buy,Clothing,Apparel
-2022-02-11,361.96,ULine,Office Supplies,Work
-2020-03-02,537.23,Best Buy,Clothing,Apparel
-2022-04-07,-401.45,Best Buy,Clothing,Apparel
-2020-08-23,-373.51,ULine,Office Supplies,Work
-2020-01-23,-275.37,Target,Home,Home
-2020-07-20,543.15,Best Buy,Clothing,Apparel
-2020-08-27,-713.35,Target,Home,Home
-2020-09-14,-625.63,Target,Home,Home
-2022-10-10,650.27,Walmart,Groceries,Groceries
-2020-02-16,899.91,Walmart,Groceries,Groceries
-2022-09-09,-513.56,Amazon,Electronics,Shopping
-2020-06-18,377.28,Target,Home,Home
-2021-11-05,101.81,Best Buy,Clothing,Apparel
-2021-06-22,-72.27,Target,Home,Home
-2020-05-21,376.63,Amazon,Electronics,Shopping
-2022-02-26,-343.65,ULine,Office Supplies,Work
-2020-03-27,-803.52,ULine,Office Supplies,Work
-2021-07-06,-781.39,Amazon,Electronics,Shopping
-2020-07-26,492.66,Best Buy,Clothing,Apparel
-2021-11-15,416.52,Amazon,Electronics,Shopping
-2021-02-12,546.74,Best Buy,Clothing,Apparel
-2020-05-13,173.37,Target,Home,Home
-2020-10-20,809.64,Best Buy,Clothing,Apparel
-2021-08-05,143.96,Target,Home,Home
-2022-07-01,852.91,ULine,Office Supplies,Work
-2020-09-06,758.83,Walmart,Groceries,Groceries
-2022-07-28,137.48,Walmart,Groceries,Groceries
-2022-06-10,719.03,Walmart,Groceries,Groceries
-2022-11-22,53.94,ULine,Office Supplies,Work
-2022-08-02,635.75,Target,Home,Home
-2022-04-27,-21.24,ULine,Office Supplies,Work
-2020-12-24,335.2,Target,Home,Home
-2020-10-18,111.1,Amazon,Electronics,Shopping
-2021-03-15,95.36,Amazon,Electronics,Shopping
-2020-09-18,501.75,Walmart,Groceries,Groceries
-2020-06-03,682.09,Amazon,Electronics,Shopping
-2022-10-14,-767.98,ULine,Office Supplies,Work
-2021-08-05,-73.13,Target,Home,Home
-2021-02-13,-816.47,Amazon,Electronics,Shopping
-2022-03-21,-236.97,Best Buy,Clothing,Apparel
-2020-08-18,71.97,Best Buy,Clothing,Apparel
-2020-04-08,589.62,Target,Home,Home
-2021-10-01,478.44,Best Buy,Clothing,Apparel
-2020-05-20,-543.12,Target,Home,Home
-2021-06-06,343.39,Amazon,Electronics,Shopping
-2020-09-21,-649.96,Amazon,Electronics,Shopping
-2022-10-27,638.52,Walmart,Groceries,Groceries
-2020-01-06,744.08,Walmart,Groceries,Groceries
-2021-03-26,-283.76,Best Buy,Clothing,Apparel
-2022-12-21,54.15,Amazon,Electronics,Shopping
-2020-02-26,386.72,Amazon,Electronics,Shopping
-2020-06-18,-75.59,Best Buy,Clothing,Apparel
-2022-02-26,204.94,Best Buy,Clothing,Apparel
-2020-11-08,-351.19,Best Buy,Clothing,Apparel
-2020-04-07,496.99,ULine,Office Supplies,Work
-2021-02-09,-376.51,Walmart,Groceries,Groceries
-2021-07-18,-885.49,Target,Home,Home
-2022-08-09,597.56,Best Buy,Clothing,Apparel
-2020-06-26,-942.06,Target,Home,Home
-2021-08-23,628.42,Target,Home,Home
-2022-09-14,97.8,Best Buy,Clothing,Apparel
-2021-08-03,-610.18,ULine,Office Supplies,Work
-2020-12-08,167.51,Walmart,Groceries,Groceries
-2021-12-07,-100.04,ULine,Office Supplies,Work
-2021-04-20,955.62,ULine,Office Supplies,Work
-2022-01-22,-75.17,ULine,Office Supplies,Work
-2021-11-25,292.09,Target,Home,Home
-2022-12-25,-746.25,Walmart,Groceries,Groceries
-2021-08-05,-204.64,Amazon,Electronics,Shopping
-2020-03-27,275.13,Walmart,Groceries,Groceries
-2021-12-25,-805.58,ULine,Office Supplies,Work
-2021-11-20,413.66,ULine,Office Supplies,Work
-2020-07-22,-400.54,Best Buy,Clothing,Apparel
-2021-10-11,-571.24,Walmart,Groceries,Groceries
-2022-10-09,-737.51,Best Buy,Clothing,Apparel
-2022-11-20,571.13,Amazon,Electronics,Shopping
-2022-07-11,-445.25,Target,Home,Home
-2022-06-19,827.8,Amazon,Electronics,Shopping
-2020-12-02,557.64,Amazon,Electronics,Shopping
-2022-01-12,685.09,Best Buy,Clothing,Apparel
-2021-08-16,-135.34,Target,Home,Home
-2020-08-21,265.82,ULine,Office Supplies,Work
-2021-05-24,679.04,Amazon,Electronics,Shopping
-2021-01-24,-380.35,Best Buy,Clothing,Apparel
-2020-12-24,-363.58,Amazon,Electronics,Shopping
-2020-12-11,-384.94,Target,Home,Home
-2020-10-11,705.08,Best Buy,Clothing,Apparel
-2020-02-27,-225.5,ULine,Office Supplies,Work
-2021-12-26,813.25,Target,Home,Home
-2020-02-14,-853.46,Target,Home,Home
-2021-11-08,108.92,ULine,Office Supplies,Work
-2021-03-04,-710.68,ULine,Office Supplies,Work
-2020-07-18,-697.33,Best Buy,Clothing,Apparel
-2022-06-27,889.05,Amazon,Electronics,Shopping
-2021-11-15,-902.53,Best Buy,Clothing,Apparel
-2020-04-05,964.84,Walmart,Groceries,Groceries
-2020-10-06,-280.98,Target,Home,Home
-2022-01-16,716.96,Best Buy,Clothing,Apparel
-2020-02-22,-288.34,Target,Home,Home
-2021-11-20,-262.36,ULine,Office Supplies,Work
-2021-01-14,818.04,Amazon,Electronics,Shopping
-2020-02-19,-551.13,Best Buy,Clothing,Apparel
-2020-07-17,-113.25,Best Buy,Clothing,Apparel
-2021-09-11,507.34,Amazon,Electronics,Shopping
-2022-03-14,411.32,Walmart,Groceries,Groceries
-2021-02-03,-592.27,Amazon,Electronics,Shopping
-2020-06-28,871.48,Target,Home,Home
-2021-01-05,351.2,ULine,Office Supplies,Work
-2020-03-04,354.9,Best Buy,Clothing,Apparel
-2021-11-21,-9.48,Walmart,Groceries,Groceries
-2021-07-12,-986.04,Best Buy,Clothing,Apparel
-2022-05-01,-128.57,Best Buy,Clothing,Apparel
-2021-01-27,852.95,Amazon,Electronics,Shopping
-2022-04-28,912.16,Walmart,Groceries,Groceries
-2022-07-26,-545.06,Walmart,Groceries,Groceries
-2020-08-26,-154.26,ULine,Office Supplies,Work
-2022-09-12,794.72,Target,Home,Home
-2020-08-18,-80.91,Target,Home,Home
-2020-02-04,255.25,ULine,Office Supplies,Work
-2022-09-02,-462.63,Target,Home,Home
-2022-07-28,-922.02,Best Buy,Clothing,Apparel
-2022-06-09,476.79,Walmart,Groceries,Groceries
-2020-06-26,460.88,Walmart,Groceries,Groceries
-2021-10-02,-623.16,Walmart,Groceries,Groceries
-2022-11-08,-966.75,Best Buy,Clothing,Apparel
-2021-05-06,-726.07,ULine,Office Supplies,Work
-2020-07-26,330.59,Walmart,Groceries,Groceries
-2022-12-20,-951.2,Walmart,Groceries,Groceries
-2022-08-22,466.49,Target,Home,Home
-2022-01-04,457.53,ULine,Office Supplies,Work
-2020-05-02,-191.41,ULine,Office Supplies,Work
-2022-04-20,-610.93,Target,Home,Home
-2020-03-01,-466.99,Amazon,Electronics,Shopping
-2022-12-25,683.87,Target,Home,Home
-2021-01-27,590.58,Target,Home,Home
-2020-07-27,-820.58,Target,Home,Home
-2021-01-22,-741.15,Amazon,Electronics,Shopping
-2022-05-23,-585.08,Amazon,Electronics,Shopping
-2021-04-12,109.11,Target,Home,Home
-2020-05-06,-952.16,Best Buy,Clothing,Apparel
-2021-10-12,-230.54,Target,Home,Home
-2022-12-28,55.41,ULine,Office Supplies,Work
-2021-05-07,241.37,Amazon,Electronics,Shopping
-2020-07-15,-883.58,ULine,Office Supplies,Work
-2020-09-28,266.67,Best Buy,Clothing,Apparel
-2022-08-24,-958.73,ULine,Office Supplies,Work
-2020-01-03,976.37,Walmart,Groceries,Groceries
-2021-03-24,-103.27,Best Buy,Clothing,Apparel
-2020-05-27,617.42,ULine,Office Supplies,Work
-2020-07-26,743.92,Walmart,Groceries,Groceries
-2022-08-12,381.77,Amazon,Electronics,Shopping
-2021-03-13,-589.12,Target,Home,Home
-2022-08-17,-118.08,Best Buy,Clothing,Apparel
-2021-09-23,665.07,Walmart,Groceries,Groceries
-2022-04-10,-417.45,Target,Home,Home
-2021-02-13,942.89,Best Buy,Clothing,Apparel
-2021-04-06,309.36,Walmart,Groceries,Groceries
-2020-08-21,947.67,Target,Home,Home
-2021-02-06,-903.6,Target,Home,Home
-2020-02-04,-391.39,ULine,Office Supplies,Work
-2020-07-27,-875.31,Walmart,Groceries,Groceries
-2020-05-25,-904.19,Best Buy,Clothing,Apparel
-2021-12-26,-6.51,Best Buy,Clothing,Apparel
-2021-02-26,398.97,Best Buy,Clothing,Apparel
-2020-11-25,-112.59,Target,Home,Home
-2022-01-26,105.59,Amazon,Electronics,Shopping
-2022-09-10,379.95,Best Buy,Clothing,Apparel
-2022-05-05,847.0,Walmart,Groceries,Groceries
-2022-03-21,98.32,Amazon,Electronics,Shopping
-2022-08-16,726.47,Target,Home,Home
-2020-04-19,-302.44,Target,Home,Home
-2022-09-26,-287.76,Best Buy,Clothing,Apparel
-2020-10-22,-796.6,ULine,Office Supplies,Work
-2020-09-06,179.23,Target,Home,Home
-2022-11-01,-665.47,Walmart,Groceries,Groceries
-2020-01-20,-203.3,Target,Home,Home
-2021-09-04,-863.26,Target,Home,Home
-2020-03-20,172.77,Target,Home,Home
-2021-11-21,-241.4,Best Buy,Clothing,Apparel
-2022-04-25,-364.34,Amazon,Electronics,Shopping
-2021-10-10,-544.08,Best Buy,Clothing,Apparel
-2020-02-08,-819.28,Amazon,Electronics,Shopping
-2022-01-18,-467.92,ULine,Office Supplies,Work
-2022-04-11,901.64,Target,Home,Home
-2020-09-14,826.7,ULine,Office Supplies,Work
-2020-08-07,316.6,ULine,Office Supplies,Work
-2021-10-26,-716.74,ULine,Office Supplies,Work
+2022-05-18,-700.75,Best Buy,Clothing,Apparel
+2021-10-11,-92.52,Best Buy,Clothing,Apparel
+2020-02-03,520.74,Best Buy,Clothing,Apparel
+2020-01-02,361.17,Amazon,Electronics,Shopping
+2020-10-14,-992.02,ULine,Office Supplies,Work
+2020-01-17,334.86,Walmart,Groceries,Groceries
+2020-08-16,-212.28,Target,Home,Home
+2022-12-18,-423.18,Best Buy,Clothing,Apparel
+2022-10-06,143.8,Target,Home,Home
+2021-10-24,958.51,ULine,Office Supplies,Work
+2021-05-03,-644.88,Best Buy,Clothing,Apparel
+2022-06-08,443.15,Walmart,Groceries,Groceries
+2022-04-13,768.09,Walmart,Groceries,Groceries
+2020-12-01,65.04,Walmart,Groceries,Groceries
+2022-01-17,-444.74,ULine,Office Supplies,Work
+2020-01-11,506.65,Best Buy,Clothing,Apparel
+2021-06-03,-262.18,Best Buy,Clothing,Apparel
+2021-02-14,95.29,ULine,Office Supplies,Work
+2022-03-18,-120.84,Walmart,Groceries,Groceries
+2021-08-19,628.95,ULine,Office Supplies,Work
+2022-08-14,-936.86,Target,Home,Home
+2022-09-16,685.52,Amazon,Electronics,Shopping
+2021-07-11,463.52,ULine,Office Supplies,Work
+2022-11-26,-645.32,Amazon,Electronics,Shopping
+2021-03-11,99.71,Amazon,Electronics,Shopping
+2022-02-14,493.42,ULine,Office Supplies,Work
+2021-02-26,546.71,Best Buy,Clothing,Apparel
+2022-07-16,-746.27,Target,Home,Home
+2021-12-07,975.1,Target,Home,Home
+2022-02-01,-111.04,ULine,Office Supplies,Work
+2021-03-02,-26.82,Walmart,Groceries,Groceries
+2021-07-18,-302.52,Best Buy,Clothing,Apparel
+2020-01-22,459.11,Target,Home,Home
+2020-09-21,-63.63,Target,Home,Home
+2022-03-20,-913.64,Walmart,Groceries,Groceries
+2020-07-10,-419.31,Amazon,Electronics,Shopping
+2022-02-16,-122.91,Walmart,Groceries,Groceries
+2020-03-10,-211.42,Best Buy,Clothing,Apparel
+2021-09-01,-396.74,Walmart,Groceries,Groceries
+2022-11-19,209.11,Amazon,Electronics,Shopping
+2022-02-26,-800.51,ULine,Office Supplies,Work
+2021-10-22,420.3,Amazon,Electronics,Shopping
+2021-01-03,-497.64,Amazon,Electronics,Shopping
+2020-12-18,782.46,ULine,Office Supplies,Work
+2021-12-27,-844.49,Walmart,Groceries,Groceries
+2022-01-18,-613.54,Best Buy,Clothing,Apparel
+2020-08-11,-868.71,ULine,Office Supplies,Work
+2020-04-20,686.9,Best Buy,Clothing,Apparel
+2020-04-24,-555.84,Walmart,Groceries,Groceries
+2020-05-09,713.21,ULine,Office Supplies,Work
+2021-08-09,207.13,Best Buy,Clothing,Apparel
+2021-02-08,91.41,Amazon,Electronics,Shopping
+2022-10-18,-791.34,ULine,Office Supplies,Work
+2020-09-21,883.32,Walmart,Groceries,Groceries
+2020-07-26,-797.73,Amazon,Electronics,Shopping
+2021-04-10,-111.73,Walmart,Groceries,Groceries
+2021-07-20,-349.71,Amazon,Electronics,Shopping
+2020-03-16,381.45,Amazon,Electronics,Shopping
+2022-11-01,-670.82,Target,Home,Home
+2020-08-08,-922.57,Amazon,Electronics,Shopping
+2021-09-10,209.02,ULine,Office Supplies,Work
+2020-12-04,-142.64,Walmart,Groceries,Groceries
+2022-11-20,-297.21,Best Buy,Clothing,Apparel
+2020-05-16,-780.73,Walmart,Groceries,Groceries
+2020-10-27,637.13,ULine,Office Supplies,Work
+2022-02-21,-992.48,Best Buy,Clothing,Apparel
+2022-08-03,142.16,Best Buy,Clothing,Apparel
+2020-06-28,860.24,ULine,Office Supplies,Work
+2021-05-23,651.87,ULine,Office Supplies,Work
+2022-07-11,400.91,Target,Home,Home
+2021-08-16,686.83,Target,Home,Home
+2022-07-21,-380.99,Target,Home,Home
+2020-09-02,-946.78,Amazon,Electronics,Shopping
+2021-04-02,-103.7,Best Buy,Clothing,Apparel
+2022-09-03,866.07,ULine,Office Supplies,Work
+2021-03-21,64.62,Amazon,Electronics,Shopping
+2020-06-05,354.71,Amazon,Electronics,Shopping
+2021-09-26,116.46,ULine,Office Supplies,Work
+2020-07-20,277.51,Target,Home,Home
+2021-01-07,-359.33,ULine,Office Supplies,Work
+2021-04-08,-353.99,Target,Home,Home
+2021-08-02,821.43,Walmart,Groceries,Groceries
+2021-07-08,-954.03,ULine,Office Supplies,Work
+2022-09-06,-259.77,Best Buy,Clothing,Apparel
+2021-03-26,305.13,Walmart,Groceries,Groceries
+2022-09-01,-635.65,ULine,Office Supplies,Work
+2020-06-28,-542.26,ULine,Office Supplies,Work
+2020-10-20,-363.38,Best Buy,Clothing,Apparel
+2022-03-07,-418.41,Walmart,Groceries,Groceries
+2021-07-02,424.97,ULine,Office Supplies,Work
+2021-03-24,110.4,Amazon,Electronics,Shopping
+2021-10-17,-490.7,Walmart,Groceries,Groceries
+2020-02-25,-620.08,Walmart,Groceries,Groceries
+2022-01-12,-976.28,Target,Home,Home
+2022-02-02,352.01,Amazon,Electronics,Shopping
+2022-03-26,-917.72,Walmart,Groceries,Groceries
+2021-10-27,-256.27,Best Buy,Clothing,Apparel
+2022-12-19,484.84,Target,Home,Home
+2021-11-21,523.9,Walmart,Groceries,Groceries
+2022-03-26,713.72,ULine,Office Supplies,Work
+2022-07-24,-760.9,Target,Home,Home
+2020-07-25,640.06,Target,Home,Home
+2021-01-20,-992.91,Target,Home,Home
+2021-03-10,-612.52,Amazon,Electronics,Shopping
+2022-05-18,157.35,Target,Home,Home
+2020-08-03,-77.57,Best Buy,Clothing,Apparel
+2020-05-22,413.34,Amazon,Electronics,Shopping
+2022-06-08,-444.71,Best Buy,Clothing,Apparel
+2022-12-19,653.44,ULine,Office Supplies,Work
+2020-03-09,-705.79,ULine,Office Supplies,Work
+2021-02-08,837.48,Target,Home,Home
+2020-03-18,-891.66,Target,Home,Home
+2022-02-06,-263.24,Amazon,Electronics,Shopping
+2021-01-25,-498.48,Target,Home,Home
+2021-03-02,247.18,Amazon,Electronics,Shopping
+2022-07-09,98.16,Amazon,Electronics,Shopping
+2020-05-04,586.51,Best Buy,Clothing,Apparel
+2021-02-19,-982.15,Amazon,Electronics,Shopping
+2022-07-02,306.38,ULine,Office Supplies,Work
+2021-11-16,-40.55,Amazon,Electronics,Shopping
+2021-08-04,-963.8,Walmart,Groceries,Groceries
+2021-10-24,-899.43,Walmart,Groceries,Groceries
+2022-08-03,-14.52,Target,Home,Home
+2020-03-20,-879.59,Best Buy,Clothing,Apparel
+2021-01-16,-295.7,ULine,Office Supplies,Work
+2022-02-13,333.18,Target,Home,Home
+2022-04-17,185.79,Target,Home,Home
+2021-05-08,-32.81,Amazon,Electronics,Shopping
+2020-07-14,-815.16,Best Buy,Clothing,Apparel
+2021-05-04,253.9,Best Buy,Clothing,Apparel
+2020-01-20,-149.16,Best Buy,Clothing,Apparel
+2022-12-16,596.82,Amazon,Electronics,Shopping
+2022-05-23,606.76,Best Buy,Clothing,Apparel
+2021-08-25,-188.23,Target,Home,Home
+2022-01-22,447.95,Best Buy,Clothing,Apparel
+2020-07-08,924.1,Best Buy,Clothing,Apparel
+2021-05-23,950.14,Walmart,Groceries,Groceries
+2020-09-01,141.02,Walmart,Groceries,Groceries
+2020-05-08,-343.01,Best Buy,Clothing,Apparel
+2021-07-08,-767.23,Amazon,Electronics,Shopping
+2021-01-28,50.03,Amazon,Electronics,Shopping
+2020-05-11,-353.63,Amazon,Electronics,Shopping
+2020-03-22,-12.64,ULine,Office Supplies,Work
+2022-08-15,-719.81,Walmart,Groceries,Groceries
+2020-08-03,120.29,ULine,Office Supplies,Work
+2020-07-05,648.48,Target,Home,Home
+2022-12-21,335.2,Target,Home,Home
+2022-10-11,432.48,Walmart,Groceries,Groceries
+2021-02-06,186.5,Amazon,Electronics,Shopping
+2020-02-05,249.25,Best Buy,Clothing,Apparel
+2021-07-26,-917.01,Best Buy,Clothing,Apparel
+2022-07-02,936.86,Walmart,Groceries,Groceries
+2022-03-19,342.05,Walmart,Groceries,Groceries
+2021-08-26,961.03,Target,Home,Home
+2022-07-21,-996.79,Best Buy,Clothing,Apparel
+2022-04-08,-760.6,Best Buy,Clothing,Apparel
+2021-12-23,-755.25,ULine,Office Supplies,Work
+2022-04-19,846.93,Best Buy,Clothing,Apparel
+2020-10-08,-601.28,Amazon,Electronics,Shopping
+2022-01-22,324.68,Walmart,Groceries,Groceries
+2021-01-17,-957.38,Best Buy,Clothing,Apparel
+2021-10-08,789.23,Walmart,Groceries,Groceries
+2020-06-19,49.48,Walmart,Groceries,Groceries
+2020-11-13,762.83,Best Buy,Clothing,Apparel
+2022-07-21,-73.76,Best Buy,Clothing,Apparel
+2022-03-01,-546.12,Target,Home,Home
+2022-07-19,-324.67,Walmart,Groceries,Groceries
+2022-02-01,780.66,Target,Home,Home
+2020-05-02,974.95,Walmart,Groceries,Groceries
+2021-11-05,-126.64,Amazon,Electronics,Shopping
+2022-04-22,-35.79,ULine,Office Supplies,Work
+2021-10-27,-835.8,Walmart,Groceries,Groceries
+2022-12-17,-581.77,ULine,Office Supplies,Work
+2021-12-14,894.79,Walmart,Groceries,Groceries
+2021-12-12,295.39,ULine,Office Supplies,Work
+2021-05-18,-976.31,Best Buy,Clothing,Apparel
+2020-06-11,248.93,Best Buy,Clothing,Apparel
+2020-02-17,352.49,Amazon,Electronics,Shopping
+2020-10-22,-145.87,Amazon,Electronics,Shopping
+2021-11-01,-987.45,Best Buy,Clothing,Apparel
+2022-02-20,-476.14,Amazon,Electronics,Shopping
+2022-06-02,-915.54,Best Buy,Clothing,Apparel
+2021-04-26,-183.17,Amazon,Electronics,Shopping
+2022-03-09,-343.53,Amazon,Electronics,Shopping
+2021-04-08,173.6,Walmart,Groceries,Groceries
+2020-11-17,702.19,Target,Home,Home
+2021-03-16,-145.95,Walmart,Groceries,Groceries
+2022-04-25,-845.69,Amazon,Electronics,Shopping
+2022-01-09,-374.46,ULine,Office Supplies,Work
+2020-07-13,581.98,Amazon,Electronics,Shopping
+2021-08-03,-170.7,Target,Home,Home
+2020-10-04,310.66,Best Buy,Clothing,Apparel
+2022-01-20,-740.55,ULine,Office Supplies,Work
+2020-11-04,-904.41,Target,Home,Home
+2021-04-23,192.81,Best Buy,Clothing,Apparel
+2022-06-11,-650.97,ULine,Office Supplies,Work
+2022-03-15,146.08,Best Buy,Clothing,Apparel
+2022-08-08,115.53,Target,Home,Home
+2021-06-18,41.39,Target,Home,Home
+2021-04-01,649.99,Amazon,Electronics,Shopping
+2021-11-05,511.62,Walmart,Groceries,Groceries
+2020-09-10,-424.04,Walmart,Groceries,Groceries
+2022-05-23,-741.01,Amazon,Electronics,Shopping
+2022-10-09,166.5,Amazon,Electronics,Shopping
+2022-08-19,-226.82,Walmart,Groceries,Groceries
+2022-09-14,189.21,Best Buy,Clothing,Apparel
+2020-12-09,626.01,Amazon,Electronics,Shopping
+2022-05-09,-328.77,Walmart,Groceries,Groceries
+2022-03-03,-875.06,Walmart,Groceries,Groceries
+2021-12-02,-834.06,Target,Home,Home
+2022-05-08,-12.13,ULine,Office Supplies,Work
+2021-09-22,-246.23,Best Buy,Clothing,Apparel
+2022-11-24,140.05,Target,Home,Home
+2022-09-24,699.77,Best Buy,Clothing,Apparel
+2021-10-05,-206.31,ULine,Office Supplies,Work
+2020-08-14,434.85,Walmart,Groceries,Groceries
+2020-07-26,196.34,ULine,Office Supplies,Work
+2022-10-02,483.8,Best Buy,Clothing,Apparel
+2022-11-09,-17.45,Best Buy,Clothing,Apparel
+2021-02-03,-571.93,Walmart,Groceries,Groceries
+2020-06-09,809.04,Amazon,Electronics,Shopping
+2022-12-22,-697.98,ULine,Office Supplies,Work
+2022-03-02,959.83,Amazon,Electronics,Shopping
+2020-08-12,347.14,ULine,Office Supplies,Work
+2020-09-18,-314.43,Target,Home,Home
+2022-06-14,114.12,ULine,Office Supplies,Work
+2020-10-17,584.01,Amazon,Electronics,Shopping
+2021-11-09,361.81,Amazon,Electronics,Shopping
+2021-09-18,840.4,ULine,Office Supplies,Work
+2021-10-09,496.69,Walmart,Groceries,Groceries
+2022-12-14,900.83,ULine,Office Supplies,Work
+2021-03-05,477.44,Best Buy,Clothing,Apparel
+2020-12-06,905.0,Walmart,Groceries,Groceries
+2021-06-18,-210.12,Target,Home,Home
+2020-09-16,-935.99,Walmart,Groceries,Groceries
+2020-06-16,-509.56,Amazon,Electronics,Shopping
+2020-02-20,893.53,Target,Home,Home
+2021-11-17,-373.26,Target,Home,Home
+2020-03-13,69.27,Walmart,Groceries,Groceries
+2020-02-09,531.39,Amazon,Electronics,Shopping
+2022-09-23,-946.78,Target,Home,Home
+2021-05-10,-10.24,Target,Home,Home
+2022-04-20,-660.31,Walmart,Groceries,Groceries
+2020-05-01,-424.03,Walmart,Groceries,Groceries
+2022-01-03,795.7,Target,Home,Home
+2021-10-05,-782.12,Amazon,Electronics,Shopping
+2020-01-04,-124.32,Target,Home,Home
+2020-01-01,302.81,Walmart,Groceries,Groceries
+2021-05-16,204.97,Target,Home,Home
+2021-06-16,295.21,Amazon,Electronics,Shopping
+2020-03-16,-546.53,Amazon,Electronics,Shopping
+2022-03-16,-42.25,Amazon,Electronics,Shopping
+2021-10-21,887.86,Target,Home,Home
+2021-11-28,40.88,Target,Home,Home
+2021-06-03,350.56,Amazon,Electronics,Shopping
+2020-11-23,74.6,Amazon,Electronics,Shopping
+2021-04-25,644.21,Best Buy,Clothing,Apparel
+2021-09-18,-571.68,ULine,Office Supplies,Work
+2020-02-08,810.9,Target,Home,Home
+2022-09-25,568.16,Amazon,Electronics,Shopping
+2020-01-24,-373.94,Walmart,Groceries,Groceries
+2022-08-19,24.36,ULine,Office Supplies,Work
+2021-10-07,449.6,Walmart,Groceries,Groceries
+2020-01-20,823.89,Amazon,Electronics,Shopping
+2020-08-11,-834.29,Target,Home,Home
+2020-12-19,84.75,Amazon,Electronics,Shopping
+2021-03-21,401.39,ULine,Office Supplies,Work
+2020-04-14,-904.35,Amazon,Electronics,Shopping
+2021-03-10,-145.96,Target,Home,Home
+2022-05-20,-778.72,Target,Home,Home
+2020-08-17,-312.83,Walmart,Groceries,Groceries
+2022-05-22,546.44,Target,Home,Home
+2021-01-02,421.44,Target,Home,Home
+2022-12-05,175.56,Best Buy,Clothing,Apparel
+2021-05-07,115.92,Amazon,Electronics,Shopping
+2022-09-21,-966.14,Target,Home,Home
+2021-05-06,59.44,Best Buy,Clothing,Apparel
+2022-04-19,72.36,Target,Home,Home
+2022-04-04,100.03,Best Buy,Clothing,Apparel
+2021-07-09,-252.17,Target,Home,Home
+2021-10-05,963.6,Best Buy,Clothing,Apparel
+2021-07-18,799.79,Walmart,Groceries,Groceries
+2020-03-28,-623.74,Target,Home,Home
+2020-08-05,-904.78,Amazon,Electronics,Shopping
+2020-07-11,93.91,ULine,Office Supplies,Work
+2020-12-02,-228.48,Walmart,Groceries,Groceries
+2020-11-25,524.72,Target,Home,Home
+2022-11-10,696.85,Best Buy,Clothing,Apparel
+2020-10-21,274.87,ULine,Office Supplies,Work
+2022-03-16,-67.32,Amazon,Electronics,Shopping
+2022-09-06,615.35,Walmart,Groceries,Groceries
+2020-12-04,-921.18,Walmart,Groceries,Groceries
+2021-05-14,-419.95,Target,Home,Home
+2022-11-14,279.47,ULine,Office Supplies,Work
+2022-07-16,-291.87,Target,Home,Home
+2021-12-26,224.92,Walmart,Groceries,Groceries
+2020-05-19,-529.21,Target,Home,Home
+2021-09-18,-836.17,ULine,Office Supplies,Work
+2022-09-28,-650.12,ULine,Office Supplies,Work
+2020-01-18,-607.92,ULine,Office Supplies,Work
+2022-03-03,-275.05,Walmart,Groceries,Groceries
+2022-06-06,487.81,Target,Home,Home
+2020-04-24,131.87,Target,Home,Home
+2021-04-03,671.34,Best Buy,Clothing,Apparel
+2022-11-24,211.52,Best Buy,Clothing,Apparel
+2022-06-15,135.45,Walmart,Groceries,Groceries
+2021-06-06,-861.51,Amazon,Electronics,Shopping
+2022-05-26,440.2,Walmart,Groceries,Groceries
+2021-10-09,488.7,Target,Home,Home
+2021-10-18,-658.47,Target,Home,Home
+2022-11-26,358.66,Walmart,Groceries,Groceries
+2022-09-23,-823.03,Best Buy,Clothing,Apparel
+2021-03-04,258.23,Best Buy,Clothing,Apparel
+2022-08-08,417.79,Target,Home,Home
+2020-10-18,-974.71,ULine,Office Supplies,Work
+2021-07-23,-739.3,Best Buy,Clothing,Apparel
+2022-08-05,881.41,Walmart,Groceries,Groceries
+2020-12-08,734.37,Best Buy,Clothing,Apparel
+2021-04-03,-484.68,Target,Home,Home
+2020-03-07,-807.55,ULine,Office Supplies,Work
+2022-06-27,-877.66,Amazon,Electronics,Shopping
+2022-04-01,-188.43,ULine,Office Supplies,Work
+2020-09-06,440.65,Best Buy,Clothing,Apparel
+2021-05-22,-61.17,ULine,Office Supplies,Work
+2022-08-06,575.29,Best Buy,Clothing,Apparel
+2021-04-19,535.1,Target,Home,Home
+2022-12-24,763.07,Amazon,Electronics,Shopping
+2022-06-19,-310.87,Best Buy,Clothing,Apparel
+2022-02-05,-148.64,ULine,Office Supplies,Work
+2021-04-11,-232.96,Walmart,Groceries,Groceries
+2020-01-26,-331.71,ULine,Office Supplies,Work
+2021-10-05,864.12,Best Buy,Clothing,Apparel
+2020-02-19,-955.97,ULine,Office Supplies,Work
+2020-05-27,801.07,Target,Home,Home
+2021-06-10,-338.57,Target,Home,Home
+2022-08-01,757.7,Walmart,Groceries,Groceries
+2020-07-20,460.91,Amazon,Electronics,Shopping
+2021-12-22,-759.0,ULine,Office Supplies,Work
+2021-04-06,-377.57,Amazon,Electronics,Shopping
+2021-08-12,-146.01,Amazon,Electronics,Shopping
+2020-04-13,63.37,Amazon,Electronics,Shopping
+2022-10-09,-880.26,Amazon,Electronics,Shopping
+2021-07-15,328.38,Target,Home,Home
+2020-07-28,-683.71,Amazon,Electronics,Shopping
+2020-04-15,999.42,ULine,Office Supplies,Work
+2020-12-06,405.15,Amazon,Electronics,Shopping
+2020-11-12,717.03,Target,Home,Home
+2021-08-06,-564.12,ULine,Office Supplies,Work
+2022-10-18,-140.31,Target,Home,Home
+2021-06-14,-15.28,Best Buy,Clothing,Apparel
+2021-05-05,-925.66,ULine,Office Supplies,Work
+2022-07-19,-387.4,Walmart,Groceries,Groceries
+2021-10-02,215.43,Best Buy,Clothing,Apparel
+2022-05-22,124.99,Target,Home,Home
+2021-08-03,320.89,Target,Home,Home
+2022-01-10,976.75,Walmart,Groceries,Groceries
+2022-10-25,-347.01,Target,Home,Home
+2021-10-04,-346.52,Target,Home,Home
+2021-07-11,-834.3,Target,Home,Home
+2021-02-04,-611.67,Best Buy,Clothing,Apparel
+2022-05-07,915.22,Walmart,Groceries,Groceries
+2021-10-14,-619.64,Target,Home,Home
+2021-12-27,439.04,ULine,Office Supplies,Work
+2020-03-12,-736.46,Target,Home,Home
+2021-05-05,541.04,ULine,Office Supplies,Work
+2022-11-18,-481.92,Amazon,Electronics,Shopping
+2021-10-27,-573.9,Amazon,Electronics,Shopping
+2021-10-22,-954.39,ULine,Office Supplies,Work
+2022-11-18,-643.31,ULine,Office Supplies,Work
+2020-12-10,-547.27,Best Buy,Clothing,Apparel
+2021-07-11,-70.58,Walmart,Groceries,Groceries
+2022-09-03,716.79,Amazon,Electronics,Shopping
+2020-08-13,-403.27,Target,Home,Home
+2022-07-02,669.5,Target,Home,Home
+2022-05-17,38.0,Amazon,Electronics,Shopping
+2022-02-21,475.97,Target,Home,Home
+2022-11-28,196.26,Best Buy,Clothing,Apparel
+2020-08-07,-121.57,Amazon,Electronics,Shopping
+2020-07-20,227.57,Target,Home,Home
+2021-10-01,901.24,Target,Home,Home
+2021-12-04,-322.24,Walmart,Groceries,Groceries
+2021-02-17,-216.43,Target,Home,Home
+2020-06-04,140.76,Best Buy,Clothing,Apparel
+2021-07-16,965.15,Target,Home,Home
+2022-03-03,273.19,Walmart,Groceries,Groceries
+2021-05-24,777.53,ULine,Office Supplies,Work
+2021-07-18,231.8,ULine,Office Supplies,Work
+2022-12-17,-218.93,ULine,Office Supplies,Work
+2020-02-27,-80.73,Walmart,Groceries,Groceries
+2022-07-03,912.96,ULine,Office Supplies,Work
+2021-07-20,128.91,Target,Home,Home
+2022-09-13,773.93,Walmart,Groceries,Groceries
+2020-02-27,5.47,Walmart,Groceries,Groceries
+2021-02-15,206.41,Best Buy,Clothing,Apparel
+2022-04-10,796.31,Amazon,Electronics,Shopping
+2021-03-19,151.04,Amazon,Electronics,Shopping
+2022-02-17,-71.8,Walmart,Groceries,Groceries
+2020-06-14,346.83,Walmart,Groceries,Groceries
+2021-08-17,-231.36,ULine,Office Supplies,Work
+2021-07-04,960.48,ULine,Office Supplies,Work
+2022-11-08,-398.25,Best Buy,Clothing,Apparel
+2020-03-04,373.18,Walmart,Groceries,Groceries
+2022-12-11,577.69,Target,Home,Home
+2022-09-05,-648.55,ULine,Office Supplies,Work
+2022-05-24,-581.71,Walmart,Groceries,Groceries
+2021-03-27,336.61,Best Buy,Clothing,Apparel
+2020-05-07,-453.07,Best Buy,Clothing,Apparel
+2022-07-25,46.01,Target,Home,Home
+2021-03-07,491.23,ULine,Office Supplies,Work
+2020-03-08,-701.24,Amazon,Electronics,Shopping
+2022-05-09,-797.7,Target,Home,Home
+2021-01-05,-47.31,Best Buy,Clothing,Apparel
+2022-03-17,-60.35,Target,Home,Home
+2021-03-07,950.42,ULine,Office Supplies,Work
+2022-04-13,503.86,ULine,Office Supplies,Work
+2021-07-25,652.15,Amazon,Electronics,Shopping
+2022-11-17,-848.71,Amazon,Electronics,Shopping
+2020-06-09,713.21,Target,Home,Home
+2022-02-03,-377.15,Amazon,Electronics,Shopping
+2020-11-16,-693.39,Target,Home,Home
+2020-09-23,-718.87,ULine,Office Supplies,Work
+2022-01-08,-670.18,ULine,Office Supplies,Work
+2020-11-23,-333.9,Amazon,Electronics,Shopping
+2021-09-02,-913.5,Best Buy,Clothing,Apparel
+2022-04-18,-889.8,Best Buy,Clothing,Apparel
+2021-09-25,-388.0,Walmart,Groceries,Groceries
+2021-02-11,-506.21,Walmart,Groceries,Groceries
+2021-07-27,-351.07,Best Buy,Clothing,Apparel
+2022-08-13,-260.91,ULine,Office Supplies,Work
+2021-09-15,-525.53,Amazon,Electronics,Shopping
+2021-08-27,971.94,Walmart,Groceries,Groceries
+2021-09-25,981.93,Amazon,Electronics,Shopping
+2022-05-08,567.34,Amazon,Electronics,Shopping
+2022-04-23,-54.09,ULine,Office Supplies,Work
+2021-09-26,-242.29,Target,Home,Home
+2020-02-17,530.39,Target,Home,Home
+2020-05-05,971.62,ULine,Office Supplies,Work
+2021-11-09,21.5,Best Buy,Clothing,Apparel
+2020-11-08,179.62,Target,Home,Home
+2021-11-21,137.81,Walmart,Groceries,Groceries
+2021-08-23,-33.86,Best Buy,Clothing,Apparel
+2022-07-07,958.63,Walmart,Groceries,Groceries
+2022-07-07,640.5,Walmart,Groceries,Groceries
+2021-11-12,711.6,Amazon,Electronics,Shopping
+2020-03-28,110.67,ULine,Office Supplies,Work
+2021-12-26,761.56,Best Buy,Clothing,Apparel
+2021-02-21,-485.18,Target,Home,Home
+2022-02-07,-991.17,Walmart,Groceries,Groceries
+2021-10-04,-438.73,Best Buy,Clothing,Apparel
+2021-08-06,-852.27,Walmart,Groceries,Groceries
+2021-07-18,686.25,Target,Home,Home
+2021-04-19,-996.57,Amazon,Electronics,Shopping
+2022-03-27,146.91,Amazon,Electronics,Shopping
+2022-02-18,392.22,ULine,Office Supplies,Work
+2020-07-11,-233.4,Best Buy,Clothing,Apparel
+2022-12-03,-815.48,Target,Home,Home
+2021-04-04,158.05,Amazon,Electronics,Shopping
+2020-09-17,946.17,Target,Home,Home
+2022-05-24,464.35,Best Buy,Clothing,Apparel
+2021-11-27,-551.57,Amazon,Electronics,Shopping
+2021-01-19,-452.46,Target,Home,Home
+2021-10-15,-252.37,Walmart,Groceries,Groceries
+2021-06-27,186.13,Walmart,Groceries,Groceries
+2022-06-15,183.35,Amazon,Electronics,Shopping
+2020-09-15,300.16,Target,Home,Home
+2022-12-09,96.79,ULine,Office Supplies,Work
+2020-08-01,-60.48,Best Buy,Clothing,Apparel
+2020-12-10,801.08,ULine,Office Supplies,Work
+2020-05-19,930.74,ULine,Office Supplies,Work
+2020-05-25,-728.88,ULine,Office Supplies,Work
+2022-07-23,-229.92,Target,Home,Home
+2021-01-13,208.12,Target,Home,Home
+2022-07-10,-326.71,ULine,Office Supplies,Work
+2020-08-18,845.4,Target,Home,Home
+2021-01-10,-852.01,Best Buy,Clothing,Apparel
+2020-01-04,978.72,ULine,Office Supplies,Work
+2021-10-25,-146.23,Amazon,Electronics,Shopping
+2021-06-23,509.43,Best Buy,Clothing,Apparel
+2021-08-13,-499.1,Target,Home,Home
+2020-01-26,-399.93,Walmart,Groceries,Groceries
+2020-10-13,84.52,Walmart,Groceries,Groceries
+2020-08-19,-244.96,Best Buy,Clothing,Apparel
+2022-02-04,450.94,ULine,Office Supplies,Work
+2021-10-22,570.66,Amazon,Electronics,Shopping
+2021-12-15,-135.85,Walmart,Groceries,Groceries
+2021-05-07,904.83,Target,Home,Home
+2022-07-11,-274.59,Walmart,Groceries,Groceries
+2020-11-27,-189.56,Walmart,Groceries,Groceries
+2020-04-10,-793.82,Best Buy,Clothing,Apparel
+2021-06-21,755.21,ULine,Office Supplies,Work
+2020-08-21,988.9,ULine,Office Supplies,Work
+2020-12-04,943.36,ULine,Office Supplies,Work
+2021-11-05,646.84,ULine,Office Supplies,Work
+2022-05-02,580.02,Target,Home,Home
+2021-01-04,30.1,ULine,Office Supplies,Work
+2020-01-06,-657.13,Best Buy,Clothing,Apparel
+2020-04-21,608.82,ULine,Office Supplies,Work
+2020-07-01,-660.44,ULine,Office Supplies,Work
+2021-07-10,-178.03,Amazon,Electronics,Shopping
+2020-10-18,-318.33,Target,Home,Home
+2022-03-16,-464.11,Walmart,Groceries,Groceries
+2020-09-21,-599.55,Best Buy,Clothing,Apparel
+2020-07-03,837.97,Target,Home,Home
+2021-02-22,470.3,ULine,Office Supplies,Work
+2022-07-01,409.91,ULine,Office Supplies,Work
+2020-07-01,-476.01,Amazon,Electronics,Shopping
+2021-06-14,-826.27,Walmart,Groceries,Groceries
+2020-01-17,983.66,Best Buy,Clothing,Apparel
+2020-10-18,544.27,Amazon,Electronics,Shopping
+2020-01-03,814.68,ULine,Office Supplies,Work
+2020-01-02,-701.47,Target,Home,Home
+2020-01-13,593.1,Target,Home,Home
+2021-11-26,-474.09,Target,Home,Home
+2021-05-05,777.97,ULine,Office Supplies,Work
+2020-08-09,142.96,Target,Home,Home
+2022-09-20,722.92,ULine,Office Supplies,Work
+2020-02-15,442.18,Amazon,Electronics,Shopping
+2020-04-18,-441.13,Target,Home,Home
+2020-02-05,-667.88,Target,Home,Home
+2022-04-01,-143.15,ULine,Office Supplies,Work
+2020-03-18,359.03,Walmart,Groceries,Groceries
+2021-02-01,-28.22,Walmart,Groceries,Groceries
+2020-11-28,-938.14,Best Buy,Clothing,Apparel
+2020-07-15,-994.23,Target,Home,Home
+2020-11-22,981.92,Amazon,Electronics,Shopping
+2020-10-14,712.09,Walmart,Groceries,Groceries
+2021-01-16,-828.55,ULine,Office Supplies,Work
+2021-01-26,920.04,ULine,Office Supplies,Work
+2020-09-26,-983.58,ULine,Office Supplies,Work
+2022-05-20,717.8,Walmart,Groceries,Groceries
+2020-03-28,-558.34,Amazon,Electronics,Shopping
+2022-07-02,756.47,Best Buy,Clothing,Apparel
+2020-12-19,806.74,ULine,Office Supplies,Work
+2022-05-18,-838.72,Amazon,Electronics,Shopping
+2021-11-12,456.9,Amazon,Electronics,Shopping
+2022-12-08,908.15,Target,Home,Home
+2022-05-23,-645.58,Best Buy,Clothing,Apparel
+2020-02-17,827.65,Amazon,Electronics,Shopping
+2020-07-12,193.56,Target,Home,Home
+2020-08-04,997.31,Amazon,Electronics,Shopping
+2020-06-18,-145.48,ULine,Office Supplies,Work
+2021-11-02,662.12,ULine,Office Supplies,Work
+2021-04-23,-553.48,Walmart,Groceries,Groceries
+2020-05-07,-653.88,ULine,Office Supplies,Work
+2021-12-05,402.71,Walmart,Groceries,Groceries
+2020-06-19,-629.74,Best Buy,Clothing,Apparel
+2021-02-05,-64.31,Walmart,Groceries,Groceries
+2020-07-26,-726.1,Best Buy,Clothing,Apparel
+2020-09-16,-381.98,Best Buy,Clothing,Apparel
+2022-08-26,-266.18,Walmart,Groceries,Groceries
+2022-02-04,287.83,Walmart,Groceries,Groceries
+2021-01-27,-195.98,ULine,Office Supplies,Work
+2021-03-23,-351.64,Target,Home,Home
+2020-08-03,235.46,Walmart,Groceries,Groceries
+2022-06-28,-404.54,Amazon,Electronics,Shopping
+2022-06-08,-898.0,Amazon,Electronics,Shopping
+2020-11-24,375.79,ULine,Office Supplies,Work
+2020-01-18,216.22,Amazon,Electronics,Shopping
+2021-05-06,214.29,Amazon,Electronics,Shopping
+2021-03-05,-825.34,Walmart,Groceries,Groceries
+2020-09-05,462.09,Amazon,Electronics,Shopping
+2021-06-27,441.69,ULine,Office Supplies,Work
+2022-03-20,420.61,Amazon,Electronics,Shopping
+2022-01-06,-91.29,Best Buy,Clothing,Apparel
+2021-12-28,-184.02,Best Buy,Clothing,Apparel
+2021-06-23,-675.59,Amazon,Electronics,Shopping
+2021-11-25,-433.89,Best Buy,Clothing,Apparel
+2021-08-27,519.71,Walmart,Groceries,Groceries
+2021-03-06,-461.86,Target,Home,Home
+2020-04-01,872.17,Target,Home,Home
+2022-02-15,-820.61,Amazon,Electronics,Shopping
+2022-11-23,457.0,Target,Home,Home
+2021-01-04,-229.59,Best Buy,Clothing,Apparel
+2022-03-09,809.29,Amazon,Electronics,Shopping
+2021-02-08,46.73,Walmart,Groceries,Groceries
+2021-01-27,425.65,Best Buy,Clothing,Apparel
+2020-02-18,400.7,Target,Home,Home
+2022-01-06,657.54,Best Buy,Clothing,Apparel
+2020-12-02,-180.24,Amazon,Electronics,Shopping
+2020-07-21,202.45,Best Buy,Clothing,Apparel
+2020-11-09,-679.26,Amazon,Electronics,Shopping
+2021-12-26,-255.3,Target,Home,Home
+2021-08-12,-343.09,Best Buy,Clothing,Apparel
+2022-02-21,-412.25,Walmart,Groceries,Groceries
+2022-05-25,-986.08,Target,Home,Home
+2020-02-21,303.58,ULine,Office Supplies,Work
+2020-10-27,590.33,ULine,Office Supplies,Work
+2020-12-14,-626.51,Best Buy,Clothing,Apparel
+2020-01-16,-299.53,ULine,Office Supplies,Work
+2020-04-16,-787.63,Amazon,Electronics,Shopping
+2022-03-13,798.68,Amazon,Electronics,Shopping
+2022-12-12,347.04,Target,Home,Home
+2022-10-12,-462.3,Target,Home,Home
+2022-07-01,-565.12,Best Buy,Clothing,Apparel
+2020-09-18,799.26,Walmart,Groceries,Groceries
+2022-01-03,-818.37,Amazon,Electronics,Shopping
+2022-09-23,-646.64,Walmart,Groceries,Groceries
+2021-02-24,696.57,Target,Home,Home
+2020-04-18,-961.15,Target,Home,Home
+2022-03-04,-383.53,ULine,Office Supplies,Work
+2020-12-01,641.72,Walmart,Groceries,Groceries
+2020-10-17,376.5,ULine,Office Supplies,Work
+2021-01-17,271.48,Target,Home,Home
+2022-02-16,595.89,Target,Home,Home
+2021-01-16,417.81,Amazon,Electronics,Shopping
+2021-11-19,-30.97,ULine,Office Supplies,Work
+2021-01-05,-799.4,Walmart,Groceries,Groceries
+2022-04-25,170.89,Amazon,Electronics,Shopping
+2021-08-28,-774.1,Amazon,Electronics,Shopping
+2022-05-05,-703.85,ULine,Office Supplies,Work
+2021-06-24,511.12,Best Buy,Clothing,Apparel
+2020-10-21,715.71,ULine,Office Supplies,Work
+2020-09-13,-649.4,Amazon,Electronics,Shopping
+2021-02-21,-45.14,Amazon,Electronics,Shopping
+2022-09-06,-893.35,Target,Home,Home
+2021-06-04,-166.94,Walmart,Groceries,Groceries
+2021-10-06,719.55,ULine,Office Supplies,Work
+2021-04-08,-494.46,ULine,Office Supplies,Work
+2020-07-24,-148.98,Best Buy,Clothing,Apparel
+2021-01-27,-16.79,Walmart,Groceries,Groceries
+2022-02-12,-413.82,Target,Home,Home
+2021-07-02,-133.8,ULine,Office Supplies,Work
+2022-05-26,-111.14,Amazon,Electronics,Shopping
+2020-07-04,-462.02,Amazon,Electronics,Shopping
+2021-12-05,953.31,Walmart,Groceries,Groceries
+2021-01-01,-662.29,Walmart,Groceries,Groceries
+2022-07-13,-829.83,Best Buy,Clothing,Apparel
+2022-02-21,-7.51,Walmart,Groceries,Groceries
+2020-01-28,780.57,Amazon,Electronics,Shopping
+2022-04-11,415.73,ULine,Office Supplies,Work
+2021-05-15,-589.34,Best Buy,Clothing,Apparel
+2021-07-11,11.6,Target,Home,Home
+2021-07-22,-49.28,Target,Home,Home
+2022-04-23,-9.21,Target,Home,Home
+2022-02-06,-132.11,Best Buy,Clothing,Apparel
+2020-05-15,-489.7,ULine,Office Supplies,Work
+2020-10-04,538.19,Walmart,Groceries,Groceries
+2022-02-15,453.23,Best Buy,Clothing,Apparel
+2020-08-06,-623.07,Amazon,Electronics,Shopping
+2020-06-03,-593.52,Amazon,Electronics,Shopping
+2020-02-26,780.63,Target,Home,Home
+2021-06-10,318.5,Target,Home,Home
+2021-10-07,-241.7,ULine,Office Supplies,Work
+2020-05-13,-732.65,Target,Home,Home
+2020-10-13,144.8,Amazon,Electronics,Shopping
+2020-03-15,466.51,Best Buy,Clothing,Apparel
+2020-07-02,268.72,ULine,Office Supplies,Work
+2020-05-06,-932.44,ULine,Office Supplies,Work
+2020-05-10,-854.92,Target,Home,Home
+2022-09-11,383.82,Amazon,Electronics,Shopping
+2022-05-12,-301.01,Walmart,Groceries,Groceries
+2021-05-04,-712.01,Target,Home,Home
+2021-04-20,621.0,Target,Home,Home
+2022-01-13,880.96,ULine,Office Supplies,Work
+2020-05-15,31.25,Target,Home,Home
+2021-11-09,-114.69,Walmart,Groceries,Groceries
+2022-10-15,-128.67,Walmart,Groceries,Groceries
+2022-12-10,-333.3,Walmart,Groceries,Groceries
+2020-04-08,986.54,ULine,Office Supplies,Work
+2020-10-28,-610.85,Amazon,Electronics,Shopping
+2020-11-17,-711.91,Best Buy,Clothing,Apparel
+2022-08-17,-687.97,Amazon,Electronics,Shopping
+2020-06-06,298.8,Walmart,Groceries,Groceries
+2021-02-02,-340.83,ULine,Office Supplies,Work
+2021-03-05,-322.07,Amazon,Electronics,Shopping
+2021-07-13,-839.0,Amazon,Electronics,Shopping
+2022-08-28,-911.94,Walmart,Groceries,Groceries
+2020-05-28,-999.29,Amazon,Electronics,Shopping
+2022-02-05,-619.19,Walmart,Groceries,Groceries
+2021-03-07,372.27,ULine,Office Supplies,Work
+2020-03-22,334.38,Walmart,Groceries,Groceries
+2022-05-17,407.91,Target,Home,Home
+2022-10-26,-507.29,Best Buy,Clothing,Apparel
+2020-09-01,549.64,Walmart,Groceries,Groceries
+2022-01-24,-525.98,ULine,Office Supplies,Work
+2022-11-28,873.01,Best Buy,Clothing,Apparel
+2020-05-10,318.81,Amazon,Electronics,Shopping
+2021-03-25,-402.51,ULine,Office Supplies,Work
+2020-06-09,500.14,Amazon,Electronics,Shopping
+2021-11-04,-623.51,Best Buy,Clothing,Apparel
+2021-07-11,366.23,Best Buy,Clothing,Apparel
+2021-11-02,-176.08,Best Buy,Clothing,Apparel
+2020-01-02,-58.18,ULine,Office Supplies,Work
+2021-12-25,-670.15,Best Buy,Clothing,Apparel
+2022-11-09,306.04,Best Buy,Clothing,Apparel
+2020-11-08,-30.07,Walmart,Groceries,Groceries
+2022-07-09,-262.47,Best Buy,Clothing,Apparel
+2021-02-21,-191.4,Amazon,Electronics,Shopping
+2022-11-02,-905.4,Walmart,Groceries,Groceries
+2020-05-19,-668.89,Target,Home,Home
+2020-03-14,934.28,Amazon,Electronics,Shopping
+2021-11-17,-606.96,Amazon,Electronics,Shopping
+2020-10-17,709.99,Walmart,Groceries,Groceries
+2022-02-02,880.6,Amazon,Electronics,Shopping
+2022-12-09,-929.52,Amazon,Electronics,Shopping
+2021-11-16,157.35,Best Buy,Clothing,Apparel
+2020-08-27,-951.9,Walmart,Groceries,Groceries
+2020-09-21,842.81,Target,Home,Home
+2021-02-12,-506.93,Target,Home,Home
+2020-10-12,112.76,Best Buy,Clothing,Apparel
+2022-08-07,183.53,ULine,Office Supplies,Work
+2022-09-14,-876.54,ULine,Office Supplies,Work
+2022-09-02,-809.07,Target,Home,Home
+2020-08-09,-208.44,Amazon,Electronics,Shopping
+2021-08-08,-335.54,ULine,Office Supplies,Work
+2020-11-18,348.04,Walmart,Groceries,Groceries
+2020-06-21,-77.45,Walmart,Groceries,Groceries
+2021-04-24,337.91,Best Buy,Clothing,Apparel
+2020-08-02,569.41,Amazon,Electronics,Shopping
+2021-09-03,-324.52,Amazon,Electronics,Shopping
+2022-10-16,-541.46,Target,Home,Home
+2020-05-21,17.4,Best Buy,Clothing,Apparel
+2022-09-26,-44.11,Target,Home,Home
+2022-07-02,-909.23,Target,Home,Home
+2021-03-19,304.44,ULine,Office Supplies,Work
+2020-09-16,-289.44,ULine,Office Supplies,Work
+2022-03-11,925.9,Target,Home,Home
+2022-05-23,750.03,Target,Home,Home
+2020-05-05,-437.12,Walmart,Groceries,Groceries
+2020-02-16,517.57,Best Buy,Clothing,Apparel
+2022-10-19,530.74,Best Buy,Clothing,Apparel
+2021-05-23,720.87,Target,Home,Home
+2020-11-04,916.57,ULine,Office Supplies,Work
+2022-06-17,75.09,Amazon,Electronics,Shopping
+2022-06-10,-389.56,Amazon,Electronics,Shopping
+2022-12-20,-643.75,Amazon,Electronics,Shopping
+2020-12-14,770.5,ULine,Office Supplies,Work
+2022-06-16,73.06,Amazon,Electronics,Shopping
+2022-10-19,-461.29,Target,Home,Home
+2022-12-26,-401.88,Target,Home,Home
+2020-03-17,-307.89,ULine,Office Supplies,Work
+2021-10-21,262.77,Amazon,Electronics,Shopping
+2020-12-09,-404.75,Best Buy,Clothing,Apparel
+2020-08-11,-923.09,Amazon,Electronics,Shopping
+2021-11-14,270.13,Best Buy,Clothing,Apparel
+2020-03-23,-63.97,Walmart,Groceries,Groceries
+2020-07-14,797.8,Target,Home,Home
+2022-09-24,-932.49,Amazon,Electronics,Shopping
+2020-03-14,990.97,Walmart,Groceries,Groceries
+2022-10-21,344.08,Amazon,Electronics,Shopping
+2020-02-11,-409.09,Amazon,Electronics,Shopping
+2020-08-10,-744.87,Target,Home,Home
+2021-12-13,964.63,Target,Home,Home
+2021-03-04,424.64,ULine,Office Supplies,Work
+2020-04-05,-546.67,Amazon,Electronics,Shopping
+2022-06-11,264.57,Target,Home,Home
+2020-02-05,-380.78,Best Buy,Clothing,Apparel
+2022-07-02,-314.25,ULine,Office Supplies,Work
+2020-02-28,-591.21,Amazon,Electronics,Shopping
+2022-09-26,-920.82,Amazon,Electronics,Shopping
+2021-07-15,-160.38,Best Buy,Clothing,Apparel
+2021-01-18,717.73,ULine,Office Supplies,Work
+2022-09-21,-9.25,Target,Home,Home
+2022-03-04,377.36,Amazon,Electronics,Shopping
+2022-02-24,-256.59,Target,Home,Home
+2022-01-19,355.45,Best Buy,Clothing,Apparel
+2020-09-20,633.97,Amazon,Electronics,Shopping
+2021-04-20,659.45,Amazon,Electronics,Shopping
+2020-08-15,882.63,Walmart,Groceries,Groceries
+2020-03-10,483.36,Amazon,Electronics,Shopping
+2020-02-26,-623.42,Target,Home,Home
+2022-12-07,-173.17,Target,Home,Home
+2022-02-19,782.61,Amazon,Electronics,Shopping
+2022-05-07,-476.71,Target,Home,Home
+2021-12-28,930.84,ULine,Office Supplies,Work
+2022-02-11,-374.03,Amazon,Electronics,Shopping
+2022-03-06,-713.22,Best Buy,Clothing,Apparel
+2021-11-18,-493.77,Target,Home,Home
+2021-09-16,-829.97,Target,Home,Home
+2021-10-27,154.85,Target,Home,Home
+2022-04-28,-379.09,Target,Home,Home
+2020-11-16,-604.65,Target,Home,Home
+2022-05-04,-801.53,Amazon,Electronics,Shopping
+2020-08-09,743.18,Amazon,Electronics,Shopping
+2021-06-03,688.4,Walmart,Groceries,Groceries
+2020-01-14,762.15,Best Buy,Clothing,Apparel
+2020-12-07,-546.88,ULine,Office Supplies,Work
+2021-04-27,-219.73,Target,Home,Home
+2021-07-19,-272.35,Amazon,Electronics,Shopping
+2020-10-21,-896.82,ULine,Office Supplies,Work
+2021-10-01,336.38,ULine,Office Supplies,Work
+2022-06-13,966.8,ULine,Office Supplies,Work
+2020-12-17,658.8,Target,Home,Home
+2020-08-05,-402.09,Walmart,Groceries,Groceries
+2020-12-03,-54.57,Amazon,Electronics,Shopping
+2020-04-11,-161.3,ULine,Office Supplies,Work
+2021-10-11,833.95,Walmart,Groceries,Groceries
+2022-10-03,974.36,ULine,Office Supplies,Work
+2021-06-01,-340.14,Best Buy,Clothing,Apparel
+2020-01-07,529.33,ULine,Office Supplies,Work
+2020-07-12,128.79,ULine,Office Supplies,Work
+2022-02-19,-489.81,Walmart,Groceries,Groceries
+2020-04-08,-249.65,Walmart,Groceries,Groceries
+2022-02-28,463.1,Walmart,Groceries,Groceries
+2021-03-05,-312.91,Best Buy,Clothing,Apparel
+2022-04-26,491.36,Amazon,Electronics,Shopping
+2020-05-01,474.87,Target,Home,Home
+2021-07-18,-305.9,Best Buy,Clothing,Apparel
+2020-08-03,-224.13,Walmart,Groceries,Groceries
+2020-01-14,967.65,Walmart,Groceries,Groceries
+2022-06-17,-128.41,Amazon,Electronics,Shopping
+2022-11-16,-838.31,Walmart,Groceries,Groceries
+2022-04-23,997.11,Best Buy,Clothing,Apparel
+2021-01-12,-994.78,Target,Home,Home
+2020-05-18,-724.24,Amazon,Electronics,Shopping
+2020-04-08,-815.7,Amazon,Electronics,Shopping
+2020-11-02,-433.66,Walmart,Groceries,Groceries
+2020-03-11,845.65,Walmart,Groceries,Groceries
+2022-02-13,971.53,Walmart,Groceries,Groceries
+2020-12-22,332.3,Best Buy,Clothing,Apparel
+2022-02-08,723.02,Walmart,Groceries,Groceries
+2021-04-28,713.9,Target,Home,Home
+2022-08-25,-716.69,Best Buy,Clothing,Apparel
+2020-10-24,863.5,ULine,Office Supplies,Work
+2022-08-17,-596.4,Best Buy,Clothing,Apparel
+2022-11-12,-887.08,Walmart,Groceries,Groceries
+2020-03-03,-351.57,Target,Home,Home
+2022-03-21,-67.42,Walmart,Groceries,Groceries
+2022-02-23,255.19,ULine,Office Supplies,Work
+2020-09-20,62.13,Best Buy,Clothing,Apparel
+2020-03-22,-767.77,ULine,Office Supplies,Work
+2022-08-14,-81.05,Amazon,Electronics,Shopping
+2020-05-12,-30.67,Walmart,Groceries,Groceries
+2020-08-05,-453.17,Target,Home,Home
+2022-10-24,-413.98,Amazon,Electronics,Shopping
+2022-12-19,947.51,Best Buy,Clothing,Apparel
+2020-12-21,330.06,Amazon,Electronics,Shopping
+2022-07-03,532.33,Amazon,Electronics,Shopping
+2021-11-04,710.61,ULine,Office Supplies,Work
+2021-11-19,462.02,Walmart,Groceries,Groceries
+2020-10-01,8.79,Walmart,Groceries,Groceries
+2022-11-20,631.08,Amazon,Electronics,Shopping
+2022-12-06,-794.09,Walmart,Groceries,Groceries
+2020-04-22,-85.34,Amazon,Electronics,Shopping
+2020-05-14,-16.64,Amazon,Electronics,Shopping
+2020-04-27,-215.13,Amazon,Electronics,Shopping
+2021-06-12,-15.14,Amazon,Electronics,Shopping
+2020-08-24,252.68,Amazon,Electronics,Shopping
+2021-09-18,-804.21,ULine,Office Supplies,Work
+2021-12-01,-489.12,Amazon,Electronics,Shopping
+2022-04-13,-224.57,Target,Home,Home
+2022-12-01,-384.18,ULine,Office Supplies,Work
+2021-03-17,858.3,Walmart,Groceries,Groceries
+2021-12-24,-623.28,ULine,Office Supplies,Work
+2022-12-09,-997.74,Amazon,Electronics,Shopping
+2020-08-22,379.55,Walmart,Groceries,Groceries
+2020-11-16,954.96,Walmart,Groceries,Groceries
+2020-04-21,125.25,ULine,Office Supplies,Work
+2022-11-02,-54.4,Best Buy,Clothing,Apparel
+2022-04-10,-913.39,ULine,Office Supplies,Work
+2021-12-07,-887.91,Amazon,Electronics,Shopping
+2020-08-27,-967.65,Walmart,Groceries,Groceries
+2022-09-03,-923.85,Amazon,Electronics,Shopping
+2022-11-14,-764.95,Walmart,Groceries,Groceries
+2021-06-25,-388.79,Amazon,Electronics,Shopping
+2022-11-24,-925.1,Walmart,Groceries,Groceries
+2021-01-01,-11.2,Best Buy,Clothing,Apparel
+2021-02-02,-717.94,Walmart,Groceries,Groceries
+2021-10-11,108.03,Target,Home,Home
+2021-01-23,-776.12,Amazon,Electronics,Shopping
+2021-05-17,-568.63,Best Buy,Clothing,Apparel
+2021-01-14,886.61,Walmart,Groceries,Groceries
+2020-09-20,-350.78,Target,Home,Home
+2020-09-24,-837.88,Best Buy,Clothing,Apparel
+2021-08-10,-90.54,Target,Home,Home
+2021-09-09,75.75,ULine,Office Supplies,Work
+2021-06-05,-357.97,Target,Home,Home
+2021-11-19,-562.82,Target,Home,Home
+2020-03-01,-195.28,Best Buy,Clothing,Apparel
+2022-12-01,925.43,ULine,Office Supplies,Work
+2021-10-22,230.92,Best Buy,Clothing,Apparel
+2021-10-13,297.99,Best Buy,Clothing,Apparel
+2021-02-02,-80.28,Amazon,Electronics,Shopping
+2020-08-09,-786.47,ULine,Office Supplies,Work
+2021-04-02,10.34,Amazon,Electronics,Shopping
+2020-05-02,-637.71,Best Buy,Clothing,Apparel
+2022-07-28,624.62,ULine,Office Supplies,Work
+2022-11-15,820.81,Amazon,Electronics,Shopping
+2021-11-19,469.38,Target,Home,Home
+2022-11-26,-681.87,Amazon,Electronics,Shopping
+2021-12-11,829.44,ULine,Office Supplies,Work
+2020-09-07,-966.83,Best Buy,Clothing,Apparel
+2020-01-24,849.49,ULine,Office Supplies,Work
+2021-12-16,85.67,Amazon,Electronics,Shopping
+2020-05-03,857.16,Target,Home,Home
+2020-09-02,-332.2,ULine,Office Supplies,Work
+2020-10-20,462.56,Target,Home,Home
+2021-12-03,-749.73,Amazon,Electronics,Shopping
+2021-12-18,807.8,ULine,Office Supplies,Work
+2020-04-14,-802.11,ULine,Office Supplies,Work
+2021-03-14,-620.91,ULine,Office Supplies,Work
+2021-11-22,-899.31,ULine,Office Supplies,Work
+2022-03-03,-915.75,Best Buy,Clothing,Apparel
+2021-11-19,-195.34,ULine,Office Supplies,Work
+2020-02-21,305.64,ULine,Office Supplies,Work
+2021-04-11,-195.28,ULine,Office Supplies,Work
+2021-12-14,-946.39,ULine,Office Supplies,Work
+2022-03-08,-551.97,Target,Home,Home
+2020-03-22,-715.05,Target,Home,Home
+2020-08-27,-846.52,Walmart,Groceries,Groceries
+2021-03-07,-815.54,ULine,Office Supplies,Work
+2021-08-22,605.34,ULine,Office Supplies,Work
+2020-11-25,130.33,Best Buy,Clothing,Apparel
+2022-05-26,303.34,Best Buy,Clothing,Apparel
+2021-06-28,-638.53,ULine,Office Supplies,Work
+2022-03-21,131.57,Walmart,Groceries,Groceries
+2021-10-07,-783.4,Walmart,Groceries,Groceries
+2021-12-20,149.51,ULine,Office Supplies,Work
+2020-05-22,-419.53,Target,Home,Home
+2021-05-10,611.25,Best Buy,Clothing,Apparel
+2020-09-02,157.7,Target,Home,Home
+2020-11-10,-565.53,Best Buy,Clothing,Apparel
+2020-03-13,-715.4,Target,Home,Home
+2022-08-09,556.66,Amazon,Electronics,Shopping
+2021-03-23,-229.42,Amazon,Electronics,Shopping
+2022-07-18,587.91,Target,Home,Home
+2020-01-05,-468.68,Best Buy,Clothing,Apparel
+2020-09-25,679.6,Walmart,Groceries,Groceries
+2022-11-27,655.7,Best Buy,Clothing,Apparel
+2020-11-21,548.9,Best Buy,Clothing,Apparel
+2021-08-18,123.06,ULine,Office Supplies,Work
+2021-01-08,996.74,Amazon,Electronics,Shopping
+2021-01-20,-683.73,Walmart,Groceries,Groceries
+2021-09-25,233.37,Walmart,Groceries,Groceries
+2020-11-20,-928.54,Walmart,Groceries,Groceries
+2021-06-11,619.51,ULine,Office Supplies,Work
+2020-07-02,-603.62,Target,Home,Home
+2020-11-17,419.45,Target,Home,Home
+2021-02-18,600.65,ULine,Office Supplies,Work
+2021-02-05,655.39,Best Buy,Clothing,Apparel
+2020-05-01,728.96,Walmart,Groceries,Groceries
+2020-04-09,209.83,Amazon,Electronics,Shopping
+2021-09-15,-911.35,Best Buy,Clothing,Apparel
+2020-07-10,-306.02,Best Buy,Clothing,Apparel
+2021-09-19,-857.85,Target,Home,Home
+2022-04-28,-919.71,Amazon,Electronics,Shopping
+2020-07-06,-245.5,Best Buy,Clothing,Apparel
+2022-09-09,826.23,Target,Home,Home
+2022-01-01,934.94,ULine,Office Supplies,Work
+2022-01-09,684.76,Target,Home,Home
+2020-03-26,285.75,Amazon,Electronics,Shopping
+2020-09-13,41.69,Amazon,Electronics,Shopping
+2022-01-01,881.97,Target,Home,Home
+2021-03-02,161.43,ULine,Office Supplies,Work
+2020-01-11,-40.87,Best Buy,Clothing,Apparel
+2020-06-20,-179.16,Walmart,Groceries,Groceries
+2021-10-28,259.91,Walmart,Groceries,Groceries
+2022-03-24,409.31,Walmart,Groceries,Groceries
+2021-01-05,-852.59,Target,Home,Home
+2020-11-05,-561.9,ULine,Office Supplies,Work
+2021-02-16,-202.28,ULine,Office Supplies,Work
+2022-08-19,856.23,Walmart,Groceries,Groceries
+2022-08-23,-361.9,Walmart,Groceries,Groceries
+2022-06-23,157.84,ULine,Office Supplies,Work
+2020-01-08,-135.29,Amazon,Electronics,Shopping
+2020-06-04,-206.15,Best Buy,Clothing,Apparel
+2020-11-18,649.48,Amazon,Electronics,Shopping
+2021-05-11,-518.68,Amazon,Electronics,Shopping
+2022-04-13,215.69,Target,Home,Home
+2020-12-04,-474.77,Walmart,Groceries,Groceries
+2022-12-08,-711.52,Amazon,Electronics,Shopping
+2022-12-07,999.85,ULine,Office Supplies,Work
+2020-07-18,585.41,ULine,Office Supplies,Work
+2021-08-12,-562.75,Amazon,Electronics,Shopping
+2020-12-10,-572.2,Walmart,Groceries,Groceries
+2021-02-10,677.9,Target,Home,Home
+2022-03-28,208.13,Target,Home,Home
+2020-10-18,433.0,Amazon,Electronics,Shopping
+2020-02-21,-799.47,Best Buy,Clothing,Apparel
+2021-07-19,427.03,Walmart,Groceries,Groceries
+2021-11-16,-813.88,Amazon,Electronics,Shopping
+2021-11-25,-541.9,Amazon,Electronics,Shopping
+2022-07-17,-452.92,Amazon,Electronics,Shopping
+2021-04-09,-127.98,Best Buy,Clothing,Apparel
+2021-05-07,495.93,ULine,Office Supplies,Work
+2020-08-19,-195.08,Walmart,Groceries,Groceries
+2022-03-27,-768.87,ULine,Office Supplies,Work
+2021-09-27,971.67,Best Buy,Clothing,Apparel
+2020-09-07,-183.13,Best Buy,Clothing,Apparel
+2020-11-22,-975.08,ULine,Office Supplies,Work
+2021-02-11,-618.43,Walmart,Groceries,Groceries
+2020-05-03,-233.83,Amazon,Electronics,Shopping
+2022-04-26,-115.79,Target,Home,Home
+2021-08-15,109.24,Best Buy,Clothing,Apparel
+2022-11-04,-232.74,Walmart,Groceries,Groceries
+2021-08-26,-99.98,Amazon,Electronics,Shopping
+2021-12-14,68.19,Target,Home,Home
+2022-07-24,754.5,Amazon,Electronics,Shopping
+2020-09-23,-288.86,Amazon,Electronics,Shopping
+2021-03-10,66.85,Walmart,Groceries,Groceries
+2022-10-23,445.39,ULine,Office Supplies,Work
+2020-09-13,-407.3,Target,Home,Home
+2021-04-19,984.98,Amazon,Electronics,Shopping
+2020-01-17,382.06,Best Buy,Clothing,Apparel
+2020-08-01,-18.03,Target,Home,Home
+2020-01-16,-736.41,ULine,Office Supplies,Work
+2022-02-19,-83.07,Walmart,Groceries,Groceries
+2021-03-12,-739.28,Target,Home,Home
+2022-09-07,771.47,Walmart,Groceries,Groceries
+2021-04-03,-305.72,Walmart,Groceries,Groceries

@@ -1,5 +1,8 @@
 package org.yup.ml;
 
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.time.LocalDate;
 import java.time.YearMonth;
 import java.time.ZoneId;
@@ -54,6 +57,18 @@ public class Reports {
         System.out.println("---------------------------------------------------");
         for (LedgerEntry entry : entries) {
             System.out.println(String.format("%tF\t%s\t%s\t%.2f", entry.getDate(), entry.getDescription(), entry.getVendor(), entry.getAmount()));
+        }
+    }
+
+    public void saveReport(List<LedgerEntry> entries, String fileName) {
+        try(PrintWriter writer = new PrintWriter(new FileWriter(fileName))) {
+            writer.println("Date,Description,Vendor,Amount");
+            for (LedgerEntry entry : entries) {
+                writer.printf("%tF,%s,%s,%.2f%n", entry.getDate(), entry.getDescription(), entry.getVendor(), entry.getAmount());
+            }
+            System.out.println("Report saved to " + fileName);
+        } catch (IOException e) {
+            System.out.println("Error saving report to file: " + e.getMessage());
         }
     }
 
