@@ -3,12 +3,14 @@ package org.yup.ml;
 
 import weka.classifiers.Evaluation;
 import weka.classifiers.bayes.NaiveBayes;
-import weka.core.Instances;
-import weka.core.SerializationHelper;
+import weka.core.*;
 import weka.core.converters.CSVLoader;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 public class TransactionClassifier {
 
@@ -64,6 +66,51 @@ public class TransactionClassifier {
 
     private void saveClassifier(NaiveBayes classifier, String classifierPath) throws Exception {
         SerializationHelper.write(classifierPath, classifier);
+    }
+
+    public Instances prepareInputData(String category) {
+        // Create a new dataset with the same structure as your training data
+        Instances inputData = new Instances("inputData", createAttributes(), 1);
+        inputData.setClassIndex(inputData.numAttributes() - 1);
+
+        // Create a new instance with the input data
+        Instance instance = new DenseInstance(inputData.numAttributes());
+        instance.setValue(inputData.attribute("category"), category);
+        // Set other attributes if needed (e.g., date, amount, etc.)
+
+        // Add the instance to the dataset
+        inputData.add(instance);
+
+        return inputData;
+    }
+
+    public double predictOverspendingLikelihood(Instances inputData, String classifierPath) {
+        try {
+            // Load the trained classifier
+            NaiveBayes classifier = (NaiveBayes) SerializationHelper.read(classifierPath);
+
+            // Predict the class value (overspending likelihood) for the input data
+            double prediction = classifier.classifyInstance(inputData.firstInstance());
+
+            return prediction;
+        } catch (Exception e) {
+            e.printStackTrace();
+            return -1;
+        }
+    }
+
+    private ArrayList<Attribute> createAttributes() {
+        ArrayList<Attribute> attributes = new ArrayList<>();
+
+        // Add attributes according to your dataset structure
+        attributes.add(new Attribute("category", (List<String>) null));
+        // Add other attributes if needed (e.g., date, amount, etc.)
+
+        // Add the class attribute (overspending likelihood)
+        ArrayList<String> classValues = new ArrayList<>(Arrays.asList("0", "1"));
+        attributes.add(new Attribute("overspending", classValues));
+
+        return attributes;
     }
 }
 
