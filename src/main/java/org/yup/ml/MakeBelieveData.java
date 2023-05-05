@@ -103,6 +103,6 @@ public class MakeBelieveData {
     // Magic pt.2
     public void trainAndEvaluate() {
         TransactionClassifier transactionClassifier = new TransactionClassifier();
-        transactionClassifier.trainAndEvaluateClassifier("transaction.csv", "trained_classifier1.model");
+        transactionClassifier.trainAndEvaluateClassifier("transaction.csv", "trained_classifier.model");
     }
 }

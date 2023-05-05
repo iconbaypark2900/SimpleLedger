@@ -14,6 +14,7 @@ import java.util.List;
 
 public class TransactionClassifier {
 
+    // Train and evaluate a classifier using the dataset provided in the given path
     public void trainAndEvaluateClassifier(String datasetPath, String classifierPath) {
         try {
             // Load the dataset from a CSV file
@@ -37,6 +38,7 @@ public class TransactionClassifier {
         }
     }
 
+    // Load the dataset from the csv file
     private Instances loadDataset(String datasetPath) throws IOException {
         CSVLoader loader = new CSVLoader();
         loader.setSource(new File(datasetPath));
@@ -44,6 +46,7 @@ public class TransactionClassifier {
         return data;
     }
 
+    // Split the dataset into training and testing sets based on the given %
     private Instances[] splitDataset(Instances data, int trainPercentage) {
         int trainSize = (int) Math.round(data.numInstances() * trainPercentage / 100);
         int testSize = data.numInstances() - trainSize;
@@ -52,22 +55,26 @@ public class TransactionClassifier {
         return new Instances[]{trainData, testData};
     }
 
+    // Train a naive Bayes classifier using the provided training data
     private NaiveBayes trainClassifier(Instances trainData) throws Exception {
         NaiveBayes classifier = new NaiveBayes();
         classifier.buildClassifier(trainData);
         return classifier;
     }
 
+    // Evaluate the classifier's performance using the provided test data
     private void evaluateClassifier(NaiveBayes classifier, Instances testData) throws Exception {
         Evaluation eval = new Evaluation(testData);
         eval.evaluateModel(classifier, testData);
         System.out.println(eval.toSummaryString());
     }
 
+    // Save the trained classifier to a file
     private void saveClassifier(NaiveBayes classifier, String classifierPath) throws Exception {
         SerializationHelper.write(classifierPath, classifier);
     }
 
+    // Prepare the input data for prediction
     public Instances prepareInputData(String category) {
         // Create a new dataset with the same structure as your training data
         Instances inputData = new Instances("inputData", createAttributes(), 1);
@@ -84,6 +91,7 @@ public class TransactionClassifier {
         return inputData;
     }
 
+    // Predict the overspending likelihood using the trained classifier and input data
     public double predictOverspendingLikelihood(Instances inputData, String classifierPath) {
         try {
             // Load the trained classifier
@@ -99,6 +107,7 @@ public class TransactionClassifier {
         }
     }
 
+    // Create the attributes for the dataset
     private ArrayList<Attribute> createAttributes() {
         ArrayList<Attribute> attributes = new ArrayList<>();
 
